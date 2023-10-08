@@ -1,0 +1,17 @@
+SOURCE_PATH =  ./src/
+OUTPUT_PATH =  ./object/
+
+#-march=native
+
+opt = O2
+CC = gcc
+CFLAG = -Wall -g -$(opt)
+
+TASK1=Benchmark_asb
+
+clean:
+        clear
+
+$(TASK1).o: $(SOURCE_PATH)/$(TASK1).c
+	$(CC) $(CFLAG) $< -o $@
+	mv $@ $(OUTPUT_PATH)/$@
