@@ -6,7 +6,7 @@
 
 #define N_BYTE_OF_DOUBLE 8
 #define N_BYTE_OF_HEAP 5
-#define VS2022_DEBUG 1
+//#define VS2022_DEBUG 1
 #define HOW_MANY_DISTANCE 3464
 #define N_DATA_INPUT 100000
 
@@ -16,6 +16,7 @@
 
 #else
 #define PATH_INPUT "/home/hpcuser053/test_data/cells_1e5"
+#define PATH_OUTPUT "/home/hpcuser053/work/High_performance_computing/OpenMP/sim/output.txt"
 
 #endif // VS2022_DEBUG
 
@@ -77,10 +78,10 @@ int main() {
   //calculate
   //----------------------------------
   start[2] = omp_get_wtime();
-  omp_set_num_threads(5);
+  omp_set_num_threads(100);
   int distance;
 #ifndef VS2022_DEBUG
-#pragma omp parallel for collapse(2) reduction(+:cnt_d[:N_DATA_INPUT],distance)
+#pragma omp parallel for collapse(2) reduction(+:cnt_d[:3464])
 #endif //VS2022_DEBUG
   for (int ix=0; ix < N_DATA_INPUT - 1; ix ++) {
     for (int jx = ix + 1; jx < N_DATA_INPUT; jx++) {
@@ -129,9 +130,9 @@ int main() {
   }
 
 
- /* for (int ixx = 0; ixx < HOW_MANY_DISTANCE; ixx++) {
+ for (int ixx = 0; ixx < HOW_MANY_DISTANCE; ixx++) {
     printf("disdance : %lf,     cnt: %d\n", OUT[ixx], cnt_d[ixx]);
-  }*/
+  }
 
   //----------------------------------  //----------------------------------
 
