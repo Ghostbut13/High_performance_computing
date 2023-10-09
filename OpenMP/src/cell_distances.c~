@@ -8,21 +8,36 @@
 #define N_BYTE_OF_HEAP 5
 //#define VS2022_DEBUG 1
 #define HOW_MANY_DISTANCE 3464
-#define N_DATA_INPUT 100000
+//#define N_DATA_INPUT 10000
 
 #ifdef VS2022_DEBUG
 #define PATH_INPUT "E:/cpp/github_repository/High_performance_computing/OpenMP/sim/input_1e5.txt"
 #define PATH_OUTPUT "E:/cpp/github_repository/High_performance_computing/OpenMP/sim/output.txt"
 
 #else
-#define PATH_INPUT "/home/hpcuser053/test_data/cells_1e5"
+//#define PATH_INPUT "/home/hpcuser053/test_data/cells_1e4"
+//#define PATH_INPUT "/home/hpcuser053/work/High_performance_computing/OpenMP/sim/input.txt"
+#define PATH_INPUT "cells"
 #define PATH_OUTPUT "/home/hpcuser053/work/High_performance_computing/OpenMP/sim/output.txt"
 
 #endif // VS2022_DEBUG
 
 
-int main() {
+int main(int argc, char * argv[]) {
 
+  
+  FILE* FP = fopen("cells", "r+");
+  if (FP == NULL) {
+    printf("No Such File !! ");
+    return 0;
+  }
+  
+  int N_DATA_INPUT,c;
+  while((c = fgetc(FP))!=EOF){
+    if(c=='\n')
+      N_DATA_INPUT++;
+  }
+  
   double start[3], end[3], timee[3];
   double* ThreeD = (double*)malloc(N_DATA_INPUT * 3 * sizeof(double));
   double** as = (double**)malloc(N_DATA_INPUT * sizeof(double*));
@@ -50,15 +65,6 @@ int main() {
 
 
   
-  FILE* FP = fopen(PATH_INPUT, "r+");
-  if (FP == NULL) {
-    printf("No Such File !! ");
-    system("pause");
-    free(as);
-    free(ThreeD);
-    return 0;
-  }
-  
   //parse file
   //----------------------------------
   start[1] = omp_get_wtime();
@@ -77,8 +83,12 @@ int main() {
   
   //calculate
   //----------------------------------
+  int threads_num;
+  if(sscanf(argv[1],"%*[^0-9]%d",&threads_num)==1){
+    printf("aaaaaaa\n");
+  }
   start[2] = omp_get_wtime();
-  omp_set_num_threads(100);
+  omp_set_num_threads(threads_num);
   int distance;
 #ifndef VS2022_DEBUG
 #pragma omp parallel for collapse(2) reduction(+:cnt_d[:3464])
@@ -123,27 +133,29 @@ int main() {
 /*   timee[2] = end[2] - start[2]; */
 /*   //----------------------------------  //---------------------------------- */
   
-  FILE* out_FP = fopen(PATH_OUTPUT, "w");
-  if (out_FP != NULL) {
-      for (int ixx = 0; ixx < HOW_MANY_DISTANCE; ixx++)
-          fprintf(out_FP, "disdance : %lf,     cnt: %d\n", OUT[ixx], cnt_d[ixx]);
-  }
+  /* FILE* out_FP = fopen(PATH_OUTPUT, "w"); */
+ /*  if (out_FP != NULL) { */
+ /*    for (int ixx = 0; ixx < HOW_MANY_DISTANCE; ixx++){ */
+ /*      if(cnt_d[ixx]!=0) */
+ /* 	fprintf(out_FP, "disdance : %lf,     cnt: %d\n", OUT[ixx], cnt_d[ixx]); */
+ /*    } */
+ /*  } */
 
 
- for (int ixx = 0; ixx < HOW_MANY_DISTANCE; ixx++) {
-    printf("disdance : %lf,     cnt: %d\n", OUT[ixx], cnt_d[ixx]);
-  }
+ /* for (int ixx = 0; ixx < HOW_MANY_DISTANCE; ixx++) { */
+ /*    printf("disdance : %lf,     cnt: %d\n", OUT[ixx], cnt_d[ixx]); */
+ /*  } */
 
   //----------------------------------  //----------------------------------
 
   
   //checking and dirtywork
-  printf("%s\n", PATH_INPUT);
+  //printf("%s\n", PATH_INPUT);
   printf("heap manage: %lf     ,parse file: %lf,    calculate : %lf      all: %lf\n", timee[0], timee[1], timee[2], timee[0] + timee[1] + timee[2]);
   free(as);
   free(ThreeD);
   fclose(FP);
-  fclose(out_FP);
+  //fclose(out_FP);
 #ifdef VS2022_DEBUG
   system("pause");
 #endif

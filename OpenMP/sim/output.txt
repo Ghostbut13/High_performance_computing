@@ -1,3464 +1,3464 @@
-disdance : 0.000000,     cnt: 0
-disdance : 0.010000,     cnt: 3
-disdance : 0.020000,     cnt: 3
-disdance : 0.030000,     cnt: 12
-disdance : 0.040000,     cnt: 17
-disdance : 0.050000,     cnt: 29
-disdance : 0.060000,     cnt: 48
-disdance : 0.070000,     cnt: 44
-disdance : 0.080000,     cnt: 77
-disdance : 0.090000,     cnt: 81
-disdance : 0.100000,     cnt: 127
-disdance : 0.110000,     cnt: 161
-disdance : 0.120000,     cnt: 157
-disdance : 0.130000,     cnt: 194
-disdance : 0.140000,     cnt: 219
-disdance : 0.150000,     cnt: 288
-disdance : 0.160000,     cnt: 303
-disdance : 0.170000,     cnt: 315
-disdance : 0.180000,     cnt: 402
-disdance : 0.190000,     cnt: 400
-disdance : 0.200000,     cnt: 428
-disdance : 0.210000,     cnt: 511
-disdance : 0.220000,     cnt: 588
-disdance : 0.230000,     cnt: 568
-disdance : 0.240000,     cnt: 646
-disdance : 0.250000,     cnt: 713
-disdance : 0.260000,     cnt: 784
-disdance : 0.270000,     cnt: 879
-disdance : 0.280000,     cnt: 937
-disdance : 0.290000,     cnt: 967
-disdance : 0.300000,     cnt: 972
-disdance : 0.310000,     cnt: 1075
-disdance : 0.320000,     cnt: 1211
-disdance : 0.330000,     cnt: 1267
-disdance : 0.340000,     cnt: 1268
-disdance : 0.350000,     cnt: 1306
-disdance : 0.360000,     cnt: 1409
-disdance : 0.370000,     cnt: 1516
-disdance : 0.380000,     cnt: 1652
-disdance : 0.390000,     cnt: 1683
-disdance : 0.400000,     cnt: 1802
-disdance : 0.410000,     cnt: 1863
-disdance : 0.420000,     cnt: 1977
-disdance : 0.430000,     cnt: 2140
-disdance : 0.440000,     cnt: 2036
-disdance : 0.450000,     cnt: 2210
-disdance : 0.460000,     cnt: 2300
-disdance : 0.470000,     cnt: 2348
-disdance : 0.480000,     cnt: 2514
-disdance : 0.490000,     cnt: 2722
-disdance : 0.500000,     cnt: 2753
-disdance : 0.510000,     cnt: 2763
-disdance : 0.520000,     cnt: 2877
-disdance : 0.530000,     cnt: 3018
-disdance : 0.540000,     cnt: 3138
-disdance : 0.550000,     cnt: 3386
-disdance : 0.560000,     cnt: 3502
-disdance : 0.570000,     cnt: 3604
-disdance : 0.580000,     cnt: 3515
-disdance : 0.590000,     cnt: 3752
-disdance : 0.600000,     cnt: 3872
-disdance : 0.610000,     cnt: 4071
-disdance : 0.620000,     cnt: 4027
-disdance : 0.630000,     cnt: 4223
-disdance : 0.640000,     cnt: 4358
-disdance : 0.650000,     cnt: 4430
-disdance : 0.660000,     cnt: 4725
-disdance : 0.670000,     cnt: 4749
-disdance : 0.680000,     cnt: 4876
-disdance : 0.690000,     cnt: 4982
-disdance : 0.700000,     cnt: 5352
-disdance : 0.710000,     cnt: 5362
-disdance : 0.720000,     cnt: 5433
-disdance : 0.730000,     cnt: 5618
-disdance : 0.740000,     cnt: 5867
-disdance : 0.750000,     cnt: 5978
-disdance : 0.760000,     cnt: 6122
-disdance : 0.770000,     cnt: 6353
-disdance : 0.780000,     cnt: 6423
-disdance : 0.790000,     cnt: 6658
-disdance : 0.800000,     cnt: 6697
-disdance : 0.810000,     cnt: 6817
-disdance : 0.820000,     cnt: 7178
-disdance : 0.830000,     cnt: 7135
-disdance : 0.840000,     cnt: 7397
-disdance : 0.850000,     cnt: 7552
-disdance : 0.860000,     cnt: 7781
-disdance : 0.870000,     cnt: 7986
-disdance : 0.880000,     cnt: 8063
-disdance : 0.890000,     cnt: 8205
-disdance : 0.900000,     cnt: 8421
-disdance : 0.910000,     cnt: 8675
-disdance : 0.920000,     cnt: 8945
-disdance : 0.930000,     cnt: 9178
-disdance : 0.940000,     cnt: 9124
-disdance : 0.950000,     cnt: 9493
-disdance : 0.960000,     cnt: 9621
-disdance : 0.970000,     cnt: 9801
-disdance : 0.980000,     cnt: 10302
-disdance : 0.990000,     cnt: 10085
-disdance : 1.000000,     cnt: 10403
-disdance : 1.010000,     cnt: 10535
-disdance : 1.020000,     cnt: 10798
-disdance : 1.030000,     cnt: 10939
-disdance : 1.040000,     cnt: 11087
-disdance : 1.050000,     cnt: 11233
-disdance : 1.060000,     cnt: 11672
-disdance : 1.070000,     cnt: 11813
-disdance : 1.080000,     cnt: 11993
-disdance : 1.090000,     cnt: 12300
-disdance : 1.100000,     cnt: 12299
-disdance : 1.110000,     cnt: 12650
-disdance : 1.120000,     cnt: 12686
-disdance : 1.130000,     cnt: 13375
-disdance : 1.140000,     cnt: 13329
-disdance : 1.150000,     cnt: 13424
-disdance : 1.160000,     cnt: 13831
-disdance : 1.170000,     cnt: 14005
-disdance : 1.180000,     cnt: 14417
-disdance : 1.190000,     cnt: 14495
-disdance : 1.200000,     cnt: 14506
-disdance : 1.210000,     cnt: 14992
-disdance : 1.220000,     cnt: 15048
-disdance : 1.230000,     cnt: 15793
-disdance : 1.240000,     cnt: 15642
-disdance : 1.250000,     cnt: 15814
-disdance : 1.260000,     cnt: 15920
-disdance : 1.270000,     cnt: 16506
-disdance : 1.280000,     cnt: 16554
-disdance : 1.290000,     cnt: 16768
-disdance : 1.300000,     cnt: 17106
-disdance : 1.310000,     cnt: 17255
-disdance : 1.320000,     cnt: 17556
-disdance : 1.330000,     cnt: 17751
-disdance : 1.340000,     cnt: 18254
-disdance : 1.350000,     cnt: 18460
-disdance : 1.360000,     cnt: 18754
-disdance : 1.370000,     cnt: 18741
-disdance : 1.380000,     cnt: 18866
-disdance : 1.390000,     cnt: 19534
-disdance : 1.400000,     cnt: 19616
-disdance : 1.410000,     cnt: 20028
-disdance : 1.420000,     cnt: 20413
-disdance : 1.430000,     cnt: 20443
-disdance : 1.440000,     cnt: 20456
-disdance : 1.450000,     cnt: 21054
-disdance : 1.460000,     cnt: 21144
-disdance : 1.470000,     cnt: 21864
-disdance : 1.480000,     cnt: 22077
-disdance : 1.490000,     cnt: 22031
-disdance : 1.500000,     cnt: 22444
-disdance : 1.510000,     cnt: 22335
-disdance : 1.520000,     cnt: 22899
-disdance : 1.530000,     cnt: 23524
-disdance : 1.540000,     cnt: 23281
-disdance : 1.550000,     cnt: 23866
-disdance : 1.560000,     cnt: 24187
-disdance : 1.570000,     cnt: 24459
-disdance : 1.580000,     cnt: 24887
-disdance : 1.590000,     cnt: 24845
-disdance : 1.600000,     cnt: 25154
-disdance : 1.610000,     cnt: 25859
-disdance : 1.620000,     cnt: 26003
-disdance : 1.630000,     cnt: 26369
-disdance : 1.640000,     cnt: 26690
-disdance : 1.650000,     cnt: 26651
-disdance : 1.660000,     cnt: 26824
-disdance : 1.670000,     cnt: 27530
-disdance : 1.680000,     cnt: 27475
-disdance : 1.690000,     cnt: 28016
-disdance : 1.700000,     cnt: 28168
-disdance : 1.710000,     cnt: 28675
-disdance : 1.720000,     cnt: 29115
-disdance : 1.730000,     cnt: 29167
-disdance : 1.740000,     cnt: 29885
-disdance : 1.750000,     cnt: 30218
-disdance : 1.760000,     cnt: 30192
-disdance : 1.770000,     cnt: 30514
-disdance : 1.780000,     cnt: 30849
-disdance : 1.790000,     cnt: 31071
-disdance : 1.800000,     cnt: 31229
-disdance : 1.810000,     cnt: 31822
-disdance : 1.820000,     cnt: 32381
-disdance : 1.830000,     cnt: 32451
-disdance : 1.840000,     cnt: 32459
-disdance : 1.850000,     cnt: 32771
-disdance : 1.860000,     cnt: 33489
-disdance : 1.870000,     cnt: 33739
-disdance : 1.880000,     cnt: 33702
-disdance : 1.890000,     cnt: 34270
-disdance : 1.900000,     cnt: 34606
-disdance : 1.910000,     cnt: 34953
-disdance : 1.920000,     cnt: 35454
-disdance : 1.930000,     cnt: 35495
-disdance : 1.940000,     cnt: 36091
-disdance : 1.950000,     cnt: 36323
-disdance : 1.960000,     cnt: 36951
-disdance : 1.970000,     cnt: 37447
-disdance : 1.980000,     cnt: 37680
-disdance : 1.990000,     cnt: 37954
-disdance : 2.000000,     cnt: 37964
-disdance : 2.010000,     cnt: 38888
-disdance : 2.020000,     cnt: 38820
-disdance : 2.030000,     cnt: 39310
-disdance : 2.040000,     cnt: 39752
-disdance : 2.050000,     cnt: 40422
-disdance : 2.060000,     cnt: 40033
-disdance : 2.070000,     cnt: 40359
-disdance : 2.080000,     cnt: 41088
-disdance : 2.090000,     cnt: 41268
-disdance : 2.100000,     cnt: 41662
-disdance : 2.110000,     cnt: 41930
-disdance : 2.120000,     cnt: 42447
-disdance : 2.130000,     cnt: 42951
-disdance : 2.140000,     cnt: 43001
-disdance : 2.150000,     cnt: 43184
-disdance : 2.160000,     cnt: 44277
-disdance : 2.170000,     cnt: 44297
-disdance : 2.180000,     cnt: 44763
-disdance : 2.190000,     cnt: 44940
-disdance : 2.200000,     cnt: 45583
-disdance : 2.210000,     cnt: 45653
-disdance : 2.220000,     cnt: 45934
-disdance : 2.230000,     cnt: 46330
-disdance : 2.240000,     cnt: 47044
-disdance : 2.250000,     cnt: 47557
-disdance : 2.260000,     cnt: 47697
-disdance : 2.270000,     cnt: 47835
-disdance : 2.280000,     cnt: 48148
-disdance : 2.290000,     cnt: 48623
-disdance : 2.300000,     cnt: 49253
-disdance : 2.310000,     cnt: 49439
-disdance : 2.320000,     cnt: 49835
-disdance : 2.330000,     cnt: 50635
-disdance : 2.340000,     cnt: 50805
-disdance : 2.350000,     cnt: 51680
-disdance : 2.360000,     cnt: 51452
-disdance : 2.370000,     cnt: 52086
-disdance : 2.380000,     cnt: 52719
-disdance : 2.390000,     cnt: 52734
-disdance : 2.400000,     cnt: 53312
-disdance : 2.410000,     cnt: 53655
-disdance : 2.420000,     cnt: 53601
-disdance : 2.430000,     cnt: 54157
-disdance : 2.440000,     cnt: 54677
-disdance : 2.450000,     cnt: 55222
-disdance : 2.460000,     cnt: 55787
-disdance : 2.470000,     cnt: 55863
-disdance : 2.480000,     cnt: 56312
-disdance : 2.490000,     cnt: 56806
-disdance : 2.500000,     cnt: 57510
-disdance : 2.510000,     cnt: 57504
-disdance : 2.520000,     cnt: 58324
-disdance : 2.530000,     cnt: 58409
-disdance : 2.540000,     cnt: 58928
-disdance : 2.550000,     cnt: 59238
-disdance : 2.560000,     cnt: 59706
-disdance : 2.570000,     cnt: 60246
-disdance : 2.580000,     cnt: 60438
-disdance : 2.590000,     cnt: 60973
-disdance : 2.600000,     cnt: 61140
-disdance : 2.610000,     cnt: 61712
-disdance : 2.620000,     cnt: 62669
-disdance : 2.630000,     cnt: 62328
-disdance : 2.640000,     cnt: 63154
-disdance : 2.650000,     cnt: 63483
-disdance : 2.660000,     cnt: 63815
-disdance : 2.670000,     cnt: 64611
-disdance : 2.680000,     cnt: 64474
-disdance : 2.690000,     cnt: 64734
-disdance : 2.700000,     cnt: 65248
-disdance : 2.710000,     cnt: 66066
-disdance : 2.720000,     cnt: 66558
-disdance : 2.730000,     cnt: 67006
-disdance : 2.740000,     cnt: 67777
-disdance : 2.750000,     cnt: 67199
-disdance : 2.760000,     cnt: 68182
-disdance : 2.770000,     cnt: 68611
-disdance : 2.780000,     cnt: 68993
-disdance : 2.790000,     cnt: 69694
-disdance : 2.800000,     cnt: 70243
-disdance : 2.810000,     cnt: 70298
-disdance : 2.820000,     cnt: 70498
-disdance : 2.830000,     cnt: 71376
-disdance : 2.840000,     cnt: 71245
-disdance : 2.850000,     cnt: 72629
-disdance : 2.860000,     cnt: 72635
-disdance : 2.870000,     cnt: 73015
-disdance : 2.880000,     cnt: 73407
-disdance : 2.890000,     cnt: 74085
-disdance : 2.900000,     cnt: 74520
-disdance : 2.910000,     cnt: 75183
-disdance : 2.920000,     cnt: 75510
-disdance : 2.930000,     cnt: 75703
-disdance : 2.940000,     cnt: 76009
-disdance : 2.950000,     cnt: 76915
-disdance : 2.960000,     cnt: 77394
-disdance : 2.970000,     cnt: 77613
-disdance : 2.980000,     cnt: 78330
-disdance : 2.990000,     cnt: 79180
-disdance : 3.000000,     cnt: 79163
-disdance : 3.010000,     cnt: 79282
-disdance : 3.020000,     cnt: 79975
-disdance : 3.030000,     cnt: 80549
-disdance : 3.040000,     cnt: 80843
-disdance : 3.050000,     cnt: 81622
-disdance : 3.060000,     cnt: 81835
-disdance : 3.070000,     cnt: 82067
-disdance : 3.080000,     cnt: 82659
-disdance : 3.090000,     cnt: 83416
-disdance : 3.100000,     cnt: 83410
-disdance : 3.110000,     cnt: 84181
-disdance : 3.120000,     cnt: 84103
-disdance : 3.130000,     cnt: 85359
-disdance : 3.140000,     cnt: 85797
-disdance : 3.150000,     cnt: 86297
-disdance : 3.160000,     cnt: 87357
-disdance : 3.170000,     cnt: 86227
-disdance : 3.180000,     cnt: 87408
-disdance : 3.190000,     cnt: 87681
-disdance : 3.200000,     cnt: 88304
-disdance : 3.210000,     cnt: 88775
-disdance : 3.220000,     cnt: 89222
-disdance : 3.230000,     cnt: 90140
-disdance : 3.240000,     cnt: 90668
-disdance : 3.250000,     cnt: 90840
-disdance : 3.260000,     cnt: 91615
-disdance : 3.270000,     cnt: 91827
-disdance : 3.280000,     cnt: 92599
-disdance : 3.290000,     cnt: 92692
-disdance : 3.300000,     cnt: 93416
-disdance : 3.310000,     cnt: 93685
-disdance : 3.320000,     cnt: 93789
-disdance : 3.330000,     cnt: 94497
-disdance : 3.340000,     cnt: 95382
-disdance : 3.350000,     cnt: 95431
-disdance : 3.360000,     cnt: 95929
-disdance : 3.370000,     cnt: 96328
-disdance : 3.380000,     cnt: 96617
-disdance : 3.390000,     cnt: 97546
-disdance : 3.400000,     cnt: 98483
-disdance : 3.410000,     cnt: 98514
-disdance : 3.420000,     cnt: 99054
-disdance : 3.430000,     cnt: 99679
-disdance : 3.440000,     cnt: 99941
-disdance : 3.450000,     cnt: 100340
-disdance : 3.460000,     cnt: 101172
-disdance : 3.470000,     cnt: 101286
-disdance : 3.480000,     cnt: 102240
-disdance : 3.490000,     cnt: 102665
-disdance : 3.500000,     cnt: 103011
-disdance : 3.510000,     cnt: 103588
-disdance : 3.520000,     cnt: 104179
-disdance : 3.530000,     cnt: 104601
-disdance : 3.540000,     cnt: 105202
-disdance : 3.550000,     cnt: 106158
-disdance : 3.560000,     cnt: 105782
-disdance : 3.570000,     cnt: 106811
-disdance : 3.580000,     cnt: 106988
-disdance : 3.590000,     cnt: 107254
-disdance : 3.600000,     cnt: 107508
-disdance : 3.610000,     cnt: 108714
-disdance : 3.620000,     cnt: 109285
-disdance : 3.630000,     cnt: 109663
-disdance : 3.640000,     cnt: 109916
-disdance : 3.650000,     cnt: 109940
-disdance : 3.660000,     cnt: 111318
-disdance : 3.670000,     cnt: 111197
-disdance : 3.680000,     cnt: 112509
-disdance : 3.690000,     cnt: 112974
-disdance : 3.700000,     cnt: 113207
-disdance : 3.710000,     cnt: 113607
-disdance : 3.720000,     cnt: 114351
-disdance : 3.730000,     cnt: 114585
-disdance : 3.740000,     cnt: 115186
-disdance : 3.750000,     cnt: 115494
-disdance : 3.760000,     cnt: 116065
-disdance : 3.770000,     cnt: 117308
-disdance : 3.780000,     cnt: 117344
-disdance : 3.790000,     cnt: 117679
-disdance : 3.800000,     cnt: 118353
-disdance : 3.810000,     cnt: 118463
-disdance : 3.820000,     cnt: 119358
-disdance : 3.830000,     cnt: 119949
-disdance : 3.840000,     cnt: 120789
-disdance : 3.850000,     cnt: 121034
-disdance : 3.860000,     cnt: 121909
-disdance : 3.870000,     cnt: 121802
-disdance : 3.880000,     cnt: 122500
-disdance : 3.890000,     cnt: 123441
-disdance : 3.900000,     cnt: 123408
-disdance : 3.910000,     cnt: 123948
-disdance : 3.920000,     cnt: 124563
-disdance : 3.930000,     cnt: 124920
-disdance : 3.940000,     cnt: 125849
-disdance : 3.950000,     cnt: 126060
-disdance : 3.960000,     cnt: 127375
-disdance : 3.970000,     cnt: 127483
-disdance : 3.980000,     cnt: 127668
-disdance : 3.990000,     cnt: 128142
-disdance : 4.000000,     cnt: 129052
-disdance : 4.010000,     cnt: 129475
-disdance : 4.020000,     cnt: 130642
-disdance : 4.030000,     cnt: 130566
-disdance : 4.040000,     cnt: 131528
-disdance : 4.050000,     cnt: 131342
-disdance : 4.060000,     cnt: 132519
-disdance : 4.070000,     cnt: 132125
-disdance : 4.080000,     cnt: 132978
-disdance : 4.090000,     cnt: 133005
-disdance : 4.100000,     cnt: 133830
-disdance : 4.110000,     cnt: 134535
-disdance : 4.120000,     cnt: 135249
-disdance : 4.130000,     cnt: 136127
-disdance : 4.140000,     cnt: 136706
-disdance : 4.150000,     cnt: 136871
-disdance : 4.160000,     cnt: 137377
-disdance : 4.170000,     cnt: 138274
-disdance : 4.180000,     cnt: 138203
-disdance : 4.190000,     cnt: 139241
-disdance : 4.200000,     cnt: 139290
-disdance : 4.210000,     cnt: 140042
-disdance : 4.220000,     cnt: 140734
-disdance : 4.230000,     cnt: 140745
-disdance : 4.240000,     cnt: 142103
-disdance : 4.250000,     cnt: 142290
-disdance : 4.260000,     cnt: 142447
-disdance : 4.270000,     cnt: 143618
-disdance : 4.280000,     cnt: 144431
-disdance : 4.290000,     cnt: 144940
-disdance : 4.300000,     cnt: 144620
-disdance : 4.310000,     cnt: 145706
-disdance : 4.320000,     cnt: 146339
-disdance : 4.330000,     cnt: 146362
-disdance : 4.340000,     cnt: 147530
-disdance : 4.350000,     cnt: 148095
-disdance : 4.360000,     cnt: 148389
-disdance : 4.370000,     cnt: 148865
-disdance : 4.380000,     cnt: 149457
-disdance : 4.390000,     cnt: 149794
-disdance : 4.400000,     cnt: 150239
-disdance : 4.410000,     cnt: 151493
-disdance : 4.420000,     cnt: 151383
-disdance : 4.430000,     cnt: 152341
-disdance : 4.440000,     cnt: 153235
-disdance : 4.450000,     cnt: 153007
-disdance : 4.460000,     cnt: 153780
-disdance : 4.470000,     cnt: 153657
-disdance : 4.480000,     cnt: 155089
-disdance : 4.490000,     cnt: 156288
-disdance : 4.500000,     cnt: 155628
-disdance : 4.510000,     cnt: 156701
-disdance : 4.520000,     cnt: 157206
-disdance : 4.530000,     cnt: 157274
-disdance : 4.540000,     cnt: 158127
-disdance : 4.550000,     cnt: 158960
-disdance : 4.560000,     cnt: 159672
-disdance : 4.570000,     cnt: 160325
-disdance : 4.580000,     cnt: 160538
-disdance : 4.590000,     cnt: 160970
-disdance : 4.600000,     cnt: 161969
-disdance : 4.610000,     cnt: 162816
-disdance : 4.620000,     cnt: 162945
-disdance : 4.630000,     cnt: 164336
-disdance : 4.640000,     cnt: 163303
-disdance : 4.650000,     cnt: 164686
-disdance : 4.660000,     cnt: 165729
-disdance : 4.670000,     cnt: 165582
-disdance : 4.680000,     cnt: 166426
-disdance : 4.690000,     cnt: 166592
-disdance : 4.700000,     cnt: 168453
-disdance : 4.710000,     cnt: 168082
-disdance : 4.720000,     cnt: 168606
-disdance : 4.730000,     cnt: 168904
-disdance : 4.740000,     cnt: 169860
-disdance : 4.750000,     cnt: 170336
-disdance : 4.760000,     cnt: 170598
-disdance : 4.770000,     cnt: 171722
-disdance : 4.780000,     cnt: 171446
-disdance : 4.790000,     cnt: 172310
-disdance : 4.800000,     cnt: 172753
-disdance : 4.810000,     cnt: 174186
-disdance : 4.820000,     cnt: 175571
-disdance : 4.830000,     cnt: 175092
-disdance : 4.840000,     cnt: 175227
-disdance : 4.850000,     cnt: 175902
-disdance : 4.860000,     cnt: 176570
-disdance : 4.870000,     cnt: 176965
-disdance : 4.880000,     cnt: 178169
-disdance : 4.890000,     cnt: 178543
-disdance : 4.900000,     cnt: 178862
-disdance : 4.910000,     cnt: 179723
-disdance : 4.920000,     cnt: 179385
-disdance : 4.930000,     cnt: 180026
-disdance : 4.940000,     cnt: 180597
-disdance : 4.950000,     cnt: 181358
-disdance : 4.960000,     cnt: 182100
-disdance : 4.970000,     cnt: 182659
-disdance : 4.980000,     cnt: 183479
-disdance : 4.990000,     cnt: 184068
-disdance : 5.000000,     cnt: 184506
-disdance : 5.010000,     cnt: 184822
-disdance : 5.020000,     cnt: 185622
-disdance : 5.030000,     cnt: 186143
-disdance : 5.040000,     cnt: 186476
-disdance : 5.050000,     cnt: 188158
-disdance : 5.060000,     cnt: 188006
-disdance : 5.070000,     cnt: 188673
-disdance : 5.080000,     cnt: 188702
-disdance : 5.090000,     cnt: 189399
-disdance : 5.100000,     cnt: 190960
-disdance : 5.110000,     cnt: 190909
-disdance : 5.120000,     cnt: 190906
-disdance : 5.130000,     cnt: 191746
-disdance : 5.140000,     cnt: 192329
-disdance : 5.150000,     cnt: 193329
-disdance : 5.160000,     cnt: 193222
-disdance : 5.170000,     cnt: 193262
-disdance : 5.180000,     cnt: 194808
-disdance : 5.190000,     cnt: 194401
-disdance : 5.200000,     cnt: 195660
-disdance : 5.210000,     cnt: 197301
-disdance : 5.220000,     cnt: 196824
-disdance : 5.230000,     cnt: 197598
-disdance : 5.240000,     cnt: 197928
-disdance : 5.250000,     cnt: 199094
-disdance : 5.260000,     cnt: 199428
-disdance : 5.270000,     cnt: 199117
-disdance : 5.280000,     cnt: 200930
-disdance : 5.290000,     cnt: 201387
-disdance : 5.300000,     cnt: 202117
-disdance : 5.310000,     cnt: 202607
-disdance : 5.320000,     cnt: 202141
-disdance : 5.330000,     cnt: 203380
-disdance : 5.340000,     cnt: 203798
-disdance : 5.350000,     cnt: 204322
-disdance : 5.360000,     cnt: 204991
-disdance : 5.370000,     cnt: 205949
-disdance : 5.380000,     cnt: 206759
-disdance : 5.390000,     cnt: 206247
-disdance : 5.400000,     cnt: 207761
-disdance : 5.410000,     cnt: 207631
-disdance : 5.420000,     cnt: 208651
-disdance : 5.430000,     cnt: 209051
-disdance : 5.440000,     cnt: 209636
-disdance : 5.450000,     cnt: 210109
-disdance : 5.460000,     cnt: 211864
-disdance : 5.470000,     cnt: 211282
-disdance : 5.480000,     cnt: 212315
-disdance : 5.490000,     cnt: 212870
-disdance : 5.500000,     cnt: 213126
-disdance : 5.510000,     cnt: 213292
-disdance : 5.520000,     cnt: 215474
-disdance : 5.530000,     cnt: 214956
-disdance : 5.540000,     cnt: 215281
-disdance : 5.550000,     cnt: 216332
-disdance : 5.560000,     cnt: 217077
-disdance : 5.570000,     cnt: 216518
-disdance : 5.580000,     cnt: 218407
-disdance : 5.590000,     cnt: 218438
-disdance : 5.600000,     cnt: 218330
-disdance : 5.610000,     cnt: 219737
-disdance : 5.620000,     cnt: 219265
-disdance : 5.630000,     cnt: 220938
-disdance : 5.640000,     cnt: 221185
-disdance : 5.650000,     cnt: 222090
-disdance : 5.660000,     cnt: 222700
-disdance : 5.670000,     cnt: 221664
-disdance : 5.680000,     cnt: 223711
-disdance : 5.690000,     cnt: 224014
-disdance : 5.700000,     cnt: 224630
-disdance : 5.710000,     cnt: 225430
-disdance : 5.720000,     cnt: 225723
-disdance : 5.730000,     cnt: 226360
-disdance : 5.740000,     cnt: 227220
-disdance : 5.750000,     cnt: 227146
-disdance : 5.760000,     cnt: 228843
-disdance : 5.770000,     cnt: 228773
-disdance : 5.780000,     cnt: 230134
-disdance : 5.790000,     cnt: 230575
-disdance : 5.800000,     cnt: 231414
-disdance : 5.810000,     cnt: 230124
-disdance : 5.820000,     cnt: 231138
-disdance : 5.830000,     cnt: 232587
-disdance : 5.840000,     cnt: 232422
-disdance : 5.850000,     cnt: 233322
-disdance : 5.860000,     cnt: 234024
-disdance : 5.870000,     cnt: 234586
-disdance : 5.880000,     cnt: 234899
-disdance : 5.890000,     cnt: 236358
-disdance : 5.900000,     cnt: 236890
-disdance : 5.910000,     cnt: 236726
-disdance : 5.920000,     cnt: 237454
-disdance : 5.930000,     cnt: 238126
-disdance : 5.940000,     cnt: 239234
-disdance : 5.950000,     cnt: 240283
-disdance : 5.960000,     cnt: 238491
-disdance : 5.970000,     cnt: 240794
-disdance : 5.980000,     cnt: 241394
-disdance : 5.990000,     cnt: 241105
-disdance : 6.000000,     cnt: 241597
-disdance : 6.010000,     cnt: 243293
-disdance : 6.020000,     cnt: 243234
-disdance : 6.030000,     cnt: 244338
-disdance : 6.040000,     cnt: 244313
-disdance : 6.050000,     cnt: 244743
-disdance : 6.060000,     cnt: 246874
-disdance : 6.070000,     cnt: 245988
-disdance : 6.080000,     cnt: 247051
-disdance : 6.090000,     cnt: 247488
-disdance : 6.100000,     cnt: 247566
-disdance : 6.110000,     cnt: 248059
-disdance : 6.120000,     cnt: 249627
-disdance : 6.130000,     cnt: 249488
-disdance : 6.140000,     cnt: 250627
-disdance : 6.150000,     cnt: 251020
-disdance : 6.160000,     cnt: 252369
-disdance : 6.170000,     cnt: 252201
-disdance : 6.180000,     cnt: 251969
-disdance : 6.190000,     cnt: 253051
-disdance : 6.200000,     cnt: 253329
-disdance : 6.210000,     cnt: 254584
-disdance : 6.220000,     cnt: 254057
-disdance : 6.230000,     cnt: 255951
-disdance : 6.240000,     cnt: 255466
-disdance : 6.250000,     cnt: 255996
-disdance : 6.260000,     cnt: 257260
-disdance : 6.270000,     cnt: 258053
-disdance : 6.280000,     cnt: 258874
-disdance : 6.290000,     cnt: 258348
-disdance : 6.300000,     cnt: 259325
-disdance : 6.310000,     cnt: 260890
-disdance : 6.320000,     cnt: 261297
-disdance : 6.330000,     cnt: 261456
-disdance : 6.340000,     cnt: 261562
-disdance : 6.350000,     cnt: 262625
-disdance : 6.360000,     cnt: 262947
-disdance : 6.370000,     cnt: 264201
-disdance : 6.380000,     cnt: 265036
-disdance : 6.390000,     cnt: 265398
-disdance : 6.400000,     cnt: 264821
-disdance : 6.410000,     cnt: 265701
-disdance : 6.420000,     cnt: 266220
-disdance : 6.430000,     cnt: 267391
-disdance : 6.440000,     cnt: 267713
-disdance : 6.450000,     cnt: 268047
-disdance : 6.460000,     cnt: 269692
-disdance : 6.470000,     cnt: 271099
-disdance : 6.480000,     cnt: 269902
-disdance : 6.490000,     cnt: 271246
-disdance : 6.500000,     cnt: 271480
-disdance : 6.510000,     cnt: 271117
-disdance : 6.520000,     cnt: 271885
-disdance : 6.530000,     cnt: 274153
-disdance : 6.540000,     cnt: 274168
-disdance : 6.550000,     cnt: 274673
-disdance : 6.560000,     cnt: 274952
-disdance : 6.570000,     cnt: 274968
-disdance : 6.580000,     cnt: 275696
-disdance : 6.590000,     cnt: 276617
-disdance : 6.600000,     cnt: 276546
-disdance : 6.610000,     cnt: 276499
-disdance : 6.620000,     cnt: 276906
-disdance : 6.630000,     cnt: 279355
-disdance : 6.640000,     cnt: 279240
-disdance : 6.650000,     cnt: 279755
-disdance : 6.660000,     cnt: 280399
-disdance : 6.670000,     cnt: 281186
-disdance : 6.680000,     cnt: 280860
-disdance : 6.690000,     cnt: 281878
-disdance : 6.700000,     cnt: 282264
-disdance : 6.710000,     cnt: 282790
-disdance : 6.720000,     cnt: 283351
-disdance : 6.730000,     cnt: 283689
-disdance : 6.740000,     cnt: 285010
-disdance : 6.750000,     cnt: 285339
-disdance : 6.760000,     cnt: 286897
-disdance : 6.770000,     cnt: 286349
-disdance : 6.780000,     cnt: 287510
-disdance : 6.790000,     cnt: 287956
-disdance : 6.800000,     cnt: 288930
-disdance : 6.810000,     cnt: 289126
-disdance : 6.820000,     cnt: 289774
-disdance : 6.830000,     cnt: 290306
-disdance : 6.840000,     cnt: 290818
-disdance : 6.850000,     cnt: 291133
-disdance : 6.860000,     cnt: 292019
-disdance : 6.870000,     cnt: 293023
-disdance : 6.880000,     cnt: 293810
-disdance : 6.890000,     cnt: 294406
-disdance : 6.900000,     cnt: 293834
-disdance : 6.910000,     cnt: 293794
-disdance : 6.920000,     cnt: 295304
-disdance : 6.930000,     cnt: 295964
-disdance : 6.940000,     cnt: 297176
-disdance : 6.950000,     cnt: 296690
-disdance : 6.960000,     cnt: 298175
-disdance : 6.970000,     cnt: 297512
-disdance : 6.980000,     cnt: 298185
-disdance : 6.990000,     cnt: 298758
-disdance : 7.000000,     cnt: 299901
-disdance : 7.010000,     cnt: 299432
-disdance : 7.020000,     cnt: 300904
-disdance : 7.030000,     cnt: 301572
-disdance : 7.040000,     cnt: 302765
-disdance : 7.050000,     cnt: 302605
-disdance : 7.060000,     cnt: 303040
-disdance : 7.070000,     cnt: 303527
-disdance : 7.080000,     cnt: 304335
-disdance : 7.090000,     cnt: 304851
-disdance : 7.100000,     cnt: 305311
-disdance : 7.110000,     cnt: 306257
-disdance : 7.120000,     cnt: 307276
-disdance : 7.130000,     cnt: 307047
-disdance : 7.140000,     cnt: 307970
-disdance : 7.150000,     cnt: 308962
-disdance : 7.160000,     cnt: 309406
-disdance : 7.170000,     cnt: 310176
-disdance : 7.180000,     cnt: 310855
-disdance : 7.190000,     cnt: 311166
-disdance : 7.200000,     cnt: 311271
-disdance : 7.210000,     cnt: 311863
-disdance : 7.220000,     cnt: 311965
-disdance : 7.230000,     cnt: 312425
-disdance : 7.240000,     cnt: 313699
-disdance : 7.250000,     cnt: 313349
-disdance : 7.260000,     cnt: 313822
-disdance : 7.270000,     cnt: 316464
-disdance : 7.280000,     cnt: 315541
-disdance : 7.290000,     cnt: 316863
-disdance : 7.300000,     cnt: 316453
-disdance : 7.310000,     cnt: 317245
-disdance : 7.320000,     cnt: 317704
-disdance : 7.330000,     cnt: 318551
-disdance : 7.340000,     cnt: 319109
-disdance : 7.350000,     cnt: 319729
-disdance : 7.360000,     cnt: 319628
-disdance : 7.370000,     cnt: 321001
-disdance : 7.380000,     cnt: 320663
-disdance : 7.390000,     cnt: 322728
-disdance : 7.400000,     cnt: 322291
-disdance : 7.410000,     cnt: 322673
-disdance : 7.420000,     cnt: 323714
-disdance : 7.430000,     cnt: 324296
-disdance : 7.440000,     cnt: 325292
-disdance : 7.450000,     cnt: 324855
-disdance : 7.460000,     cnt: 326579
-disdance : 7.470000,     cnt: 327572
-disdance : 7.480000,     cnt: 326592
-disdance : 7.490000,     cnt: 327775
-disdance : 7.500000,     cnt: 327197
-disdance : 7.510000,     cnt: 328574
-disdance : 7.520000,     cnt: 329069
-disdance : 7.530000,     cnt: 329366
-disdance : 7.540000,     cnt: 330477
-disdance : 7.550000,     cnt: 330316
-disdance : 7.560000,     cnt: 330307
-disdance : 7.570000,     cnt: 331605
-disdance : 7.580000,     cnt: 331789
-disdance : 7.590000,     cnt: 331986
-disdance : 7.600000,     cnt: 333583
-disdance : 7.610000,     cnt: 333772
-disdance : 7.620000,     cnt: 334221
-disdance : 7.630000,     cnt: 333833
-disdance : 7.640000,     cnt: 337014
-disdance : 7.650000,     cnt: 335535
-disdance : 7.660000,     cnt: 337406
-disdance : 7.670000,     cnt: 338524
-disdance : 7.680000,     cnt: 337595
-disdance : 7.690000,     cnt: 337705
-disdance : 7.700000,     cnt: 338894
-disdance : 7.710000,     cnt: 339686
-disdance : 7.720000,     cnt: 340102
-disdance : 7.730000,     cnt: 341357
-disdance : 7.740000,     cnt: 340653
-disdance : 7.750000,     cnt: 341280
-disdance : 7.760000,     cnt: 341794
-disdance : 7.770000,     cnt: 342677
-disdance : 7.780000,     cnt: 343229
-disdance : 7.790000,     cnt: 343405
-disdance : 7.800000,     cnt: 343594
-disdance : 7.810000,     cnt: 344733
-disdance : 7.820000,     cnt: 344374
-disdance : 7.830000,     cnt: 345306
-disdance : 7.840000,     cnt: 345962
-disdance : 7.850000,     cnt: 346186
-disdance : 7.860000,     cnt: 347673
-disdance : 7.870000,     cnt: 347344
-disdance : 7.880000,     cnt: 348495
-disdance : 7.890000,     cnt: 350049
-disdance : 7.900000,     cnt: 350068
-disdance : 7.910000,     cnt: 349481
-disdance : 7.920000,     cnt: 350607
-disdance : 7.930000,     cnt: 350413
-disdance : 7.940000,     cnt: 350942
-disdance : 7.950000,     cnt: 351990
-disdance : 7.960000,     cnt: 353271
-disdance : 7.970000,     cnt: 352283
-disdance : 7.980000,     cnt: 353711
-disdance : 7.990000,     cnt: 354358
-disdance : 8.000000,     cnt: 353992
-disdance : 8.010000,     cnt: 355711
-disdance : 8.020000,     cnt: 355161
-disdance : 8.030000,     cnt: 356251
-disdance : 8.040000,     cnt: 356654
-disdance : 8.050000,     cnt: 356499
-disdance : 8.060000,     cnt: 357837
-disdance : 8.070000,     cnt: 358647
-disdance : 8.080000,     cnt: 358556
-disdance : 8.090000,     cnt: 359441
-disdance : 8.100000,     cnt: 359771
-disdance : 8.110000,     cnt: 360625
-disdance : 8.120000,     cnt: 360528
-disdance : 8.130000,     cnt: 360488
-disdance : 8.140000,     cnt: 361737
-disdance : 8.150000,     cnt: 363261
-disdance : 8.160000,     cnt: 363000
-disdance : 8.170000,     cnt: 364384
-disdance : 8.180000,     cnt: 364374
-disdance : 8.190000,     cnt: 363903
-disdance : 8.200000,     cnt: 364210
-disdance : 8.210000,     cnt: 366378
-disdance : 8.220000,     cnt: 365848
-disdance : 8.230000,     cnt: 366911
-disdance : 8.240000,     cnt: 367819
-disdance : 8.250000,     cnt: 366756
-disdance : 8.260000,     cnt: 368512
-disdance : 8.270000,     cnt: 368948
-disdance : 8.280000,     cnt: 370228
-disdance : 8.290000,     cnt: 370678
-disdance : 8.300000,     cnt: 369209
-disdance : 8.310000,     cnt: 370671
-disdance : 8.320000,     cnt: 371354
-disdance : 8.330000,     cnt: 372121
-disdance : 8.340000,     cnt: 371503
-disdance : 8.350000,     cnt: 372939
-disdance : 8.360000,     cnt: 372736
-disdance : 8.370000,     cnt: 372749
-disdance : 8.380000,     cnt: 373319
-disdance : 8.390000,     cnt: 374223
-disdance : 8.400000,     cnt: 374235
-disdance : 8.410000,     cnt: 375681
-disdance : 8.420000,     cnt: 376036
-disdance : 8.430000,     cnt: 376411
-disdance : 8.440000,     cnt: 376990
-disdance : 8.450000,     cnt: 378211
-disdance : 8.460000,     cnt: 377414
-disdance : 8.470000,     cnt: 378340
-disdance : 8.480000,     cnt: 378754
-disdance : 8.490000,     cnt: 379356
-disdance : 8.500000,     cnt: 379744
-disdance : 8.510000,     cnt: 380901
-disdance : 8.520000,     cnt: 379778
-disdance : 8.530000,     cnt: 380813
-disdance : 8.540000,     cnt: 380778
-disdance : 8.550000,     cnt: 382239
-disdance : 8.560000,     cnt: 382439
-disdance : 8.570000,     cnt: 383899
-disdance : 8.580000,     cnt: 383862
-disdance : 8.590000,     cnt: 383470
-disdance : 8.600000,     cnt: 383831
-disdance : 8.610000,     cnt: 383488
-disdance : 8.620000,     cnt: 384015
-disdance : 8.630000,     cnt: 386538
-disdance : 8.640000,     cnt: 386862
-disdance : 8.650000,     cnt: 387417
-disdance : 8.660000,     cnt: 386163
-disdance : 8.670000,     cnt: 388692
-disdance : 8.680000,     cnt: 388086
-disdance : 8.690000,     cnt: 388941
-disdance : 8.700000,     cnt: 389390
-disdance : 8.710000,     cnt: 389335
-disdance : 8.720000,     cnt: 391139
-disdance : 8.730000,     cnt: 390625
-disdance : 8.740000,     cnt: 391809
-disdance : 8.750000,     cnt: 392744
-disdance : 8.760000,     cnt: 392745
-disdance : 8.770000,     cnt: 393180
-disdance : 8.780000,     cnt: 392697
-disdance : 8.790000,     cnt: 393399
-disdance : 8.800000,     cnt: 395054
-disdance : 8.810000,     cnt: 393991
-disdance : 8.820000,     cnt: 394066
-disdance : 8.830000,     cnt: 395810
-disdance : 8.840000,     cnt: 396039
-disdance : 8.850000,     cnt: 395814
-disdance : 8.860000,     cnt: 396099
-disdance : 8.870000,     cnt: 397051
-disdance : 8.880000,     cnt: 398697
-disdance : 8.890000,     cnt: 398742
-disdance : 8.900000,     cnt: 399612
-disdance : 8.910000,     cnt: 400520
-disdance : 8.920000,     cnt: 399714
-disdance : 8.930000,     cnt: 399585
-disdance : 8.940000,     cnt: 400343
-disdance : 8.950000,     cnt: 402008
-disdance : 8.960000,     cnt: 401167
-disdance : 8.970000,     cnt: 403415
-disdance : 8.980000,     cnt: 403716
-disdance : 8.990000,     cnt: 402211
-disdance : 9.000000,     cnt: 404219
-disdance : 9.010000,     cnt: 404084
-disdance : 9.020000,     cnt: 404452
-disdance : 9.030000,     cnt: 404284
-disdance : 9.040000,     cnt: 404959
-disdance : 9.050000,     cnt: 405224
-disdance : 9.060000,     cnt: 408007
-disdance : 9.070000,     cnt: 407184
-disdance : 9.080000,     cnt: 408071
-disdance : 9.090000,     cnt: 408459
-disdance : 9.100000,     cnt: 408255
-disdance : 9.110000,     cnt: 409041
-disdance : 9.120000,     cnt: 408596
-disdance : 9.130000,     cnt: 408967
-disdance : 9.140000,     cnt: 410229
-disdance : 9.150000,     cnt: 409596
-disdance : 9.160000,     cnt: 410609
-disdance : 9.170000,     cnt: 410620
-disdance : 9.180000,     cnt: 412008
-disdance : 9.190000,     cnt: 412182
-disdance : 9.200000,     cnt: 410804
-disdance : 9.210000,     cnt: 411974
-disdance : 9.220000,     cnt: 413789
-disdance : 9.230000,     cnt: 413246
-disdance : 9.240000,     cnt: 414310
-disdance : 9.250000,     cnt: 414081
-disdance : 9.260000,     cnt: 415290
-disdance : 9.270000,     cnt: 415374
-disdance : 9.280000,     cnt: 416098
-disdance : 9.290000,     cnt: 416817
-disdance : 9.300000,     cnt: 417235
-disdance : 9.310000,     cnt: 416667
-disdance : 9.320000,     cnt: 417644
-disdance : 9.330000,     cnt: 418191
-disdance : 9.340000,     cnt: 419342
-disdance : 9.350000,     cnt: 419972
-disdance : 9.360000,     cnt: 418179
-disdance : 9.370000,     cnt: 419995
-disdance : 9.380000,     cnt: 420195
-disdance : 9.390000,     cnt: 420825
-disdance : 9.400000,     cnt: 421031
-disdance : 9.410000,     cnt: 421714
-disdance : 9.420000,     cnt: 422417
-disdance : 9.430000,     cnt: 422586
-disdance : 9.440000,     cnt: 424173
-disdance : 9.450000,     cnt: 423660
-disdance : 9.460000,     cnt: 423159
-disdance : 9.470000,     cnt: 423967
-disdance : 9.480000,     cnt: 424842
-disdance : 9.490000,     cnt: 424185
-disdance : 9.500000,     cnt: 425103
-disdance : 9.510000,     cnt: 425135
-disdance : 9.520000,     cnt: 426384
-disdance : 9.530000,     cnt: 427437
-disdance : 9.540000,     cnt: 426235
-disdance : 9.550000,     cnt: 427357
-disdance : 9.560000,     cnt: 427977
-disdance : 9.570000,     cnt: 427226
-disdance : 9.580000,     cnt: 428070
-disdance : 9.590000,     cnt: 428681
-disdance : 9.600000,     cnt: 429972
-disdance : 9.610000,     cnt: 428631
-disdance : 9.620000,     cnt: 428927
-disdance : 9.630000,     cnt: 430884
-disdance : 9.640000,     cnt: 430733
-disdance : 9.650000,     cnt: 430975
-disdance : 9.660000,     cnt: 431752
-disdance : 9.670000,     cnt: 432552
-disdance : 9.680000,     cnt: 432541
-disdance : 9.690000,     cnt: 433488
-disdance : 9.700000,     cnt: 433417
-disdance : 9.710000,     cnt: 434948
-disdance : 9.720000,     cnt: 433343
-disdance : 9.730000,     cnt: 434482
-disdance : 9.740000,     cnt: 435005
-disdance : 9.750000,     cnt: 435473
-disdance : 9.760000,     cnt: 435356
-disdance : 9.770000,     cnt: 435808
-disdance : 9.780000,     cnt: 437385
-disdance : 9.790000,     cnt: 438101
-disdance : 9.800000,     cnt: 437497
-disdance : 9.810000,     cnt: 437852
-disdance : 9.820000,     cnt: 440019
-disdance : 9.830000,     cnt: 439034
-disdance : 9.840000,     cnt: 440021
-disdance : 9.850000,     cnt: 439354
-disdance : 9.860000,     cnt: 439882
-disdance : 9.870000,     cnt: 441861
-disdance : 9.880000,     cnt: 441417
-disdance : 9.890000,     cnt: 440583
-disdance : 9.900000,     cnt: 440443
-disdance : 9.910000,     cnt: 440972
-disdance : 9.920000,     cnt: 442192
-disdance : 9.930000,     cnt: 443797
-disdance : 9.940000,     cnt: 443205
-disdance : 9.950000,     cnt: 443715
-disdance : 9.960000,     cnt: 443438
-disdance : 9.970000,     cnt: 443194
-disdance : 9.980000,     cnt: 444106
-disdance : 9.990000,     cnt: 444616
-disdance : 10.000000,     cnt: 446797
-disdance : 10.010000,     cnt: 445354
-disdance : 10.020000,     cnt: 445137
-disdance : 10.030000,     cnt: 447389
-disdance : 10.040000,     cnt: 446356
-disdance : 10.050000,     cnt: 446217
-disdance : 10.060000,     cnt: 447213
-disdance : 10.070000,     cnt: 446887
-disdance : 10.080000,     cnt: 448037
-disdance : 10.090000,     cnt: 448242
-disdance : 10.100000,     cnt: 448594
-disdance : 10.110000,     cnt: 449919
-disdance : 10.120000,     cnt: 449495
-disdance : 10.130000,     cnt: 449477
-disdance : 10.140000,     cnt: 450362
-disdance : 10.150000,     cnt: 450008
-disdance : 10.160000,     cnt: 450967
-disdance : 10.170000,     cnt: 450862
-disdance : 10.180000,     cnt: 451387
-disdance : 10.190000,     cnt: 451376
-disdance : 10.200000,     cnt: 453555
-disdance : 10.210000,     cnt: 453195
-disdance : 10.220000,     cnt: 452804
-disdance : 10.230000,     cnt: 452918
-disdance : 10.240000,     cnt: 452625
-disdance : 10.250000,     cnt: 452308
-disdance : 10.260000,     cnt: 453851
-disdance : 10.270000,     cnt: 453703
-disdance : 10.280000,     cnt: 454148
-disdance : 10.290000,     cnt: 455737
-disdance : 10.300000,     cnt: 455685
-disdance : 10.310000,     cnt: 455153
-disdance : 10.320000,     cnt: 456535
-disdance : 10.330000,     cnt: 456777
-disdance : 10.340000,     cnt: 457205
-disdance : 10.350000,     cnt: 457889
-disdance : 10.360000,     cnt: 457277
-disdance : 10.370000,     cnt: 457834
-disdance : 10.380000,     cnt: 457534
-disdance : 10.390000,     cnt: 459679
-disdance : 10.400000,     cnt: 459635
-disdance : 10.410000,     cnt: 458346
-disdance : 10.420000,     cnt: 459365
-disdance : 10.430000,     cnt: 459966
-disdance : 10.440000,     cnt: 460286
-disdance : 10.450000,     cnt: 460324
-disdance : 10.460000,     cnt: 460465
-disdance : 10.470000,     cnt: 461593
-disdance : 10.480000,     cnt: 462269
-disdance : 10.490000,     cnt: 461614
-disdance : 10.500000,     cnt: 463061
-disdance : 10.510000,     cnt: 463469
-disdance : 10.520000,     cnt: 462462
-disdance : 10.530000,     cnt: 463103
-disdance : 10.540000,     cnt: 463742
-disdance : 10.550000,     cnt: 463189
-disdance : 10.560000,     cnt: 463244
-disdance : 10.570000,     cnt: 465008
-disdance : 10.580000,     cnt: 466111
-disdance : 10.590000,     cnt: 464868
-disdance : 10.600000,     cnt: 464476
-disdance : 10.610000,     cnt: 465856
-disdance : 10.620000,     cnt: 465611
-disdance : 10.630000,     cnt: 465966
-disdance : 10.640000,     cnt: 466529
-disdance : 10.650000,     cnt: 466848
-disdance : 10.660000,     cnt: 466281
-disdance : 10.670000,     cnt: 468765
-disdance : 10.680000,     cnt: 466599
-disdance : 10.690000,     cnt: 467347
-disdance : 10.700000,     cnt: 468875
-disdance : 10.710000,     cnt: 468606
-disdance : 10.720000,     cnt: 469338
-disdance : 10.730000,     cnt: 468821
-disdance : 10.740000,     cnt: 469131
-disdance : 10.750000,     cnt: 469727
-disdance : 10.760000,     cnt: 469347
-disdance : 10.770000,     cnt: 470701
-disdance : 10.780000,     cnt: 470026
-disdance : 10.790000,     cnt: 472537
-disdance : 10.800000,     cnt: 472344
-disdance : 10.810000,     cnt: 471905
-disdance : 10.820000,     cnt: 472133
-disdance : 10.830000,     cnt: 473923
-disdance : 10.840000,     cnt: 473007
-disdance : 10.850000,     cnt: 473148
-disdance : 10.860000,     cnt: 473018
-disdance : 10.870000,     cnt: 472420
-disdance : 10.880000,     cnt: 473893
-disdance : 10.890000,     cnt: 472975
-disdance : 10.900000,     cnt: 473871
-disdance : 10.910000,     cnt: 475519
-disdance : 10.920000,     cnt: 475633
-disdance : 10.930000,     cnt: 475523
-disdance : 10.940000,     cnt: 476508
-disdance : 10.950000,     cnt: 475824
-disdance : 10.960000,     cnt: 476998
-disdance : 10.970000,     cnt: 475917
-disdance : 10.980000,     cnt: 476753
-disdance : 10.990000,     cnt: 477390
-disdance : 11.000000,     cnt: 477840
-disdance : 11.010000,     cnt: 478195
-disdance : 11.020000,     cnt: 477441
-disdance : 11.030000,     cnt: 478713
-disdance : 11.040000,     cnt: 479292
-disdance : 11.050000,     cnt: 479264
-disdance : 11.060000,     cnt: 479163
-disdance : 11.070000,     cnt: 479091
-disdance : 11.080000,     cnt: 479157
-disdance : 11.090000,     cnt: 479484
-disdance : 11.100000,     cnt: 480877
-disdance : 11.110000,     cnt: 481219
-disdance : 11.120000,     cnt: 480005
-disdance : 11.130000,     cnt: 481127
-disdance : 11.140000,     cnt: 481570
-disdance : 11.150000,     cnt: 481753
-disdance : 11.160000,     cnt: 481319
-disdance : 11.170000,     cnt: 481237
-disdance : 11.180000,     cnt: 481990
-disdance : 11.190000,     cnt: 482835
-disdance : 11.200000,     cnt: 483067
-disdance : 11.210000,     cnt: 482970
-disdance : 11.220000,     cnt: 482639
-disdance : 11.230000,     cnt: 483225
-disdance : 11.240000,     cnt: 483225
-disdance : 11.250000,     cnt: 484032
-disdance : 11.260000,     cnt: 483082
-disdance : 11.270000,     cnt: 483304
-disdance : 11.280000,     cnt: 484590
-disdance : 11.290000,     cnt: 485210
-disdance : 11.300000,     cnt: 484014
-disdance : 11.310000,     cnt: 485891
-disdance : 11.320000,     cnt: 485028
-disdance : 11.330000,     cnt: 485565
-disdance : 11.340000,     cnt: 486015
-disdance : 11.350000,     cnt: 486443
-disdance : 11.360000,     cnt: 487601
-disdance : 11.370000,     cnt: 487890
-disdance : 11.380000,     cnt: 486449
-disdance : 11.390000,     cnt: 487492
-disdance : 11.400000,     cnt: 487548
-disdance : 11.410000,     cnt: 487472
-disdance : 11.420000,     cnt: 488300
-disdance : 11.430000,     cnt: 487609
-disdance : 11.440000,     cnt: 489619
-disdance : 11.450000,     cnt: 488312
-disdance : 11.460000,     cnt: 487095
-disdance : 11.470000,     cnt: 489864
-disdance : 11.480000,     cnt: 489868
-disdance : 11.490000,     cnt: 490329
-disdance : 11.500000,     cnt: 489979
-disdance : 11.510000,     cnt: 489303
-disdance : 11.520000,     cnt: 490085
-disdance : 11.530000,     cnt: 491373
-disdance : 11.540000,     cnt: 490726
-disdance : 11.550000,     cnt: 490368
-disdance : 11.560000,     cnt: 490721
-disdance : 11.570000,     cnt: 490955
-disdance : 11.580000,     cnt: 489658
-disdance : 11.590000,     cnt: 492079
-disdance : 11.600000,     cnt: 491843
-disdance : 11.610000,     cnt: 491605
-disdance : 11.620000,     cnt: 491173
-disdance : 11.630000,     cnt: 492327
-disdance : 11.640000,     cnt: 493435
-disdance : 11.650000,     cnt: 492384
-disdance : 11.660000,     cnt: 492919
-disdance : 11.670000,     cnt: 492618
-disdance : 11.680000,     cnt: 492295
-disdance : 11.690000,     cnt: 493150
-disdance : 11.700000,     cnt: 494470
-disdance : 11.710000,     cnt: 493096
-disdance : 11.720000,     cnt: 493848
-disdance : 11.730000,     cnt: 494028
-disdance : 11.740000,     cnt: 494241
-disdance : 11.750000,     cnt: 494530
-disdance : 11.760000,     cnt: 494391
-disdance : 11.770000,     cnt: 494799
-disdance : 11.780000,     cnt: 495328
-disdance : 11.790000,     cnt: 496765
-disdance : 11.800000,     cnt: 495428
-disdance : 11.810000,     cnt: 495958
-disdance : 11.820000,     cnt: 495820
-disdance : 11.830000,     cnt: 496183
-disdance : 11.840000,     cnt: 495950
-disdance : 11.850000,     cnt: 497413
-disdance : 11.860000,     cnt: 497086
-disdance : 11.870000,     cnt: 498056
-disdance : 11.880000,     cnt: 497320
-disdance : 11.890000,     cnt: 497516
-disdance : 11.900000,     cnt: 497773
-disdance : 11.910000,     cnt: 497487
-disdance : 11.920000,     cnt: 497436
-disdance : 11.930000,     cnt: 498887
-disdance : 11.940000,     cnt: 498728
-disdance : 11.950000,     cnt: 499089
-disdance : 11.960000,     cnt: 499220
-disdance : 11.970000,     cnt: 499102
-disdance : 11.980000,     cnt: 498272
-disdance : 11.990000,     cnt: 499525
-disdance : 12.000000,     cnt: 498591
-disdance : 12.010000,     cnt: 499758
-disdance : 12.020000,     cnt: 497938
-disdance : 12.030000,     cnt: 502208
-disdance : 12.040000,     cnt: 499486
-disdance : 12.050000,     cnt: 499875
-disdance : 12.060000,     cnt: 501554
-disdance : 12.070000,     cnt: 500550
-disdance : 12.080000,     cnt: 500785
-disdance : 12.090000,     cnt: 501112
-disdance : 12.100000,     cnt: 500788
-disdance : 12.110000,     cnt: 501685
-disdance : 12.120000,     cnt: 500501
-disdance : 12.130000,     cnt: 502287
-disdance : 12.140000,     cnt: 501382
-disdance : 12.150000,     cnt: 502456
-disdance : 12.160000,     cnt: 500328
-disdance : 12.170000,     cnt: 500950
-disdance : 12.180000,     cnt: 501937
-disdance : 12.190000,     cnt: 502621
-disdance : 12.200000,     cnt: 503172
-disdance : 12.210000,     cnt: 502783
-disdance : 12.220000,     cnt: 502117
-disdance : 12.230000,     cnt: 503369
-disdance : 12.240000,     cnt: 503358
-disdance : 12.250000,     cnt: 502505
-disdance : 12.260000,     cnt: 501950
-disdance : 12.270000,     cnt: 502622
-disdance : 12.280000,     cnt: 502594
-disdance : 12.290000,     cnt: 502935
-disdance : 12.300000,     cnt: 504535
-disdance : 12.310000,     cnt: 504297
-disdance : 12.320000,     cnt: 505218
-disdance : 12.330000,     cnt: 503367
-disdance : 12.340000,     cnt: 505343
-disdance : 12.350000,     cnt: 502963
-disdance : 12.360000,     cnt: 504756
-disdance : 12.370000,     cnt: 504606
-disdance : 12.380000,     cnt: 504260
-disdance : 12.390000,     cnt: 505531
-disdance : 12.400000,     cnt: 505070
-disdance : 12.410000,     cnt: 505234
-disdance : 12.420000,     cnt: 504004
-disdance : 12.430000,     cnt: 504935
-disdance : 12.440000,     cnt: 504716
-disdance : 12.450000,     cnt: 504214
-disdance : 12.460000,     cnt: 505538
-disdance : 12.470000,     cnt: 504928
-disdance : 12.480000,     cnt: 505254
-disdance : 12.490000,     cnt: 504726
-disdance : 12.500000,     cnt: 506046
-disdance : 12.510000,     cnt: 506384
-disdance : 12.520000,     cnt: 506507
-disdance : 12.530000,     cnt: 506573
-disdance : 12.540000,     cnt: 507074
-disdance : 12.550000,     cnt: 506980
-disdance : 12.560000,     cnt: 506092
-disdance : 12.570000,     cnt: 507222
-disdance : 12.580000,     cnt: 505847
-disdance : 12.590000,     cnt: 507123
-disdance : 12.600000,     cnt: 508223
-disdance : 12.610000,     cnt: 508930
-disdance : 12.620000,     cnt: 505713
-disdance : 12.630000,     cnt: 507080
-disdance : 12.640000,     cnt: 507186
-disdance : 12.650000,     cnt: 507074
-disdance : 12.660000,     cnt: 507755
-disdance : 12.670000,     cnt: 508249
-disdance : 12.680000,     cnt: 505510
-disdance : 12.690000,     cnt: 508176
-disdance : 12.700000,     cnt: 507660
-disdance : 12.710000,     cnt: 508362
-disdance : 12.720000,     cnt: 505136
-disdance : 12.730000,     cnt: 507741
-disdance : 12.740000,     cnt: 508233
-disdance : 12.750000,     cnt: 507743
-disdance : 12.760000,     cnt: 508604
-disdance : 12.770000,     cnt: 507460
-disdance : 12.780000,     cnt: 509494
-disdance : 12.790000,     cnt: 509105
-disdance : 12.800000,     cnt: 509253
-disdance : 12.810000,     cnt: 508082
-disdance : 12.820000,     cnt: 508255
-disdance : 12.830000,     cnt: 509118
-disdance : 12.840000,     cnt: 507637
-disdance : 12.850000,     cnt: 508651
-disdance : 12.860000,     cnt: 509878
-disdance : 12.870000,     cnt: 508895
-disdance : 12.880000,     cnt: 508078
-disdance : 12.890000,     cnt: 508932
-disdance : 12.900000,     cnt: 510071
-disdance : 12.910000,     cnt: 508991
-disdance : 12.920000,     cnt: 509538
-disdance : 12.930000,     cnt: 508142
-disdance : 12.940000,     cnt: 510348
-disdance : 12.950000,     cnt: 508308
-disdance : 12.960000,     cnt: 509346
-disdance : 12.970000,     cnt: 509129
-disdance : 12.980000,     cnt: 511192
-disdance : 12.990000,     cnt: 508980
-disdance : 13.000000,     cnt: 508972
-disdance : 13.010000,     cnt: 509775
-disdance : 13.020000,     cnt: 511714
-disdance : 13.030000,     cnt: 509715
-disdance : 13.040000,     cnt: 510037
-disdance : 13.050000,     cnt: 510487
-disdance : 13.060000,     cnt: 510700
-disdance : 13.070000,     cnt: 509336
-disdance : 13.080000,     cnt: 510161
-disdance : 13.090000,     cnt: 509986
-disdance : 13.100000,     cnt: 510152
-disdance : 13.110000,     cnt: 510677
-disdance : 13.120000,     cnt: 509792
-disdance : 13.130000,     cnt: 509893
-disdance : 13.140000,     cnt: 509023
-disdance : 13.150000,     cnt: 509921
-disdance : 13.160000,     cnt: 511327
-disdance : 13.170000,     cnt: 509961
-disdance : 13.180000,     cnt: 509610
-disdance : 13.190000,     cnt: 510243
-disdance : 13.200000,     cnt: 509773
-disdance : 13.210000,     cnt: 510182
-disdance : 13.220000,     cnt: 511199
-disdance : 13.230000,     cnt: 509209
-disdance : 13.240000,     cnt: 510670
-disdance : 13.250000,     cnt: 510455
-disdance : 13.260000,     cnt: 509384
-disdance : 13.270000,     cnt: 510883
-disdance : 13.280000,     cnt: 510429
-disdance : 13.290000,     cnt: 509847
-disdance : 13.300000,     cnt: 510640
-disdance : 13.310000,     cnt: 508819
-disdance : 13.320000,     cnt: 509937
-disdance : 13.330000,     cnt: 510068
-disdance : 13.340000,     cnt: 510852
-disdance : 13.350000,     cnt: 510464
-disdance : 13.360000,     cnt: 510219
-disdance : 13.370000,     cnt: 510057
-disdance : 13.380000,     cnt: 510683
-disdance : 13.390000,     cnt: 511086
-disdance : 13.400000,     cnt: 510016
-disdance : 13.410000,     cnt: 510539
-disdance : 13.420000,     cnt: 510739
-disdance : 13.430000,     cnt: 510554
-disdance : 13.440000,     cnt: 509814
-disdance : 13.450000,     cnt: 510249
-disdance : 13.460000,     cnt: 509733
-disdance : 13.470000,     cnt: 509703
-disdance : 13.480000,     cnt: 510520
-disdance : 13.490000,     cnt: 510410
-disdance : 13.500000,     cnt: 509695
-disdance : 13.510000,     cnt: 510382
-disdance : 13.520000,     cnt: 511017
-disdance : 13.530000,     cnt: 509846
-disdance : 13.540000,     cnt: 510056
-disdance : 13.550000,     cnt: 509287
-disdance : 13.560000,     cnt: 510173
-disdance : 13.570000,     cnt: 510440
-disdance : 13.580000,     cnt: 510218
-disdance : 13.590000,     cnt: 510560
-disdance : 13.600000,     cnt: 509517
-disdance : 13.610000,     cnt: 511586
-disdance : 13.620000,     cnt: 510604
-disdance : 13.630000,     cnt: 510466
-disdance : 13.640000,     cnt: 511890
-disdance : 13.650000,     cnt: 510485
-disdance : 13.660000,     cnt: 508132
-disdance : 13.670000,     cnt: 508846
-disdance : 13.680000,     cnt: 509477
-disdance : 13.690000,     cnt: 510439
-disdance : 13.700000,     cnt: 509360
-disdance : 13.710000,     cnt: 510234
-disdance : 13.720000,     cnt: 510088
-disdance : 13.730000,     cnt: 510755
-disdance : 13.740000,     cnt: 510576
-disdance : 13.750000,     cnt: 510168
-disdance : 13.760000,     cnt: 508391
-disdance : 13.770000,     cnt: 509823
-disdance : 13.780000,     cnt: 510077
-disdance : 13.790000,     cnt: 510749
-disdance : 13.800000,     cnt: 509609
-disdance : 13.810000,     cnt: 509901
-disdance : 13.820000,     cnt: 510317
-disdance : 13.830000,     cnt: 509755
-disdance : 13.840000,     cnt: 509397
-disdance : 13.850000,     cnt: 509384
-disdance : 13.860000,     cnt: 508838
-disdance : 13.870000,     cnt: 509675
-disdance : 13.880000,     cnt: 509005
-disdance : 13.890000,     cnt: 508468
-disdance : 13.900000,     cnt: 509639
-disdance : 13.910000,     cnt: 509785
-disdance : 13.920000,     cnt: 508676
-disdance : 13.930000,     cnt: 509609
-disdance : 13.940000,     cnt: 509924
-disdance : 13.950000,     cnt: 510034
-disdance : 13.960000,     cnt: 507742
-disdance : 13.970000,     cnt: 508873
-disdance : 13.980000,     cnt: 510283
-disdance : 13.990000,     cnt: 508360
-disdance : 14.000000,     cnt: 508736
-disdance : 14.010000,     cnt: 507580
-disdance : 14.020000,     cnt: 507940
-disdance : 14.030000,     cnt: 509374
-disdance : 14.040000,     cnt: 506923
-disdance : 14.050000,     cnt: 508118
-disdance : 14.060000,     cnt: 507483
-disdance : 14.070000,     cnt: 506904
-disdance : 14.080000,     cnt: 509042
-disdance : 14.090000,     cnt: 508660
-disdance : 14.100000,     cnt: 509791
-disdance : 14.110000,     cnt: 507300
-disdance : 14.120000,     cnt: 507622
-disdance : 14.130000,     cnt: 508553
-disdance : 14.140000,     cnt: 507865
-disdance : 14.150000,     cnt: 506896
-disdance : 14.160000,     cnt: 507381
-disdance : 14.170000,     cnt: 508034
-disdance : 14.180000,     cnt: 507183
-disdance : 14.190000,     cnt: 507207
-disdance : 14.200000,     cnt: 507018
-disdance : 14.210000,     cnt: 506427
-disdance : 14.220000,     cnt: 507838
-disdance : 14.230000,     cnt: 507306
-disdance : 14.240000,     cnt: 507085
-disdance : 14.250000,     cnt: 505100
-disdance : 14.260000,     cnt: 507134
-disdance : 14.270000,     cnt: 507421
-disdance : 14.280000,     cnt: 507498
-disdance : 14.290000,     cnt: 506633
-disdance : 14.300000,     cnt: 506723
-disdance : 14.310000,     cnt: 506082
-disdance : 14.320000,     cnt: 505580
-disdance : 14.330000,     cnt: 506337
-disdance : 14.340000,     cnt: 505932
-disdance : 14.350000,     cnt: 504970
-disdance : 14.360000,     cnt: 505267
-disdance : 14.370000,     cnt: 504482
-disdance : 14.380000,     cnt: 504795
-disdance : 14.390000,     cnt: 505755
-disdance : 14.400000,     cnt: 505055
-disdance : 14.410000,     cnt: 505625
-disdance : 14.420000,     cnt: 504312
-disdance : 14.430000,     cnt: 505933
-disdance : 14.440000,     cnt: 503914
-disdance : 14.450000,     cnt: 503365
-disdance : 14.460000,     cnt: 503755
-disdance : 14.470000,     cnt: 505382
-disdance : 14.480000,     cnt: 503688
-disdance : 14.490000,     cnt: 504001
-disdance : 14.500000,     cnt: 502226
-disdance : 14.510000,     cnt: 503241
-disdance : 14.520000,     cnt: 503245
-disdance : 14.530000,     cnt: 503803
-disdance : 14.540000,     cnt: 503983
-disdance : 14.550000,     cnt: 503559
-disdance : 14.560000,     cnt: 502985
-disdance : 14.570000,     cnt: 502962
-disdance : 14.580000,     cnt: 502691
-disdance : 14.590000,     cnt: 502732
-disdance : 14.600000,     cnt: 503438
-disdance : 14.610000,     cnt: 501523
-disdance : 14.620000,     cnt: 503305
-disdance : 14.630000,     cnt: 501393
-disdance : 14.640000,     cnt: 502689
-disdance : 14.650000,     cnt: 502143
-disdance : 14.660000,     cnt: 502272
-disdance : 14.670000,     cnt: 500515
-disdance : 14.680000,     cnt: 501177
-disdance : 14.690000,     cnt: 500063
-disdance : 14.700000,     cnt: 500545
-disdance : 14.710000,     cnt: 502062
-disdance : 14.720000,     cnt: 501400
-disdance : 14.730000,     cnt: 499453
-disdance : 14.740000,     cnt: 500441
-disdance : 14.750000,     cnt: 499141
-disdance : 14.760000,     cnt: 500152
-disdance : 14.770000,     cnt: 500194
-disdance : 14.780000,     cnt: 500535
-disdance : 14.790000,     cnt: 498633
-disdance : 14.800000,     cnt: 498845
-disdance : 14.810000,     cnt: 498811
-disdance : 14.820000,     cnt: 498963
-disdance : 14.830000,     cnt: 499491
-disdance : 14.840000,     cnt: 498725
-disdance : 14.850000,     cnt: 499187
-disdance : 14.860000,     cnt: 499741
-disdance : 14.870000,     cnt: 498692
-disdance : 14.880000,     cnt: 497744
-disdance : 14.890000,     cnt: 498139
-disdance : 14.900000,     cnt: 497687
-disdance : 14.910000,     cnt: 496870
-disdance : 14.920000,     cnt: 497188
-disdance : 14.930000,     cnt: 498190
-disdance : 14.940000,     cnt: 497182
-disdance : 14.950000,     cnt: 496089
-disdance : 14.960000,     cnt: 497059
-disdance : 14.970000,     cnt: 496626
-disdance : 14.980000,     cnt: 496396
-disdance : 14.990000,     cnt: 496277
-disdance : 15.000000,     cnt: 495745
-disdance : 15.010000,     cnt: 495375
-disdance : 15.020000,     cnt: 495792
-disdance : 15.030000,     cnt: 495835
-disdance : 15.040000,     cnt: 495178
-disdance : 15.050000,     cnt: 494711
-disdance : 15.060000,     cnt: 495125
-disdance : 15.070000,     cnt: 494189
-disdance : 15.080000,     cnt: 494997
-disdance : 15.090000,     cnt: 495016
-disdance : 15.100000,     cnt: 493817
-disdance : 15.110000,     cnt: 491994
-disdance : 15.120000,     cnt: 493216
-disdance : 15.130000,     cnt: 493747
-disdance : 15.140000,     cnt: 491269
-disdance : 15.150000,     cnt: 494011
-disdance : 15.160000,     cnt: 491390
-disdance : 15.170000,     cnt: 494829
-disdance : 15.180000,     cnt: 491765
-disdance : 15.190000,     cnt: 491889
-disdance : 15.200000,     cnt: 491916
-disdance : 15.210000,     cnt: 491352
-disdance : 15.220000,     cnt: 491744
-disdance : 15.230000,     cnt: 492427
-disdance : 15.240000,     cnt: 490243
-disdance : 15.250000,     cnt: 490801
-disdance : 15.260000,     cnt: 491885
-disdance : 15.270000,     cnt: 490696
-disdance : 15.280000,     cnt: 490359
-disdance : 15.290000,     cnt: 488687
-disdance : 15.300000,     cnt: 491141
-disdance : 15.310000,     cnt: 489314
-disdance : 15.320000,     cnt: 489023
-disdance : 15.330000,     cnt: 489990
-disdance : 15.340000,     cnt: 489397
-disdance : 15.350000,     cnt: 488505
-disdance : 15.360000,     cnt: 489320
-disdance : 15.370000,     cnt: 488774
-disdance : 15.380000,     cnt: 487938
-disdance : 15.390000,     cnt: 487906
-disdance : 15.400000,     cnt: 488104
-disdance : 15.410000,     cnt: 487869
-disdance : 15.420000,     cnt: 486158
-disdance : 15.430000,     cnt: 486424
-disdance : 15.440000,     cnt: 485900
-disdance : 15.450000,     cnt: 486353
-disdance : 15.460000,     cnt: 485664
-disdance : 15.470000,     cnt: 485285
-disdance : 15.480000,     cnt: 485722
-disdance : 15.490000,     cnt: 485093
-disdance : 15.500000,     cnt: 484385
-disdance : 15.510000,     cnt: 485316
-disdance : 15.520000,     cnt: 484514
-disdance : 15.530000,     cnt: 483435
-disdance : 15.540000,     cnt: 485114
-disdance : 15.550000,     cnt: 483938
-disdance : 15.560000,     cnt: 483169
-disdance : 15.570000,     cnt: 483520
-disdance : 15.580000,     cnt: 483166
-disdance : 15.590000,     cnt: 483250
-disdance : 15.600000,     cnt: 483503
-disdance : 15.610000,     cnt: 482678
-disdance : 15.620000,     cnt: 481793
-disdance : 15.630000,     cnt: 482153
-disdance : 15.640000,     cnt: 481028
-disdance : 15.650000,     cnt: 482078
-disdance : 15.660000,     cnt: 480269
-disdance : 15.670000,     cnt: 480726
-disdance : 15.680000,     cnt: 480382
-disdance : 15.690000,     cnt: 479309
-disdance : 15.700000,     cnt: 480240
-disdance : 15.710000,     cnt: 479386
-disdance : 15.720000,     cnt: 479843
-disdance : 15.730000,     cnt: 480093
-disdance : 15.740000,     cnt: 477903
-disdance : 15.750000,     cnt: 478797
-disdance : 15.760000,     cnt: 476977
-disdance : 15.770000,     cnt: 478242
-disdance : 15.780000,     cnt: 476605
-disdance : 15.790000,     cnt: 478033
-disdance : 15.800000,     cnt: 477141
-disdance : 15.810000,     cnt: 477593
-disdance : 15.820000,     cnt: 476565
-disdance : 15.830000,     cnt: 476120
-disdance : 15.840000,     cnt: 476707
-disdance : 15.850000,     cnt: 476879
-disdance : 15.860000,     cnt: 475775
-disdance : 15.870000,     cnt: 475096
-disdance : 15.880000,     cnt: 473837
-disdance : 15.890000,     cnt: 473270
-disdance : 15.900000,     cnt: 474362
-disdance : 15.910000,     cnt: 474301
-disdance : 15.920000,     cnt: 474230
-disdance : 15.930000,     cnt: 472631
-disdance : 15.940000,     cnt: 473253
-disdance : 15.950000,     cnt: 472688
-disdance : 15.960000,     cnt: 473093
-disdance : 15.970000,     cnt: 472136
-disdance : 15.980000,     cnt: 471278
-disdance : 15.990000,     cnt: 470480
-disdance : 16.000000,     cnt: 469860
-disdance : 16.010000,     cnt: 470881
-disdance : 16.020000,     cnt: 469728
-disdance : 16.030000,     cnt: 470805
-disdance : 16.040000,     cnt: 471144
-disdance : 16.050000,     cnt: 469229
-disdance : 16.060000,     cnt: 469034
-disdance : 16.070000,     cnt: 469366
-disdance : 16.080000,     cnt: 468384
-disdance : 16.090000,     cnt: 468356
-disdance : 16.100000,     cnt: 467391
-disdance : 16.110000,     cnt: 468603
-disdance : 16.120000,     cnt: 467132
-disdance : 16.130000,     cnt: 466817
-disdance : 16.140000,     cnt: 466416
-disdance : 16.150000,     cnt: 465606
-disdance : 16.160000,     cnt: 465939
-disdance : 16.170000,     cnt: 464099
-disdance : 16.180000,     cnt: 465249
-disdance : 16.190000,     cnt: 465089
-disdance : 16.200000,     cnt: 465337
-disdance : 16.210000,     cnt: 465140
-disdance : 16.220000,     cnt: 465175
-disdance : 16.230000,     cnt: 463784
-disdance : 16.240000,     cnt: 463100
-disdance : 16.250000,     cnt: 461907
-disdance : 16.260000,     cnt: 462152
-disdance : 16.270000,     cnt: 462538
-disdance : 16.280000,     cnt: 461309
-disdance : 16.290000,     cnt: 460967
-disdance : 16.300000,     cnt: 462046
-disdance : 16.310000,     cnt: 461761
-disdance : 16.320000,     cnt: 461468
-disdance : 16.330000,     cnt: 459960
-disdance : 16.340000,     cnt: 458730
-disdance : 16.350000,     cnt: 459845
-disdance : 16.360000,     cnt: 458205
-disdance : 16.370000,     cnt: 458210
-disdance : 16.380000,     cnt: 457480
-disdance : 16.390000,     cnt: 458954
-disdance : 16.400000,     cnt: 457546
-disdance : 16.410000,     cnt: 456253
-disdance : 16.420000,     cnt: 457653
-disdance : 16.430000,     cnt: 457912
-disdance : 16.440000,     cnt: 456760
-disdance : 16.450000,     cnt: 454743
-disdance : 16.460000,     cnt: 454998
-disdance : 16.470000,     cnt: 454471
-disdance : 16.480000,     cnt: 453898
-disdance : 16.490000,     cnt: 455591
-disdance : 16.500000,     cnt: 453790
-disdance : 16.510000,     cnt: 452823
-disdance : 16.520000,     cnt: 452857
-disdance : 16.530000,     cnt: 452228
-disdance : 16.540000,     cnt: 452138
-disdance : 16.550000,     cnt: 453026
-disdance : 16.560000,     cnt: 451970
-disdance : 16.570000,     cnt: 450473
-disdance : 16.580000,     cnt: 450416
-disdance : 16.590000,     cnt: 450620
-disdance : 16.600000,     cnt: 449972
-disdance : 16.610000,     cnt: 449729
-disdance : 16.620000,     cnt: 449108
-disdance : 16.630000,     cnt: 448835
-disdance : 16.640000,     cnt: 448572
-disdance : 16.650000,     cnt: 446986
-disdance : 16.660000,     cnt: 446529
-disdance : 16.670000,     cnt: 447100
-disdance : 16.680000,     cnt: 447251
-disdance : 16.690000,     cnt: 446766
-disdance : 16.700000,     cnt: 445757
-disdance : 16.710000,     cnt: 443942
-disdance : 16.720000,     cnt: 444926
-disdance : 16.730000,     cnt: 445260
-disdance : 16.740000,     cnt: 443880
-disdance : 16.750000,     cnt: 444200
-disdance : 16.760000,     cnt: 443448
-disdance : 16.770000,     cnt: 443527
-disdance : 16.780000,     cnt: 442213
-disdance : 16.790000,     cnt: 441412
-disdance : 16.800000,     cnt: 442126
-disdance : 16.810000,     cnt: 441569
-disdance : 16.820000,     cnt: 441714
-disdance : 16.830000,     cnt: 441108
-disdance : 16.840000,     cnt: 441096
-disdance : 16.850000,     cnt: 439500
-disdance : 16.860000,     cnt: 439512
-disdance : 16.870000,     cnt: 437903
-disdance : 16.880000,     cnt: 438371
-disdance : 16.890000,     cnt: 438438
-disdance : 16.900000,     cnt: 437737
-disdance : 16.910000,     cnt: 437209
-disdance : 16.920000,     cnt: 437134
-disdance : 16.930000,     cnt: 435241
-disdance : 16.940000,     cnt: 436529
-disdance : 16.950000,     cnt: 436302
-disdance : 16.960000,     cnt: 435838
-disdance : 16.970000,     cnt: 436458
-disdance : 16.980000,     cnt: 434854
-disdance : 16.990000,     cnt: 435240
-disdance : 17.000000,     cnt: 433888
-disdance : 17.010000,     cnt: 433219
-disdance : 17.020000,     cnt: 431136
-disdance : 17.030000,     cnt: 431540
-disdance : 17.040000,     cnt: 432862
-disdance : 17.050000,     cnt: 433431
-disdance : 17.060000,     cnt: 431414
-disdance : 17.070000,     cnt: 430823
-disdance : 17.080000,     cnt: 429267
-disdance : 17.090000,     cnt: 428723
-disdance : 17.100000,     cnt: 429468
-disdance : 17.110000,     cnt: 428905
-disdance : 17.120000,     cnt: 428726
-disdance : 17.130000,     cnt: 426888
-disdance : 17.140000,     cnt: 427857
-disdance : 17.150000,     cnt: 427612
-disdance : 17.160000,     cnt: 426915
-disdance : 17.170000,     cnt: 425533
-disdance : 17.180000,     cnt: 426319
-disdance : 17.190000,     cnt: 425008
-disdance : 17.200000,     cnt: 423972
-disdance : 17.210000,     cnt: 424066
-disdance : 17.220000,     cnt: 423632
-disdance : 17.230000,     cnt: 423444
-disdance : 17.240000,     cnt: 423113
-disdance : 17.250000,     cnt: 422871
-disdance : 17.260000,     cnt: 421609
-disdance : 17.270000,     cnt: 421878
-disdance : 17.280000,     cnt: 420002
-disdance : 17.290000,     cnt: 421401
-disdance : 17.300000,     cnt: 418601
-disdance : 17.310000,     cnt: 418795
-disdance : 17.320000,     cnt: 418393
-disdance : 17.330000,     cnt: 418822
-disdance : 17.340000,     cnt: 418972
-disdance : 17.350000,     cnt: 418236
-disdance : 17.360000,     cnt: 417470
-disdance : 17.370000,     cnt: 416771
-disdance : 17.380000,     cnt: 416361
-disdance : 17.390000,     cnt: 416359
-disdance : 17.400000,     cnt: 415837
-disdance : 17.410000,     cnt: 415634
-disdance : 17.420000,     cnt: 414811
-disdance : 17.430000,     cnt: 413595
-disdance : 17.440000,     cnt: 414467
-disdance : 17.450000,     cnt: 412642
-disdance : 17.460000,     cnt: 412338
-disdance : 17.470000,     cnt: 413759
-disdance : 17.480000,     cnt: 411955
-disdance : 17.490000,     cnt: 411618
-disdance : 17.500000,     cnt: 410335
-disdance : 17.510000,     cnt: 409854
-disdance : 17.520000,     cnt: 409289
-disdance : 17.530000,     cnt: 407766
-disdance : 17.540000,     cnt: 407526
-disdance : 17.550000,     cnt: 407051
-disdance : 17.560000,     cnt: 407377
-disdance : 17.570000,     cnt: 406998
-disdance : 17.580000,     cnt: 405286
-disdance : 17.590000,     cnt: 405416
-disdance : 17.600000,     cnt: 404099
-disdance : 17.610000,     cnt: 403735
-disdance : 17.620000,     cnt: 405266
-disdance : 17.630000,     cnt: 404558
-disdance : 17.640000,     cnt: 403470
-disdance : 17.650000,     cnt: 403033
-disdance : 17.660000,     cnt: 402895
-disdance : 17.670000,     cnt: 402066
-disdance : 17.680000,     cnt: 401163
-disdance : 17.690000,     cnt: 401002
-disdance : 17.700000,     cnt: 400316
-disdance : 17.710000,     cnt: 399753
-disdance : 17.720000,     cnt: 399510
-disdance : 17.730000,     cnt: 398072
-disdance : 17.740000,     cnt: 398710
-disdance : 17.750000,     cnt: 398505
-disdance : 17.760000,     cnt: 398138
-disdance : 17.770000,     cnt: 396389
-disdance : 17.780000,     cnt: 396069
-disdance : 17.790000,     cnt: 395749
-disdance : 17.800000,     cnt: 395047
-disdance : 17.810000,     cnt: 395168
-disdance : 17.820000,     cnt: 393658
-disdance : 17.830000,     cnt: 393818
-disdance : 17.840000,     cnt: 393720
-disdance : 17.850000,     cnt: 392146
-disdance : 17.860000,     cnt: 392271
-disdance : 17.870000,     cnt: 391473
-disdance : 17.880000,     cnt: 390350
-disdance : 17.890000,     cnt: 389096
-disdance : 17.900000,     cnt: 390297
-disdance : 17.910000,     cnt: 389670
-disdance : 17.920000,     cnt: 388817
-disdance : 17.930000,     cnt: 387539
-disdance : 17.940000,     cnt: 388094
-disdance : 17.950000,     cnt: 386687
-disdance : 17.960000,     cnt: 386395
-disdance : 17.970000,     cnt: 385620
-disdance : 17.980000,     cnt: 385345
-disdance : 17.990000,     cnt: 383820
-disdance : 18.000000,     cnt: 383248
-disdance : 18.010000,     cnt: 383127
-disdance : 18.020000,     cnt: 382350
-disdance : 18.030000,     cnt: 382851
-disdance : 18.040000,     cnt: 381667
-disdance : 18.050000,     cnt: 382077
-disdance : 18.060000,     cnt: 380268
-disdance : 18.070000,     cnt: 380594
-disdance : 18.080000,     cnt: 379973
-disdance : 18.090000,     cnt: 380000
-disdance : 18.100000,     cnt: 378889
-disdance : 18.110000,     cnt: 377252
-disdance : 18.120000,     cnt: 378345
-disdance : 18.130000,     cnt: 376372
-disdance : 18.140000,     cnt: 376923
-disdance : 18.150000,     cnt: 375809
-disdance : 18.160000,     cnt: 375895
-disdance : 18.170000,     cnt: 374480
-disdance : 18.180000,     cnt: 374471
-disdance : 18.190000,     cnt: 373108
-disdance : 18.200000,     cnt: 373488
-disdance : 18.210000,     cnt: 371958
-disdance : 18.220000,     cnt: 371206
-disdance : 18.230000,     cnt: 371526
-disdance : 18.240000,     cnt: 370984
-disdance : 18.250000,     cnt: 369552
-disdance : 18.260000,     cnt: 368850
-disdance : 18.270000,     cnt: 369059
-disdance : 18.280000,     cnt: 368445
-disdance : 18.290000,     cnt: 368362
-disdance : 18.300000,     cnt: 367716
-disdance : 18.310000,     cnt: 367026
-disdance : 18.320000,     cnt: 366148
-disdance : 18.330000,     cnt: 365964
-disdance : 18.340000,     cnt: 364120
-disdance : 18.350000,     cnt: 364395
-disdance : 18.360000,     cnt: 363318
-disdance : 18.370000,     cnt: 363192
-disdance : 18.380000,     cnt: 361234
-disdance : 18.390000,     cnt: 360827
-disdance : 18.400000,     cnt: 361356
-disdance : 18.410000,     cnt: 360947
-disdance : 18.420000,     cnt: 359784
-disdance : 18.430000,     cnt: 359594
-disdance : 18.440000,     cnt: 359690
-disdance : 18.450000,     cnt: 358937
-disdance : 18.460000,     cnt: 358992
-disdance : 18.470000,     cnt: 357328
-disdance : 18.480000,     cnt: 356782
-disdance : 18.490000,     cnt: 356622
-disdance : 18.500000,     cnt: 355546
-disdance : 18.510000,     cnt: 355098
-disdance : 18.520000,     cnt: 353279
-disdance : 18.530000,     cnt: 354451
-disdance : 18.540000,     cnt: 352544
-disdance : 18.550000,     cnt: 351539
-disdance : 18.560000,     cnt: 351556
-disdance : 18.570000,     cnt: 351317
-disdance : 18.580000,     cnt: 350474
-disdance : 18.590000,     cnt: 349830
-disdance : 18.600000,     cnt: 349336
-disdance : 18.610000,     cnt: 347684
-disdance : 18.620000,     cnt: 347999
-disdance : 18.630000,     cnt: 347148
-disdance : 18.640000,     cnt: 345827
-disdance : 18.650000,     cnt: 345582
-disdance : 18.660000,     cnt: 344960
-disdance : 18.670000,     cnt: 344020
-disdance : 18.680000,     cnt: 344131
-disdance : 18.690000,     cnt: 344290
-disdance : 18.700000,     cnt: 343226
-disdance : 18.710000,     cnt: 342178
-disdance : 18.720000,     cnt: 341306
-disdance : 18.730000,     cnt: 340040
-disdance : 18.740000,     cnt: 340025
-disdance : 18.750000,     cnt: 339433
-disdance : 18.760000,     cnt: 340186
-disdance : 18.770000,     cnt: 338466
-disdance : 18.780000,     cnt: 335863
-disdance : 18.790000,     cnt: 337566
-disdance : 18.800000,     cnt: 336554
-disdance : 18.810000,     cnt: 335097
-disdance : 18.820000,     cnt: 335516
-disdance : 18.830000,     cnt: 334133
-disdance : 18.840000,     cnt: 334491
-disdance : 18.850000,     cnt: 333960
-disdance : 18.860000,     cnt: 331290
-disdance : 18.870000,     cnt: 331558
-disdance : 18.880000,     cnt: 331019
-disdance : 18.890000,     cnt: 330566
-disdance : 18.900000,     cnt: 329942
-disdance : 18.910000,     cnt: 329607
-disdance : 18.920000,     cnt: 328489
-disdance : 18.930000,     cnt: 326855
-disdance : 18.940000,     cnt: 327098
-disdance : 18.950000,     cnt: 326767
-disdance : 18.960000,     cnt: 326068
-disdance : 18.970000,     cnt: 324947
-disdance : 18.980000,     cnt: 324206
-disdance : 18.990000,     cnt: 324394
-disdance : 19.000000,     cnt: 323217
-disdance : 19.010000,     cnt: 322556
-disdance : 19.020000,     cnt: 321410
-disdance : 19.030000,     cnt: 320958
-disdance : 19.040000,     cnt: 320049
-disdance : 19.050000,     cnt: 320254
-disdance : 19.060000,     cnt: 318860
-disdance : 19.070000,     cnt: 318499
-disdance : 19.080000,     cnt: 317392
-disdance : 19.090000,     cnt: 316743
-disdance : 19.100000,     cnt: 315974
-disdance : 19.110000,     cnt: 315550
-disdance : 19.120000,     cnt: 315120
-disdance : 19.130000,     cnt: 314726
-disdance : 19.140000,     cnt: 313437
-disdance : 19.150000,     cnt: 311654
-disdance : 19.160000,     cnt: 312905
-disdance : 19.170000,     cnt: 311876
-disdance : 19.180000,     cnt: 310592
-disdance : 19.190000,     cnt: 310519
-disdance : 19.200000,     cnt: 310315
-disdance : 19.210000,     cnt: 308492
-disdance : 19.220000,     cnt: 308341
-disdance : 19.230000,     cnt: 307724
-disdance : 19.240000,     cnt: 306653
-disdance : 19.250000,     cnt: 306575
-disdance : 19.260000,     cnt: 305961
-disdance : 19.270000,     cnt: 305190
-disdance : 19.280000,     cnt: 304168
-disdance : 19.290000,     cnt: 303897
-disdance : 19.300000,     cnt: 302107
-disdance : 19.310000,     cnt: 301347
-disdance : 19.320000,     cnt: 301772
-disdance : 19.330000,     cnt: 299467
-disdance : 19.340000,     cnt: 300198
-disdance : 19.350000,     cnt: 298753
-disdance : 19.360000,     cnt: 298521
-disdance : 19.370000,     cnt: 297559
-disdance : 19.380000,     cnt: 296675
-disdance : 19.390000,     cnt: 296573
-disdance : 19.400000,     cnt: 295161
-disdance : 19.410000,     cnt: 295196
-disdance : 19.420000,     cnt: 293290
-disdance : 19.430000,     cnt: 291978
-disdance : 19.440000,     cnt: 292420
-disdance : 19.450000,     cnt: 292229
-disdance : 19.460000,     cnt: 290671
-disdance : 19.470000,     cnt: 289177
-disdance : 19.480000,     cnt: 289072
-disdance : 19.490000,     cnt: 289147
-disdance : 19.500000,     cnt: 287926
-disdance : 19.510000,     cnt: 286969
-disdance : 19.520000,     cnt: 286298
-disdance : 19.530000,     cnt: 285838
-disdance : 19.540000,     cnt: 285184
-disdance : 19.550000,     cnt: 283987
-disdance : 19.560000,     cnt: 284519
-disdance : 19.570000,     cnt: 282550
-disdance : 19.580000,     cnt: 282550
-disdance : 19.590000,     cnt: 282017
-disdance : 19.600000,     cnt: 280364
-disdance : 19.610000,     cnt: 279718
-disdance : 19.620000,     cnt: 279462
-disdance : 19.630000,     cnt: 278913
-disdance : 19.640000,     cnt: 277916
-disdance : 19.650000,     cnt: 277093
-disdance : 19.660000,     cnt: 276096
-disdance : 19.670000,     cnt: 275575
-disdance : 19.680000,     cnt: 274148
-disdance : 19.690000,     cnt: 273286
-disdance : 19.700000,     cnt: 272606
-disdance : 19.710000,     cnt: 271908
-disdance : 19.720000,     cnt: 272897
-disdance : 19.730000,     cnt: 270908
-disdance : 19.740000,     cnt: 269999
-disdance : 19.750000,     cnt: 269846
-disdance : 19.760000,     cnt: 269208
-disdance : 19.770000,     cnt: 267970
-disdance : 19.780000,     cnt: 267481
-disdance : 19.790000,     cnt: 267734
-disdance : 19.800000,     cnt: 265724
-disdance : 19.810000,     cnt: 265157
-disdance : 19.820000,     cnt: 264408
-disdance : 19.830000,     cnt: 263224
-disdance : 19.840000,     cnt: 263765
-disdance : 19.850000,     cnt: 261751
-disdance : 19.860000,     cnt: 260332
-disdance : 19.870000,     cnt: 260725
-disdance : 19.880000,     cnt: 259017
-disdance : 19.890000,     cnt: 259293
-disdance : 19.900000,     cnt: 258363
-disdance : 19.910000,     cnt: 258270
-disdance : 19.920000,     cnt: 256129
-disdance : 19.930000,     cnt: 255480
-disdance : 19.940000,     cnt: 255654
-disdance : 19.950000,     cnt: 254067
-disdance : 19.960000,     cnt: 253541
-disdance : 19.970000,     cnt: 253742
-disdance : 19.980000,     cnt: 251669
-disdance : 19.990000,     cnt: 250627
-disdance : 20.000000,     cnt: 250301
-disdance : 20.010000,     cnt: 249772
-disdance : 20.020000,     cnt: 247954
-disdance : 20.030000,     cnt: 247435
-disdance : 20.040000,     cnt: 248350
-disdance : 20.050000,     cnt: 246624
-disdance : 20.060000,     cnt: 246394
-disdance : 20.070000,     cnt: 244963
-disdance : 20.080000,     cnt: 244015
-disdance : 20.090000,     cnt: 243852
-disdance : 20.100000,     cnt: 242083
-disdance : 20.110000,     cnt: 242082
-disdance : 20.120000,     cnt: 240722
-disdance : 20.130000,     cnt: 239231
-disdance : 20.140000,     cnt: 239708
-disdance : 20.150000,     cnt: 238572
-disdance : 20.160000,     cnt: 238377
-disdance : 20.170000,     cnt: 237676
-disdance : 20.180000,     cnt: 236906
-disdance : 20.190000,     cnt: 235791
-disdance : 20.200000,     cnt: 235877
-disdance : 20.210000,     cnt: 234453
-disdance : 20.220000,     cnt: 234378
-disdance : 20.230000,     cnt: 233033
-disdance : 20.240000,     cnt: 231616
-disdance : 20.250000,     cnt: 230817
-disdance : 20.260000,     cnt: 230740
-disdance : 20.270000,     cnt: 229579
-disdance : 20.280000,     cnt: 229630
-disdance : 20.290000,     cnt: 228964
-disdance : 20.300000,     cnt: 227925
-disdance : 20.310000,     cnt: 227079
-disdance : 20.320000,     cnt: 227055
-disdance : 20.330000,     cnt: 225997
-disdance : 20.340000,     cnt: 225668
-disdance : 20.350000,     cnt: 224554
-disdance : 20.360000,     cnt: 223894
-disdance : 20.370000,     cnt: 223099
-disdance : 20.380000,     cnt: 222970
-disdance : 20.390000,     cnt: 221478
-disdance : 20.400000,     cnt: 220978
-disdance : 20.410000,     cnt: 219486
-disdance : 20.420000,     cnt: 219906
-disdance : 20.430000,     cnt: 219268
-disdance : 20.440000,     cnt: 217979
-disdance : 20.450000,     cnt: 217514
-disdance : 20.460000,     cnt: 217084
-disdance : 20.470000,     cnt: 216424
-disdance : 20.480000,     cnt: 215345
-disdance : 20.490000,     cnt: 215064
-disdance : 20.500000,     cnt: 213618
-disdance : 20.510000,     cnt: 212765
-disdance : 20.520000,     cnt: 213420
-disdance : 20.530000,     cnt: 211832
-disdance : 20.540000,     cnt: 212525
-disdance : 20.550000,     cnt: 210812
-disdance : 20.560000,     cnt: 210311
-disdance : 20.570000,     cnt: 210323
-disdance : 20.580000,     cnt: 207927
-disdance : 20.590000,     cnt: 208592
-disdance : 20.600000,     cnt: 206905
-disdance : 20.610000,     cnt: 207041
-disdance : 20.620000,     cnt: 206062
-disdance : 20.630000,     cnt: 205145
-disdance : 20.640000,     cnt: 204411
-disdance : 20.650000,     cnt: 204035
-disdance : 20.660000,     cnt: 202490
-disdance : 20.670000,     cnt: 202366
-disdance : 20.680000,     cnt: 202250
-disdance : 20.690000,     cnt: 202405
-disdance : 20.700000,     cnt: 200893
-disdance : 20.710000,     cnt: 199011
-disdance : 20.720000,     cnt: 199054
-disdance : 20.730000,     cnt: 198427
-disdance : 20.740000,     cnt: 197731
-disdance : 20.750000,     cnt: 196995
-disdance : 20.760000,     cnt: 196506
-disdance : 20.770000,     cnt: 196356
-disdance : 20.780000,     cnt: 195565
-disdance : 20.790000,     cnt: 194263
-disdance : 20.800000,     cnt: 193908
-disdance : 20.810000,     cnt: 193303
-disdance : 20.820000,     cnt: 192521
-disdance : 20.830000,     cnt: 191920
-disdance : 20.840000,     cnt: 191608
-disdance : 20.850000,     cnt: 189567
-disdance : 20.860000,     cnt: 191176
-disdance : 20.870000,     cnt: 189837
-disdance : 20.880000,     cnt: 189604
-disdance : 20.890000,     cnt: 188567
-disdance : 20.900000,     cnt: 187943
-disdance : 20.910000,     cnt: 187580
-disdance : 20.920000,     cnt: 186760
-disdance : 20.930000,     cnt: 185768
-disdance : 20.940000,     cnt: 184983
-disdance : 20.950000,     cnt: 184323
-disdance : 20.960000,     cnt: 183990
-disdance : 20.970000,     cnt: 183835
-disdance : 20.980000,     cnt: 183121
-disdance : 20.990000,     cnt: 181819
-disdance : 21.000000,     cnt: 181596
-disdance : 21.010000,     cnt: 180290
-disdance : 21.020000,     cnt: 180662
-disdance : 21.030000,     cnt: 180665
-disdance : 21.040000,     cnt: 178984
-disdance : 21.050000,     cnt: 178446
-disdance : 21.060000,     cnt: 178061
-disdance : 21.070000,     cnt: 176822
-disdance : 21.080000,     cnt: 177170
-disdance : 21.090000,     cnt: 176153
-disdance : 21.100000,     cnt: 175602
-disdance : 21.110000,     cnt: 174742
-disdance : 21.120000,     cnt: 174320
-disdance : 21.130000,     cnt: 173824
-disdance : 21.140000,     cnt: 173624
-disdance : 21.150000,     cnt: 172745
-disdance : 21.160000,     cnt: 172571
-disdance : 21.170000,     cnt: 171697
-disdance : 21.180000,     cnt: 171252
-disdance : 21.190000,     cnt: 169785
-disdance : 21.200000,     cnt: 170655
-disdance : 21.210000,     cnt: 169228
-disdance : 21.220000,     cnt: 168361
-disdance : 21.230000,     cnt: 168293
-disdance : 21.240000,     cnt: 167640
-disdance : 21.250000,     cnt: 167038
-disdance : 21.260000,     cnt: 165357
-disdance : 21.270000,     cnt: 166115
-disdance : 21.280000,     cnt: 165951
-disdance : 21.290000,     cnt: 163883
-disdance : 21.300000,     cnt: 165194
-disdance : 21.310000,     cnt: 163449
-disdance : 21.320000,     cnt: 163190
-disdance : 21.330000,     cnt: 162009
-disdance : 21.340000,     cnt: 161949
-disdance : 21.350000,     cnt: 161104
-disdance : 21.360000,     cnt: 160646
-disdance : 21.370000,     cnt: 160507
-disdance : 21.380000,     cnt: 159880
-disdance : 21.390000,     cnt: 158873
-disdance : 21.400000,     cnt: 158404
-disdance : 21.410000,     cnt: 157666
-disdance : 21.420000,     cnt: 157525
-disdance : 21.430000,     cnt: 156818
-disdance : 21.440000,     cnt: 155974
-disdance : 21.450000,     cnt: 155671
-disdance : 21.460000,     cnt: 155796
-disdance : 21.470000,     cnt: 154441
-disdance : 21.480000,     cnt: 153771
-disdance : 21.490000,     cnt: 154002
-disdance : 21.500000,     cnt: 152471
-disdance : 21.510000,     cnt: 152868
-disdance : 21.520000,     cnt: 151878
-disdance : 21.530000,     cnt: 151426
-disdance : 21.540000,     cnt: 150402
-disdance : 21.550000,     cnt: 150153
-disdance : 21.560000,     cnt: 149930
-disdance : 21.570000,     cnt: 149439
-disdance : 21.580000,     cnt: 148065
-disdance : 21.590000,     cnt: 148093
-disdance : 21.600000,     cnt: 147463
-disdance : 21.610000,     cnt: 146808
-disdance : 21.620000,     cnt: 147182
-disdance : 21.630000,     cnt: 145990
-disdance : 21.640000,     cnt: 146026
-disdance : 21.650000,     cnt: 145486
-disdance : 21.660000,     cnt: 144427
-disdance : 21.670000,     cnt: 144394
-disdance : 21.680000,     cnt: 144037
-disdance : 21.690000,     cnt: 142072
-disdance : 21.700000,     cnt: 141864
-disdance : 21.710000,     cnt: 140930
-disdance : 21.720000,     cnt: 142075
-disdance : 21.730000,     cnt: 140945
-disdance : 21.740000,     cnt: 140507
-disdance : 21.750000,     cnt: 139742
-disdance : 21.760000,     cnt: 139039
-disdance : 21.770000,     cnt: 139097
-disdance : 21.780000,     cnt: 138047
-disdance : 21.790000,     cnt: 136737
-disdance : 21.800000,     cnt: 136926
-disdance : 21.810000,     cnt: 136387
-disdance : 21.820000,     cnt: 136340
-disdance : 21.830000,     cnt: 135244
-disdance : 21.840000,     cnt: 135196
-disdance : 21.850000,     cnt: 134678
-disdance : 21.860000,     cnt: 134242
-disdance : 21.870000,     cnt: 134021
-disdance : 21.880000,     cnt: 133405
-disdance : 21.890000,     cnt: 132725
-disdance : 21.900000,     cnt: 131503
-disdance : 21.910000,     cnt: 132252
-disdance : 21.920000,     cnt: 131203
-disdance : 21.930000,     cnt: 130231
-disdance : 21.940000,     cnt: 129790
-disdance : 21.950000,     cnt: 129897
-disdance : 21.960000,     cnt: 128825
-disdance : 21.970000,     cnt: 129449
-disdance : 21.980000,     cnt: 128071
-disdance : 21.990000,     cnt: 127715
-disdance : 22.000000,     cnt: 127425
-disdance : 22.010000,     cnt: 126951
-disdance : 22.020000,     cnt: 126388
-disdance : 22.030000,     cnt: 125811
-disdance : 22.040000,     cnt: 125374
-disdance : 22.050000,     cnt: 125408
-disdance : 22.060000,     cnt: 125022
-disdance : 22.070000,     cnt: 124550
-disdance : 22.080000,     cnt: 123934
-disdance : 22.090000,     cnt: 123115
-disdance : 22.100000,     cnt: 122130
-disdance : 22.110000,     cnt: 123039
-disdance : 22.120000,     cnt: 122337
-disdance : 22.130000,     cnt: 121084
-disdance : 22.140000,     cnt: 120709
-disdance : 22.150000,     cnt: 120261
-disdance : 22.160000,     cnt: 119253
-disdance : 22.170000,     cnt: 119811
-disdance : 22.180000,     cnt: 119063
-disdance : 22.190000,     cnt: 118517
-disdance : 22.200000,     cnt: 118180
-disdance : 22.210000,     cnt: 116948
-disdance : 22.220000,     cnt: 117105
-disdance : 22.230000,     cnt: 117220
-disdance : 22.240000,     cnt: 116267
-disdance : 22.250000,     cnt: 115965
-disdance : 22.260000,     cnt: 115347
-disdance : 22.270000,     cnt: 115038
-disdance : 22.280000,     cnt: 114936
-disdance : 22.290000,     cnt: 114510
-disdance : 22.300000,     cnt: 113579
-disdance : 22.310000,     cnt: 113737
-disdance : 22.320000,     cnt: 112527
-disdance : 22.330000,     cnt: 112244
-disdance : 22.340000,     cnt: 111314
-disdance : 22.350000,     cnt: 111436
-disdance : 22.360000,     cnt: 110879
-disdance : 22.370000,     cnt: 110413
-disdance : 22.380000,     cnt: 110009
-disdance : 22.390000,     cnt: 109143
-disdance : 22.400000,     cnt: 108904
-disdance : 22.410000,     cnt: 108960
-disdance : 22.420000,     cnt: 108302
-disdance : 22.430000,     cnt: 107932
-disdance : 22.440000,     cnt: 107466
-disdance : 22.450000,     cnt: 107152
-disdance : 22.460000,     cnt: 105625
-disdance : 22.470000,     cnt: 106236
-disdance : 22.480000,     cnt: 105953
-disdance : 22.490000,     cnt: 105818
-disdance : 22.500000,     cnt: 104476
-disdance : 22.510000,     cnt: 103852
-disdance : 22.520000,     cnt: 104430
-disdance : 22.530000,     cnt: 103067
-disdance : 22.540000,     cnt: 102831
-disdance : 22.550000,     cnt: 102992
-disdance : 22.560000,     cnt: 102822
-disdance : 22.570000,     cnt: 102095
-disdance : 22.580000,     cnt: 102132
-disdance : 22.590000,     cnt: 101834
-disdance : 22.600000,     cnt: 100658
-disdance : 22.610000,     cnt: 100584
-disdance : 22.620000,     cnt: 99048
-disdance : 22.630000,     cnt: 99266
-disdance : 22.640000,     cnt: 98855
-disdance : 22.650000,     cnt: 99254
-disdance : 22.660000,     cnt: 98442
-disdance : 22.670000,     cnt: 97842
-disdance : 22.680000,     cnt: 97228
-disdance : 22.690000,     cnt: 96821
-disdance : 22.700000,     cnt: 96119
-disdance : 22.710000,     cnt: 97078
-disdance : 22.720000,     cnt: 96036
-disdance : 22.730000,     cnt: 95445
-disdance : 22.740000,     cnt: 94807
-disdance : 22.750000,     cnt: 94554
-disdance : 22.760000,     cnt: 93991
-disdance : 22.770000,     cnt: 94362
-disdance : 22.780000,     cnt: 93823
-disdance : 22.790000,     cnt: 92923
-disdance : 22.800000,     cnt: 92478
-disdance : 22.810000,     cnt: 92345
-disdance : 22.820000,     cnt: 92011
-disdance : 22.830000,     cnt: 91664
-disdance : 22.840000,     cnt: 91185
-disdance : 22.850000,     cnt: 90537
-disdance : 22.860000,     cnt: 90316
-disdance : 22.870000,     cnt: 90292
-disdance : 22.880000,     cnt: 90206
-disdance : 22.890000,     cnt: 89463
-disdance : 22.900000,     cnt: 88733
-disdance : 22.910000,     cnt: 88572
-disdance : 22.920000,     cnt: 88609
-disdance : 22.930000,     cnt: 88425
-disdance : 22.940000,     cnt: 87522
-disdance : 22.950000,     cnt: 87104
-disdance : 22.960000,     cnt: 86689
-disdance : 22.970000,     cnt: 86570
-disdance : 22.980000,     cnt: 86223
-disdance : 22.990000,     cnt: 85748
-disdance : 23.000000,     cnt: 85045
-disdance : 23.010000,     cnt: 84822
-disdance : 23.020000,     cnt: 84215
-disdance : 23.030000,     cnt: 84170
-disdance : 23.040000,     cnt: 83856
-disdance : 23.050000,     cnt: 83609
-disdance : 23.060000,     cnt: 83127
-disdance : 23.070000,     cnt: 82327
-disdance : 23.080000,     cnt: 82341
-disdance : 23.090000,     cnt: 81697
-disdance : 23.100000,     cnt: 81848
-disdance : 23.110000,     cnt: 81338
-disdance : 23.120000,     cnt: 80768
-disdance : 23.130000,     cnt: 80361
-disdance : 23.140000,     cnt: 80616
-disdance : 23.150000,     cnt: 80402
-disdance : 23.160000,     cnt: 79530
-disdance : 23.170000,     cnt: 79233
-disdance : 23.180000,     cnt: 79135
-disdance : 23.190000,     cnt: 78468
-disdance : 23.200000,     cnt: 77845
-disdance : 23.210000,     cnt: 77679
-disdance : 23.220000,     cnt: 77271
-disdance : 23.230000,     cnt: 77214
-disdance : 23.240000,     cnt: 76872
-disdance : 23.250000,     cnt: 76722
-disdance : 23.260000,     cnt: 76205
-disdance : 23.270000,     cnt: 75897
-disdance : 23.280000,     cnt: 75769
-disdance : 23.290000,     cnt: 74957
-disdance : 23.300000,     cnt: 74984
-disdance : 23.310000,     cnt: 74157
-disdance : 23.320000,     cnt: 74245
-disdance : 23.330000,     cnt: 74158
-disdance : 23.340000,     cnt: 73492
-disdance : 23.350000,     cnt: 72624
-disdance : 23.360000,     cnt: 72422
-disdance : 23.370000,     cnt: 72319
-disdance : 23.380000,     cnt: 72347
-disdance : 23.390000,     cnt: 72009
-disdance : 23.400000,     cnt: 71909
-disdance : 23.410000,     cnt: 70898
-disdance : 23.420000,     cnt: 70585
-disdance : 23.430000,     cnt: 70623
-disdance : 23.440000,     cnt: 69787
-disdance : 23.450000,     cnt: 70075
-disdance : 23.460000,     cnt: 70003
-disdance : 23.470000,     cnt: 69159
-disdance : 23.480000,     cnt: 68825
-disdance : 23.490000,     cnt: 68677
-disdance : 23.500000,     cnt: 68433
-disdance : 23.510000,     cnt: 68337
-disdance : 23.520000,     cnt: 68252
-disdance : 23.530000,     cnt: 67584
-disdance : 23.540000,     cnt: 66966
-disdance : 23.550000,     cnt: 66821
-disdance : 23.560000,     cnt: 66808
-disdance : 23.570000,     cnt: 66008
-disdance : 23.580000,     cnt: 66084
-disdance : 23.590000,     cnt: 65786
-disdance : 23.600000,     cnt: 65453
-disdance : 23.610000,     cnt: 64615
-disdance : 23.620000,     cnt: 65263
-disdance : 23.630000,     cnt: 64454
-disdance : 23.640000,     cnt: 64020
-disdance : 23.650000,     cnt: 63642
-disdance : 23.660000,     cnt: 63811
-disdance : 23.670000,     cnt: 63282
-disdance : 23.680000,     cnt: 62671
-disdance : 23.690000,     cnt: 62346
-disdance : 23.700000,     cnt: 61731
-disdance : 23.710000,     cnt: 62086
-disdance : 23.720000,     cnt: 61714
-disdance : 23.730000,     cnt: 61127
-disdance : 23.740000,     cnt: 60782
-disdance : 23.750000,     cnt: 60817
-disdance : 23.760000,     cnt: 60553
-disdance : 23.770000,     cnt: 60545
-disdance : 23.780000,     cnt: 59883
-disdance : 23.790000,     cnt: 59644
-disdance : 23.800000,     cnt: 59398
-disdance : 23.810000,     cnt: 58910
-disdance : 23.820000,     cnt: 59279
-disdance : 23.830000,     cnt: 58520
-disdance : 23.840000,     cnt: 58765
-disdance : 23.850000,     cnt: 57676
-disdance : 23.860000,     cnt: 57880
-disdance : 23.870000,     cnt: 57444
-disdance : 23.880000,     cnt: 57100
-disdance : 23.890000,     cnt: 56675
-disdance : 23.900000,     cnt: 56988
-disdance : 23.910000,     cnt: 56218
-disdance : 23.920000,     cnt: 56083
-disdance : 23.930000,     cnt: 55509
-disdance : 23.940000,     cnt: 55524
-disdance : 23.950000,     cnt: 55524
-disdance : 23.960000,     cnt: 54477
-disdance : 23.970000,     cnt: 54709
-disdance : 23.980000,     cnt: 54624
-disdance : 23.990000,     cnt: 54648
-disdance : 24.000000,     cnt: 53561
-disdance : 24.010000,     cnt: 53524
-disdance : 24.020000,     cnt: 53539
-disdance : 24.030000,     cnt: 53176
-disdance : 24.040000,     cnt: 53570
-disdance : 24.050000,     cnt: 51893
-disdance : 24.060000,     cnt: 52321
-disdance : 24.070000,     cnt: 52029
-disdance : 24.080000,     cnt: 51809
-disdance : 24.090000,     cnt: 51821
-disdance : 24.100000,     cnt: 50944
-disdance : 24.110000,     cnt: 50763
-disdance : 24.120000,     cnt: 50295
-disdance : 24.130000,     cnt: 50644
-disdance : 24.140000,     cnt: 49868
-disdance : 24.150000,     cnt: 49940
-disdance : 24.160000,     cnt: 49690
-disdance : 24.170000,     cnt: 49744
-disdance : 24.180000,     cnt: 49262
-disdance : 24.190000,     cnt: 49101
-disdance : 24.200000,     cnt: 48387
-disdance : 24.210000,     cnt: 48295
-disdance : 24.220000,     cnt: 48132
-disdance : 24.230000,     cnt: 47806
-disdance : 24.240000,     cnt: 48222
-disdance : 24.250000,     cnt: 47339
-disdance : 24.260000,     cnt: 47486
-disdance : 24.270000,     cnt: 47066
-disdance : 24.280000,     cnt: 46981
-disdance : 24.290000,     cnt: 46360
-disdance : 24.300000,     cnt: 46448
-disdance : 24.310000,     cnt: 45982
-disdance : 24.320000,     cnt: 45988
-disdance : 24.330000,     cnt: 45798
-disdance : 24.340000,     cnt: 45417
-disdance : 24.350000,     cnt: 45245
-disdance : 24.360000,     cnt: 44757
-disdance : 24.370000,     cnt: 44658
-disdance : 24.380000,     cnt: 44525
-disdance : 24.390000,     cnt: 44164
-disdance : 24.400000,     cnt: 44156
-disdance : 24.410000,     cnt: 43526
-disdance : 24.420000,     cnt: 43479
-disdance : 24.430000,     cnt: 43542
-disdance : 24.440000,     cnt: 43215
-disdance : 24.450000,     cnt: 42785
-disdance : 24.460000,     cnt: 42525
-disdance : 24.470000,     cnt: 42213
-disdance : 24.480000,     cnt: 42165
-disdance : 24.490000,     cnt: 41945
-disdance : 24.500000,     cnt: 41512
-disdance : 24.510000,     cnt: 41703
-disdance : 24.520000,     cnt: 41286
-disdance : 24.530000,     cnt: 41237
-disdance : 24.540000,     cnt: 40619
-disdance : 24.550000,     cnt: 40710
-disdance : 24.560000,     cnt: 40182
-disdance : 24.570000,     cnt: 40284
-disdance : 24.580000,     cnt: 39900
-disdance : 24.590000,     cnt: 39709
-disdance : 24.600000,     cnt: 39332
-disdance : 24.610000,     cnt: 39258
-disdance : 24.620000,     cnt: 38602
-disdance : 24.630000,     cnt: 38985
-disdance : 24.640000,     cnt: 38703
-disdance : 24.650000,     cnt: 38544
-disdance : 24.660000,     cnt: 38004
-disdance : 24.670000,     cnt: 38068
-disdance : 24.680000,     cnt: 37534
-disdance : 24.690000,     cnt: 37666
-disdance : 24.700000,     cnt: 37303
-disdance : 24.710000,     cnt: 37402
-disdance : 24.720000,     cnt: 36990
-disdance : 24.730000,     cnt: 36809
-disdance : 24.740000,     cnt: 36622
-disdance : 24.750000,     cnt: 36557
-disdance : 24.760000,     cnt: 36021
-disdance : 24.770000,     cnt: 36033
-disdance : 24.780000,     cnt: 35778
-disdance : 24.790000,     cnt: 35783
-disdance : 24.800000,     cnt: 35269
-disdance : 24.810000,     cnt: 35402
-disdance : 24.820000,     cnt: 34901
-disdance : 24.830000,     cnt: 35039
-disdance : 24.840000,     cnt: 34784
-disdance : 24.850000,     cnt: 34074
-disdance : 24.860000,     cnt: 33952
-disdance : 24.870000,     cnt: 34055
-disdance : 24.880000,     cnt: 33870
-disdance : 24.890000,     cnt: 33738
-disdance : 24.900000,     cnt: 33240
-disdance : 24.910000,     cnt: 33059
-disdance : 24.920000,     cnt: 33328
-disdance : 24.930000,     cnt: 33224
-disdance : 24.940000,     cnt: 32767
-disdance : 24.950000,     cnt: 32511
-disdance : 24.960000,     cnt: 32530
-disdance : 24.970000,     cnt: 32178
-disdance : 24.980000,     cnt: 31968
-disdance : 24.990000,     cnt: 31599
-disdance : 25.000000,     cnt: 31966
-disdance : 25.010000,     cnt: 31031
-disdance : 25.020000,     cnt: 30966
-disdance : 25.030000,     cnt: 31506
-disdance : 25.040000,     cnt: 30778
-disdance : 25.050000,     cnt: 30691
-disdance : 25.060000,     cnt: 30471
-disdance : 25.070000,     cnt: 30343
-disdance : 25.080000,     cnt: 30226
-disdance : 25.090000,     cnt: 29568
-disdance : 25.100000,     cnt: 29621
-disdance : 25.110000,     cnt: 29686
-disdance : 25.120000,     cnt: 29568
-disdance : 25.130000,     cnt: 29242
-disdance : 25.140000,     cnt: 29196
-disdance : 25.150000,     cnt: 29049
-disdance : 25.160000,     cnt: 28677
-disdance : 25.170000,     cnt: 28478
-disdance : 25.180000,     cnt: 28485
-disdance : 25.190000,     cnt: 27904
-disdance : 25.200000,     cnt: 28150
-disdance : 25.210000,     cnt: 28132
-disdance : 25.220000,     cnt: 27776
-disdance : 25.230000,     cnt: 27538
-disdance : 25.240000,     cnt: 27294
-disdance : 25.250000,     cnt: 27164
-disdance : 25.260000,     cnt: 27325
-disdance : 25.270000,     cnt: 26609
-disdance : 25.280000,     cnt: 26735
-disdance : 25.290000,     cnt: 26620
-disdance : 25.300000,     cnt: 26590
-disdance : 25.310000,     cnt: 26215
-disdance : 25.320000,     cnt: 25928
-disdance : 25.330000,     cnt: 25954
-disdance : 25.340000,     cnt: 25914
-disdance : 25.350000,     cnt: 25752
-disdance : 25.360000,     cnt: 25636
-disdance : 25.370000,     cnt: 25496
-disdance : 25.380000,     cnt: 25233
-disdance : 25.390000,     cnt: 25298
-disdance : 25.400000,     cnt: 25064
-disdance : 25.410000,     cnt: 24738
-disdance : 25.420000,     cnt: 24734
-disdance : 25.430000,     cnt: 24618
-disdance : 25.440000,     cnt: 24267
-disdance : 25.450000,     cnt: 24096
-disdance : 25.460000,     cnt: 24044
-disdance : 25.470000,     cnt: 23899
-disdance : 25.480000,     cnt: 23477
-disdance : 25.490000,     cnt: 23560
-disdance : 25.500000,     cnt: 23409
-disdance : 25.510000,     cnt: 23464
-disdance : 25.520000,     cnt: 23077
-disdance : 25.530000,     cnt: 23116
-disdance : 25.540000,     cnt: 22749
-disdance : 25.550000,     cnt: 22467
-disdance : 25.560000,     cnt: 22733
-disdance : 25.570000,     cnt: 22488
-disdance : 25.580000,     cnt: 22384
-disdance : 25.590000,     cnt: 22105
-disdance : 25.600000,     cnt: 22072
-disdance : 25.610000,     cnt: 21990
-disdance : 25.620000,     cnt: 21946
-disdance : 25.630000,     cnt: 21391
-disdance : 25.640000,     cnt: 21452
-disdance : 25.650000,     cnt: 21291
-disdance : 25.660000,     cnt: 21203
-disdance : 25.670000,     cnt: 20969
-disdance : 25.680000,     cnt: 20956
-disdance : 25.690000,     cnt: 20555
-disdance : 25.700000,     cnt: 20464
-disdance : 25.710000,     cnt: 20513
-disdance : 25.720000,     cnt: 20258
-disdance : 25.730000,     cnt: 20405
-disdance : 25.740000,     cnt: 20025
-disdance : 25.750000,     cnt: 19957
-disdance : 25.760000,     cnt: 19825
-disdance : 25.770000,     cnt: 19750
-disdance : 25.780000,     cnt: 19531
-disdance : 25.790000,     cnt: 19577
-disdance : 25.800000,     cnt: 19214
-disdance : 25.810000,     cnt: 19298
-disdance : 25.820000,     cnt: 18931
-disdance : 25.830000,     cnt: 19218
-disdance : 25.840000,     cnt: 18609
-disdance : 25.850000,     cnt: 18582
-disdance : 25.860000,     cnt: 18539
-disdance : 25.870000,     cnt: 18400
-disdance : 25.880000,     cnt: 18237
-disdance : 25.890000,     cnt: 18253
-disdance : 25.900000,     cnt: 18102
-disdance : 25.910000,     cnt: 17960
-disdance : 25.920000,     cnt: 17626
-disdance : 25.930000,     cnt: 17742
-disdance : 25.940000,     cnt: 17567
-disdance : 25.950000,     cnt: 17697
-disdance : 25.960000,     cnt: 17487
-disdance : 25.970000,     cnt: 17406
-disdance : 25.980000,     cnt: 17184
-disdance : 25.990000,     cnt: 17171
-disdance : 26.000000,     cnt: 16897
-disdance : 26.010000,     cnt: 16884
-disdance : 26.020000,     cnt: 16684
-disdance : 26.030000,     cnt: 16599
-disdance : 26.040000,     cnt: 16448
-disdance : 26.050000,     cnt: 16490
-disdance : 26.060000,     cnt: 16072
-disdance : 26.070000,     cnt: 16063
-disdance : 26.080000,     cnt: 16039
-disdance : 26.090000,     cnt: 15738
-disdance : 26.100000,     cnt: 15834
-disdance : 26.110000,     cnt: 15709
-disdance : 26.120000,     cnt: 15511
-disdance : 26.130000,     cnt: 15239
-disdance : 26.140000,     cnt: 15273
-disdance : 26.150000,     cnt: 15272
-disdance : 26.160000,     cnt: 15097
-disdance : 26.170000,     cnt: 15183
-disdance : 26.180000,     cnt: 14830
-disdance : 26.190000,     cnt: 15091
-disdance : 26.200000,     cnt: 14842
-disdance : 26.210000,     cnt: 14502
-disdance : 26.220000,     cnt: 14533
-disdance : 26.230000,     cnt: 14465
-disdance : 26.240000,     cnt: 14220
-disdance : 26.250000,     cnt: 14382
-disdance : 26.260000,     cnt: 14279
-disdance : 26.270000,     cnt: 14213
-disdance : 26.280000,     cnt: 13962
-disdance : 26.290000,     cnt: 13801
-disdance : 26.300000,     cnt: 13661
-disdance : 26.310000,     cnt: 13664
-disdance : 26.320000,     cnt: 13716
-disdance : 26.330000,     cnt: 13597
-disdance : 26.340000,     cnt: 13252
-disdance : 26.350000,     cnt: 13228
-disdance : 26.360000,     cnt: 13129
-disdance : 26.370000,     cnt: 13150
-disdance : 26.380000,     cnt: 13014
-disdance : 26.390000,     cnt: 13049
-disdance : 26.400000,     cnt: 12825
-disdance : 26.410000,     cnt: 12512
-disdance : 26.420000,     cnt: 12674
-disdance : 26.430000,     cnt: 12484
-disdance : 26.440000,     cnt: 12603
-disdance : 26.450000,     cnt: 12359
-disdance : 26.460000,     cnt: 12173
-disdance : 26.470000,     cnt: 12182
-disdance : 26.480000,     cnt: 12156
-disdance : 26.490000,     cnt: 11940
-disdance : 26.500000,     cnt: 11842
-disdance : 26.510000,     cnt: 11989
-disdance : 26.520000,     cnt: 11674
-disdance : 26.530000,     cnt: 11708
-disdance : 26.540000,     cnt: 11458
-disdance : 26.550000,     cnt: 11530
-disdance : 26.560000,     cnt: 11281
-disdance : 26.570000,     cnt: 11301
-disdance : 26.580000,     cnt: 11085
-disdance : 26.590000,     cnt: 11166
-disdance : 26.600000,     cnt: 11090
-disdance : 26.610000,     cnt: 10846
-disdance : 26.620000,     cnt: 10826
-disdance : 26.630000,     cnt: 10748
-disdance : 26.640000,     cnt: 10687
-disdance : 26.650000,     cnt: 10483
-disdance : 26.660000,     cnt: 10457
-disdance : 26.670000,     cnt: 10380
-disdance : 26.680000,     cnt: 10331
-disdance : 26.690000,     cnt: 10565
-disdance : 26.700000,     cnt: 10226
-disdance : 26.710000,     cnt: 10215
-disdance : 26.720000,     cnt: 9910
-disdance : 26.730000,     cnt: 10040
-disdance : 26.740000,     cnt: 9868
-disdance : 26.750000,     cnt: 9810
-disdance : 26.760000,     cnt: 9789
-disdance : 26.770000,     cnt: 9735
-disdance : 26.780000,     cnt: 9597
-disdance : 26.790000,     cnt: 9525
-disdance : 26.800000,     cnt: 9554
-disdance : 26.810000,     cnt: 9485
-disdance : 26.820000,     cnt: 9369
-disdance : 26.830000,     cnt: 9031
-disdance : 26.840000,     cnt: 9361
-disdance : 26.850000,     cnt: 9305
-disdance : 26.860000,     cnt: 9040
-disdance : 26.870000,     cnt: 8814
-disdance : 26.880000,     cnt: 8926
-disdance : 26.890000,     cnt: 8820
-disdance : 26.900000,     cnt: 8848
-disdance : 26.910000,     cnt: 8646
-disdance : 26.920000,     cnt: 8461
-disdance : 26.930000,     cnt: 8636
-disdance : 26.940000,     cnt: 8398
-disdance : 26.950000,     cnt: 8255
-disdance : 26.960000,     cnt: 8343
-disdance : 26.970000,     cnt: 8439
-disdance : 26.980000,     cnt: 8246
-disdance : 26.990000,     cnt: 8203
-disdance : 27.000000,     cnt: 8240
-disdance : 27.010000,     cnt: 7910
-disdance : 27.020000,     cnt: 8018
-disdance : 27.030000,     cnt: 7891
-disdance : 27.040000,     cnt: 7922
-disdance : 27.050000,     cnt: 7700
-disdance : 27.060000,     cnt: 7754
-disdance : 27.070000,     cnt: 7579
-disdance : 27.080000,     cnt: 7690
-disdance : 27.090000,     cnt: 7615
-disdance : 27.100000,     cnt: 7376
-disdance : 27.110000,     cnt: 7428
-disdance : 27.120000,     cnt: 7175
-disdance : 27.130000,     cnt: 7366
-disdance : 27.140000,     cnt: 7196
-disdance : 27.150000,     cnt: 7174
-disdance : 27.160000,     cnt: 7210
-disdance : 27.170000,     cnt: 6925
-disdance : 27.180000,     cnt: 6969
-disdance : 27.190000,     cnt: 6892
-disdance : 27.200000,     cnt: 6921
-disdance : 27.210000,     cnt: 6734
-disdance : 27.220000,     cnt: 6928
-disdance : 27.230000,     cnt: 6664
-disdance : 27.240000,     cnt: 6707
-disdance : 27.250000,     cnt: 6634
-disdance : 27.260000,     cnt: 6620
-disdance : 27.270000,     cnt: 6528
-disdance : 27.280000,     cnt: 6509
-disdance : 27.290000,     cnt: 6311
-disdance : 27.300000,     cnt: 6233
-disdance : 27.310000,     cnt: 6369
-disdance : 27.320000,     cnt: 6354
-disdance : 27.330000,     cnt: 6083
-disdance : 27.340000,     cnt: 6159
-disdance : 27.350000,     cnt: 6159
-disdance : 27.360000,     cnt: 6128
-disdance : 27.370000,     cnt: 6059
-disdance : 27.380000,     cnt: 5929
-disdance : 27.390000,     cnt: 6008
-disdance : 27.400000,     cnt: 5858
-disdance : 27.410000,     cnt: 5828
-disdance : 27.420000,     cnt: 5768
-disdance : 27.430000,     cnt: 5679
-disdance : 27.440000,     cnt: 5610
-disdance : 27.450000,     cnt: 5552
-disdance : 27.460000,     cnt: 5524
-disdance : 27.470000,     cnt: 5411
-disdance : 27.480000,     cnt: 5451
-disdance : 27.490000,     cnt: 5242
-disdance : 27.500000,     cnt: 5223
-disdance : 27.510000,     cnt: 5264
-disdance : 27.520000,     cnt: 5169
-disdance : 27.530000,     cnt: 5226
-disdance : 27.540000,     cnt: 5287
-disdance : 27.550000,     cnt: 5267
-disdance : 27.560000,     cnt: 5131
-disdance : 27.570000,     cnt: 4971
-disdance : 27.580000,     cnt: 5186
-disdance : 27.590000,     cnt: 4796
-disdance : 27.600000,     cnt: 4917
-disdance : 27.610000,     cnt: 4939
-disdance : 27.620000,     cnt: 4812
-disdance : 27.630000,     cnt: 4843
-disdance : 27.640000,     cnt: 4780
-disdance : 27.650000,     cnt: 4630
-disdance : 27.660000,     cnt: 4656
-disdance : 27.670000,     cnt: 4569
-disdance : 27.680000,     cnt: 4526
-disdance : 27.690000,     cnt: 4540
-disdance : 27.700000,     cnt: 4579
-disdance : 27.710000,     cnt: 4385
-disdance : 27.720000,     cnt: 4443
-disdance : 27.730000,     cnt: 4320
-disdance : 27.740000,     cnt: 4290
-disdance : 27.750000,     cnt: 4371
-disdance : 27.760000,     cnt: 4267
-disdance : 27.770000,     cnt: 4220
-disdance : 27.780000,     cnt: 4260
-disdance : 27.790000,     cnt: 4251
-disdance : 27.800000,     cnt: 4030
-disdance : 27.810000,     cnt: 4032
-disdance : 27.820000,     cnt: 4212
-disdance : 27.830000,     cnt: 3998
-disdance : 27.840000,     cnt: 3994
-disdance : 27.850000,     cnt: 3985
-disdance : 27.860000,     cnt: 3938
-disdance : 27.870000,     cnt: 3996
-disdance : 27.880000,     cnt: 3870
-disdance : 27.890000,     cnt: 3918
-disdance : 27.900000,     cnt: 3906
-disdance : 27.910000,     cnt: 3672
-disdance : 27.920000,     cnt: 3709
-disdance : 27.930000,     cnt: 3735
-disdance : 27.940000,     cnt: 3663
-disdance : 27.950000,     cnt: 3658
-disdance : 27.960000,     cnt: 3576
-disdance : 27.970000,     cnt: 3576
-disdance : 27.980000,     cnt: 3445
-disdance : 27.990000,     cnt: 3563
-disdance : 28.000000,     cnt: 3562
-disdance : 28.010000,     cnt: 3474
-disdance : 28.020000,     cnt: 3444
-disdance : 28.030000,     cnt: 3438
-disdance : 28.040000,     cnt: 3387
-disdance : 28.050000,     cnt: 3282
-disdance : 28.060000,     cnt: 3369
-disdance : 28.070000,     cnt: 3285
-disdance : 28.080000,     cnt: 3264
-disdance : 28.090000,     cnt: 3293
-disdance : 28.100000,     cnt: 3247
-disdance : 28.110000,     cnt: 3173
-disdance : 28.120000,     cnt: 3241
-disdance : 28.130000,     cnt: 3027
-disdance : 28.140000,     cnt: 3174
-disdance : 28.150000,     cnt: 2993
-disdance : 28.160000,     cnt: 3044
-disdance : 28.170000,     cnt: 3064
-disdance : 28.180000,     cnt: 2983
-disdance : 28.190000,     cnt: 3009
-disdance : 28.200000,     cnt: 2921
-disdance : 28.210000,     cnt: 2895
-disdance : 28.220000,     cnt: 2902
-disdance : 28.230000,     cnt: 2878
-disdance : 28.240000,     cnt: 2882
-disdance : 28.250000,     cnt: 2814
-disdance : 28.260000,     cnt: 2809
-disdance : 28.270000,     cnt: 2779
-disdance : 28.280000,     cnt: 2719
-disdance : 28.290000,     cnt: 2697
-disdance : 28.300000,     cnt: 2800
-disdance : 28.310000,     cnt: 2654
-disdance : 28.320000,     cnt: 2686
-disdance : 28.330000,     cnt: 2572
-disdance : 28.340000,     cnt: 2547
-disdance : 28.350000,     cnt: 2584
-disdance : 28.360000,     cnt: 2526
-disdance : 28.370000,     cnt: 2494
-disdance : 28.380000,     cnt: 2518
-disdance : 28.390000,     cnt: 2473
-disdance : 28.400000,     cnt: 2467
-disdance : 28.410000,     cnt: 2469
-disdance : 28.420000,     cnt: 2361
-disdance : 28.430000,     cnt: 2423
-disdance : 28.440000,     cnt: 2345
-disdance : 28.450000,     cnt: 2393
-disdance : 28.460000,     cnt: 2456
-disdance : 28.470000,     cnt: 2218
-disdance : 28.480000,     cnt: 2327
-disdance : 28.490000,     cnt: 2235
-disdance : 28.500000,     cnt: 2197
-disdance : 28.510000,     cnt: 2217
-disdance : 28.520000,     cnt: 2180
-disdance : 28.530000,     cnt: 2188
-disdance : 28.540000,     cnt: 2184
-disdance : 28.550000,     cnt: 2139
-disdance : 28.560000,     cnt: 2078
-disdance : 28.570000,     cnt: 2084
-disdance : 28.580000,     cnt: 2074
-disdance : 28.590000,     cnt: 2140
-disdance : 28.600000,     cnt: 2003
-disdance : 28.610000,     cnt: 1943
-disdance : 28.620000,     cnt: 1941
-disdance : 28.630000,     cnt: 1938
-disdance : 28.640000,     cnt: 1995
-disdance : 28.650000,     cnt: 1987
-disdance : 28.660000,     cnt: 2008
-disdance : 28.670000,     cnt: 1891
-disdance : 28.680000,     cnt: 1918
-disdance : 28.690000,     cnt: 1914
-disdance : 28.700000,     cnt: 1846
-disdance : 28.710000,     cnt: 1835
-disdance : 28.720000,     cnt: 1790
-disdance : 28.730000,     cnt: 1850
-disdance : 28.740000,     cnt: 1750
-disdance : 28.750000,     cnt: 1768
-disdance : 28.760000,     cnt: 1688
-disdance : 28.770000,     cnt: 1631
-disdance : 28.780000,     cnt: 1719
-disdance : 28.790000,     cnt: 1690
-disdance : 28.800000,     cnt: 1751
-disdance : 28.810000,     cnt: 1648
-disdance : 28.820000,     cnt: 1686
-disdance : 28.830000,     cnt: 1654
-disdance : 28.840000,     cnt: 1615
-disdance : 28.850000,     cnt: 1579
-disdance : 28.860000,     cnt: 1669
-disdance : 28.870000,     cnt: 1571
-disdance : 28.880000,     cnt: 1660
-disdance : 28.890000,     cnt: 1521
-disdance : 28.900000,     cnt: 1574
-disdance : 28.910000,     cnt: 1579
-disdance : 28.920000,     cnt: 1488
-disdance : 28.930000,     cnt: 1433
-disdance : 28.940000,     cnt: 1486
-disdance : 28.950000,     cnt: 1450
-disdance : 28.960000,     cnt: 1429
-disdance : 28.970000,     cnt: 1396
-disdance : 28.980000,     cnt: 1469
-disdance : 28.990000,     cnt: 1426
-disdance : 29.000000,     cnt: 1338
-disdance : 29.010000,     cnt: 1415
-disdance : 29.020000,     cnt: 1307
-disdance : 29.030000,     cnt: 1334
-disdance : 29.040000,     cnt: 1310
-disdance : 29.050000,     cnt: 1316
-disdance : 29.060000,     cnt: 1279
-disdance : 29.070000,     cnt: 1299
-disdance : 29.080000,     cnt: 1279
-disdance : 29.090000,     cnt: 1276
-disdance : 29.100000,     cnt: 1214
-disdance : 29.110000,     cnt: 1219
-disdance : 29.120000,     cnt: 1231
-disdance : 29.130000,     cnt: 1213
-disdance : 29.140000,     cnt: 1261
-disdance : 29.150000,     cnt: 1231
-disdance : 29.160000,     cnt: 1206
-disdance : 29.170000,     cnt: 1143
-disdance : 29.180000,     cnt: 1168
-disdance : 29.190000,     cnt: 1147
-disdance : 29.200000,     cnt: 1104
-disdance : 29.210000,     cnt: 1154
-disdance : 29.220000,     cnt: 1069
-disdance : 29.230000,     cnt: 1140
-disdance : 29.240000,     cnt: 1087
-disdance : 29.250000,     cnt: 1131
-disdance : 29.260000,     cnt: 1074
-disdance : 29.270000,     cnt: 1047
-disdance : 29.280000,     cnt: 1045
-disdance : 29.290000,     cnt: 971
-disdance : 29.300000,     cnt: 1085
-disdance : 29.310000,     cnt: 1085
-disdance : 29.320000,     cnt: 1003
-disdance : 29.330000,     cnt: 970
-disdance : 29.340000,     cnt: 987
-disdance : 29.350000,     cnt: 984
-disdance : 29.360000,     cnt: 1002
-disdance : 29.370000,     cnt: 1002
-disdance : 29.380000,     cnt: 933
-disdance : 29.390000,     cnt: 904
-disdance : 29.400000,     cnt: 961
-disdance : 29.410000,     cnt: 915
-disdance : 29.420000,     cnt: 923
-disdance : 29.430000,     cnt: 853
-disdance : 29.440000,     cnt: 872
-disdance : 29.450000,     cnt: 959
-disdance : 29.460000,     cnt: 868
-disdance : 29.470000,     cnt: 877
-disdance : 29.480000,     cnt: 847
-disdance : 29.490000,     cnt: 872
-disdance : 29.500000,     cnt: 825
-disdance : 29.510000,     cnt: 816
-disdance : 29.520000,     cnt: 788
-disdance : 29.530000,     cnt: 811
-disdance : 29.540000,     cnt: 812
-disdance : 29.550000,     cnt: 786
-disdance : 29.560000,     cnt: 767
-disdance : 29.570000,     cnt: 782
-disdance : 29.580000,     cnt: 787
-disdance : 29.590000,     cnt: 769
-disdance : 29.600000,     cnt: 752
-disdance : 29.610000,     cnt: 795
-disdance : 29.620000,     cnt: 746
-disdance : 29.630000,     cnt: 738
-disdance : 29.640000,     cnt: 678
-disdance : 29.650000,     cnt: 713
-disdance : 29.660000,     cnt: 714
-disdance : 29.670000,     cnt: 703
-disdance : 29.680000,     cnt: 710
-disdance : 29.690000,     cnt: 668
-disdance : 29.700000,     cnt: 658
-disdance : 29.710000,     cnt: 646
-disdance : 29.720000,     cnt: 615
-disdance : 29.730000,     cnt: 688
-disdance : 29.740000,     cnt: 616
-disdance : 29.750000,     cnt: 680
-disdance : 29.760000,     cnt: 596
-disdance : 29.770000,     cnt: 616
-disdance : 29.780000,     cnt: 572
-disdance : 29.790000,     cnt: 613
-disdance : 29.800000,     cnt: 604
-disdance : 29.810000,     cnt: 594
-disdance : 29.820000,     cnt: 563
-disdance : 29.830000,     cnt: 601
-disdance : 29.840000,     cnt: 541
-disdance : 29.850000,     cnt: 593
-disdance : 29.860000,     cnt: 565
-disdance : 29.870000,     cnt: 519
-disdance : 29.880000,     cnt: 484
-disdance : 29.890000,     cnt: 516
-disdance : 29.900000,     cnt: 503
-disdance : 29.910000,     cnt: 540
-disdance : 29.920000,     cnt: 566
-disdance : 29.930000,     cnt: 522
-disdance : 29.940000,     cnt: 509
-disdance : 29.950000,     cnt: 502
-disdance : 29.960000,     cnt: 497
-disdance : 29.970000,     cnt: 520
-disdance : 29.980000,     cnt: 485
-disdance : 29.990000,     cnt: 487
-disdance : 30.000000,     cnt: 508
-disdance : 30.010000,     cnt: 453
-disdance : 30.020000,     cnt: 469
-disdance : 30.030000,     cnt: 430
-disdance : 30.040000,     cnt: 453
-disdance : 30.050000,     cnt: 436
-disdance : 30.060000,     cnt: 424
-disdance : 30.070000,     cnt: 452
-disdance : 30.080000,     cnt: 431
-disdance : 30.090000,     cnt: 445
-disdance : 30.100000,     cnt: 433
-disdance : 30.110000,     cnt: 437
-disdance : 30.120000,     cnt: 428
-disdance : 30.130000,     cnt: 415
-disdance : 30.140000,     cnt: 413
-disdance : 30.150000,     cnt: 408
-disdance : 30.160000,     cnt: 387
-disdance : 30.170000,     cnt: 419
-disdance : 30.180000,     cnt: 387
-disdance : 30.190000,     cnt: 387
-disdance : 30.200000,     cnt: 402
-disdance : 30.210000,     cnt: 352
-disdance : 30.220000,     cnt: 371
-disdance : 30.230000,     cnt: 369
-disdance : 30.240000,     cnt: 370
-disdance : 30.250000,     cnt: 373
-disdance : 30.260000,     cnt: 334
-disdance : 30.270000,     cnt: 329
-disdance : 30.280000,     cnt: 352
-disdance : 30.290000,     cnt: 310
-disdance : 30.300000,     cnt: 312
-disdance : 30.310000,     cnt: 356
-disdance : 30.320000,     cnt: 333
-disdance : 30.330000,     cnt: 329
-disdance : 30.340000,     cnt: 302
-disdance : 30.350000,     cnt: 307
-disdance : 30.360000,     cnt: 287
-disdance : 30.370000,     cnt: 307
-disdance : 30.380000,     cnt: 314
-disdance : 30.390000,     cnt: 287
-disdance : 30.400000,     cnt: 296
-disdance : 30.410000,     cnt: 284
-disdance : 30.420000,     cnt: 263
-disdance : 30.430000,     cnt: 297
-disdance : 30.440000,     cnt: 281
-disdance : 30.450000,     cnt: 254
-disdance : 30.460000,     cnt: 255
-disdance : 30.470000,     cnt: 287
-disdance : 30.480000,     cnt: 281
-disdance : 30.490000,     cnt: 293
-disdance : 30.500000,     cnt: 263
-disdance : 30.510000,     cnt: 252
-disdance : 30.520000,     cnt: 254
-disdance : 30.530000,     cnt: 245
-disdance : 30.540000,     cnt: 268
-disdance : 30.550000,     cnt: 229
-disdance : 30.560000,     cnt: 220
-disdance : 30.570000,     cnt: 253
-disdance : 30.580000,     cnt: 240
-disdance : 30.590000,     cnt: 241
-disdance : 30.600000,     cnt: 239
-disdance : 30.610000,     cnt: 231
-disdance : 30.620000,     cnt: 216
-disdance : 30.630000,     cnt: 213
-disdance : 30.640000,     cnt: 195
-disdance : 30.650000,     cnt: 224
-disdance : 30.660000,     cnt: 198
-disdance : 30.670000,     cnt: 183
-disdance : 30.680000,     cnt: 214
-disdance : 30.690000,     cnt: 196
-disdance : 30.700000,     cnt: 198
-disdance : 30.710000,     cnt: 218
-disdance : 30.720000,     cnt: 219
-disdance : 30.730000,     cnt: 196
-disdance : 30.740000,     cnt: 188
-disdance : 30.750000,     cnt: 175
-disdance : 30.760000,     cnt: 198
-disdance : 30.770000,     cnt: 160
-disdance : 30.780000,     cnt: 176
-disdance : 30.790000,     cnt: 202
-disdance : 30.800000,     cnt: 212
-disdance : 30.810000,     cnt: 167
-disdance : 30.820000,     cnt: 165
-disdance : 30.830000,     cnt: 193
-disdance : 30.840000,     cnt: 163
-disdance : 30.850000,     cnt: 132
-disdance : 30.860000,     cnt: 137
-disdance : 30.870000,     cnt: 156
-disdance : 30.880000,     cnt: 143
-disdance : 30.890000,     cnt: 156
-disdance : 30.900000,     cnt: 152
-disdance : 30.910000,     cnt: 153
-disdance : 30.920000,     cnt: 138
-disdance : 30.930000,     cnt: 142
-disdance : 30.940000,     cnt: 135
-disdance : 30.950000,     cnt: 122
-disdance : 30.960000,     cnt: 133
-disdance : 30.970000,     cnt: 105
-disdance : 30.980000,     cnt: 124
-disdance : 30.990000,     cnt: 106
-disdance : 31.000000,     cnt: 127
-disdance : 31.010000,     cnt: 114
-disdance : 31.020000,     cnt: 114
-disdance : 31.030000,     cnt: 136
-disdance : 31.040000,     cnt: 126
-disdance : 31.050000,     cnt: 121
-disdance : 31.060000,     cnt: 119
-disdance : 31.070000,     cnt: 112
-disdance : 31.080000,     cnt: 133
-disdance : 31.090000,     cnt: 122
-disdance : 31.100000,     cnt: 109
-disdance : 31.110000,     cnt: 106
-disdance : 31.120000,     cnt: 98
-disdance : 31.130000,     cnt: 102
-disdance : 31.140000,     cnt: 121
-disdance : 31.150000,     cnt: 97
-disdance : 31.160000,     cnt: 100
-disdance : 31.170000,     cnt: 108
-disdance : 31.180000,     cnt: 111
-disdance : 31.190000,     cnt: 101
-disdance : 31.200000,     cnt: 104
-disdance : 31.210000,     cnt: 100
-disdance : 31.220000,     cnt: 94
-disdance : 31.230000,     cnt: 101
-disdance : 31.240000,     cnt: 88
-disdance : 31.250000,     cnt: 88
-disdance : 31.260000,     cnt: 80
-disdance : 31.270000,     cnt: 82
-disdance : 31.280000,     cnt: 81
-disdance : 31.290000,     cnt: 102
-disdance : 31.300000,     cnt: 79
-disdance : 31.310000,     cnt: 86
-disdance : 31.320000,     cnt: 71
-disdance : 31.330000,     cnt: 71
-disdance : 31.340000,     cnt: 75
-disdance : 31.350000,     cnt: 73
-disdance : 31.360000,     cnt: 88
-disdance : 31.370000,     cnt: 80
-disdance : 31.380000,     cnt: 60
-disdance : 31.390000,     cnt: 66
-disdance : 31.400000,     cnt: 72
-disdance : 31.410000,     cnt: 72
-disdance : 31.420000,     cnt: 73
-disdance : 31.430000,     cnt: 62
-disdance : 31.440000,     cnt: 73
-disdance : 31.450000,     cnt: 67
-disdance : 31.460000,     cnt: 65
-disdance : 31.470000,     cnt: 69
-disdance : 31.480000,     cnt: 55
-disdance : 31.490000,     cnt: 65
-disdance : 31.500000,     cnt: 62
-disdance : 31.510000,     cnt: 48
-disdance : 31.520000,     cnt: 65
-disdance : 31.530000,     cnt: 69
-disdance : 31.540000,     cnt: 59
-disdance : 31.550000,     cnt: 48
-disdance : 31.560000,     cnt: 56
-disdance : 31.570000,     cnt: 54
-disdance : 31.580000,     cnt: 46
-disdance : 31.590000,     cnt: 49
-disdance : 31.600000,     cnt: 55
-disdance : 31.610000,     cnt: 59
-disdance : 31.620000,     cnt: 42
-disdance : 31.630000,     cnt: 53
-disdance : 31.640000,     cnt: 49
-disdance : 31.650000,     cnt: 39
-disdance : 31.660000,     cnt: 50
-disdance : 31.670000,     cnt: 46
-disdance : 31.680000,     cnt: 32
-disdance : 31.690000,     cnt: 54
-disdance : 31.700000,     cnt: 50
-disdance : 31.710000,     cnt: 47
-disdance : 31.720000,     cnt: 47
-disdance : 31.730000,     cnt: 55
-disdance : 31.740000,     cnt: 37
-disdance : 31.750000,     cnt: 27
-disdance : 31.760000,     cnt: 35
-disdance : 31.770000,     cnt: 30
-disdance : 31.780000,     cnt: 24
-disdance : 31.790000,     cnt: 49
-disdance : 31.800000,     cnt: 36
-disdance : 31.810000,     cnt: 27
-disdance : 31.820000,     cnt: 37
-disdance : 31.830000,     cnt: 24
-disdance : 31.840000,     cnt: 42
-disdance : 31.850000,     cnt: 38
-disdance : 31.860000,     cnt: 31
-disdance : 31.870000,     cnt: 29
-disdance : 31.880000,     cnt: 36
-disdance : 31.890000,     cnt: 34
-disdance : 31.900000,     cnt: 31
-disdance : 31.910000,     cnt: 32
-disdance : 31.920000,     cnt: 24
-disdance : 31.930000,     cnt: 21
-disdance : 31.940000,     cnt: 30
-disdance : 31.950000,     cnt: 28
-disdance : 31.960000,     cnt: 33
-disdance : 31.970000,     cnt: 23
-disdance : 31.980000,     cnt: 27
-disdance : 31.990000,     cnt: 22
-disdance : 32.000000,     cnt: 24
-disdance : 32.010000,     cnt: 24
-disdance : 32.020000,     cnt: 27
-disdance : 32.030000,     cnt: 24
-disdance : 32.040000,     cnt: 21
-disdance : 32.050000,     cnt: 18
-disdance : 32.060000,     cnt: 24
-disdance : 32.070000,     cnt: 16
-disdance : 32.080000,     cnt: 18
-disdance : 32.090000,     cnt: 18
-disdance : 32.100000,     cnt: 16
-disdance : 32.110000,     cnt: 18
-disdance : 32.120000,     cnt: 26
-disdance : 32.130000,     cnt: 24
-disdance : 32.140000,     cnt: 16
-disdance : 32.150000,     cnt: 15
-disdance : 32.160000,     cnt: 21
-disdance : 32.170000,     cnt: 13
-disdance : 32.180000,     cnt: 21
-disdance : 32.190000,     cnt: 19
-disdance : 32.200000,     cnt: 17
-disdance : 32.210000,     cnt: 18
-disdance : 32.220000,     cnt: 18
-disdance : 32.230000,     cnt: 14
-disdance : 32.240000,     cnt: 14
-disdance : 32.250000,     cnt: 15
-disdance : 32.260000,     cnt: 15
-disdance : 32.270000,     cnt: 14
-disdance : 32.280000,     cnt: 16
-disdance : 32.290000,     cnt: 11
-disdance : 32.300000,     cnt: 13
-disdance : 32.310000,     cnt: 16
-disdance : 32.320000,     cnt: 14
-disdance : 32.330000,     cnt: 12
-disdance : 32.340000,     cnt: 11
-disdance : 32.350000,     cnt: 14
-disdance : 32.360000,     cnt: 9
-disdance : 32.370000,     cnt: 6
-disdance : 32.380000,     cnt: 8
-disdance : 32.390000,     cnt: 9
-disdance : 32.400000,     cnt: 12
-disdance : 32.410000,     cnt: 9
-disdance : 32.420000,     cnt: 17
-disdance : 32.430000,     cnt: 22
-disdance : 32.440000,     cnt: 11
-disdance : 32.450000,     cnt: 6
-disdance : 32.460000,     cnt: 11
-disdance : 32.470000,     cnt: 7
-disdance : 32.480000,     cnt: 8
-disdance : 32.490000,     cnt: 9
-disdance : 32.500000,     cnt: 6
-disdance : 32.510000,     cnt: 6
-disdance : 32.520000,     cnt: 9
-disdance : 32.530000,     cnt: 10
-disdance : 32.540000,     cnt: 10
-disdance : 32.550000,     cnt: 10
-disdance : 32.560000,     cnt: 9
-disdance : 32.570000,     cnt: 9
-disdance : 32.580000,     cnt: 9
-disdance : 32.590000,     cnt: 8
-disdance : 32.600000,     cnt: 12
-disdance : 32.610000,     cnt: 0
-disdance : 32.620000,     cnt: 12
-disdance : 32.630000,     cnt: 4
-disdance : 32.640000,     cnt: 8
-disdance : 32.650000,     cnt: 11
-disdance : 32.660000,     cnt: 4
-disdance : 32.670000,     cnt: 9
-disdance : 32.680000,     cnt: 7
-disdance : 32.690000,     cnt: 8
-disdance : 32.700000,     cnt: 6
-disdance : 32.710000,     cnt: 7
-disdance : 32.720000,     cnt: 3
-disdance : 32.730000,     cnt: 1
-disdance : 32.740000,     cnt: 4
-disdance : 32.750000,     cnt: 13
-disdance : 32.760000,     cnt: 5
-disdance : 32.770000,     cnt: 3
-disdance : 32.780000,     cnt: 4
-disdance : 32.790000,     cnt: 5
-disdance : 32.800000,     cnt: 7
-disdance : 32.810000,     cnt: 3
-disdance : 32.820000,     cnt: 1
-disdance : 32.830000,     cnt: 4
-disdance : 32.840000,     cnt: 0
-disdance : 32.850000,     cnt: 3
-disdance : 32.860000,     cnt: 4
-disdance : 32.870000,     cnt: 2
-disdance : 32.880000,     cnt: 2
-disdance : 32.890000,     cnt: 3
-disdance : 32.900000,     cnt: 2
-disdance : 32.910000,     cnt: 5
-disdance : 32.920000,     cnt: 2
-disdance : 32.930000,     cnt: 4
-disdance : 32.940000,     cnt: 0
-disdance : 32.950000,     cnt: 2
-disdance : 32.960000,     cnt: 0
-disdance : 32.970000,     cnt: 5
-disdance : 32.980000,     cnt: 1
-disdance : 32.990000,     cnt: 2
-disdance : 33.000000,     cnt: 1
-disdance : 33.010000,     cnt: 1
-disdance : 33.020000,     cnt: 2
-disdance : 33.030000,     cnt: 1
-disdance : 33.040000,     cnt: 2
-disdance : 33.050000,     cnt: 1
-disdance : 33.060000,     cnt: 1
-disdance : 33.070000,     cnt: 0
-disdance : 33.080000,     cnt: 0
-disdance : 33.090000,     cnt: 1
-disdance : 33.100000,     cnt: 1
-disdance : 33.110000,     cnt: 2
-disdance : 33.120000,     cnt: 2
-disdance : 33.130000,     cnt: 0
-disdance : 33.140000,     cnt: 4
-disdance : 33.150000,     cnt: 0
-disdance : 33.160000,     cnt: 1
-disdance : 33.170000,     cnt: 1
-disdance : 33.180000,     cnt: 2
-disdance : 33.190000,     cnt: 4
-disdance : 33.200000,     cnt: 1
-disdance : 33.210000,     cnt: 1
-disdance : 33.220000,     cnt: 2
-disdance : 33.230000,     cnt: 1
-disdance : 33.240000,     cnt: 1
-disdance : 33.250000,     cnt: 1
-disdance : 33.260000,     cnt: 0
-disdance : 33.270000,     cnt: 0
-disdance : 33.280000,     cnt: 0
-disdance : 33.290000,     cnt: 2
-disdance : 33.300000,     cnt: 0
-disdance : 33.310000,     cnt: 1
-disdance : 33.320000,     cnt: 1
-disdance : 33.330000,     cnt: 0
-disdance : 33.340000,     cnt: 0
-disdance : 33.350000,     cnt: 0
-disdance : 33.360000,     cnt: 0
-disdance : 33.370000,     cnt: 0
-disdance : 33.380000,     cnt: 0
-disdance : 33.390000,     cnt: 0
-disdance : 33.400000,     cnt: 0
-disdance : 33.410000,     cnt: 0
-disdance : 33.420000,     cnt: 1
-disdance : 33.430000,     cnt: 0
-disdance : 33.440000,     cnt: 0
-disdance : 33.450000,     cnt: 0
-disdance : 33.460000,     cnt: 0
-disdance : 33.470000,     cnt: 0
-disdance : 33.480000,     cnt: 0
-disdance : 33.490000,     cnt: 0
-disdance : 33.500000,     cnt: 0
-disdance : 33.510000,     cnt: 0
-disdance : 33.520000,     cnt: 0
-disdance : 33.530000,     cnt: 1
-disdance : 33.540000,     cnt: 0
-disdance : 33.550000,     cnt: 0
-disdance : 33.560000,     cnt: 0
-disdance : 33.570000,     cnt: 0
-disdance : 33.580000,     cnt: 0
-disdance : 33.590000,     cnt: 0
-disdance : 33.600000,     cnt: 0
-disdance : 33.610000,     cnt: 0
-disdance : 33.620000,     cnt: 0
-disdance : 33.630000,     cnt: 0
-disdance : 33.640000,     cnt: 0
-disdance : 33.650000,     cnt: 0
-disdance : 33.660000,     cnt: 0
-disdance : 33.670000,     cnt: 0
-disdance : 33.680000,     cnt: 0
-disdance : 33.690000,     cnt: 0
-disdance : 33.700000,     cnt: 0
-disdance : 33.710000,     cnt: 0
-disdance : 33.720000,     cnt: 0
-disdance : 33.730000,     cnt: 0
-disdance : 33.740000,     cnt: 0
-disdance : 33.750000,     cnt: 0
-disdance : 33.760000,     cnt: 0
-disdance : 33.770000,     cnt: 0
-disdance : 33.780000,     cnt: 0
-disdance : 33.790000,     cnt: 0
-disdance : 33.800000,     cnt: 0
-disdance : 33.810000,     cnt: 0
-disdance : 33.820000,     cnt: 0
-disdance : 33.830000,     cnt: 0
-disdance : 33.840000,     cnt: 0
-disdance : 33.850000,     cnt: 0
-disdance : 33.860000,     cnt: 0
-disdance : 33.870000,     cnt: 0
-disdance : 33.880000,     cnt: 0
-disdance : 33.890000,     cnt: 0
-disdance : 33.900000,     cnt: 0
-disdance : 33.910000,     cnt: 0
-disdance : 33.920000,     cnt: 0
-disdance : 33.930000,     cnt: 0
-disdance : 33.940000,     cnt: 0
-disdance : 33.950000,     cnt: 0
-disdance : 33.960000,     cnt: 0
-disdance : 33.970000,     cnt: 0
-disdance : 33.980000,     cnt: 0
-disdance : 33.990000,     cnt: 0
-disdance : 34.000000,     cnt: 0
-disdance : 34.010000,     cnt: 0
-disdance : 34.020000,     cnt: 0
-disdance : 34.030000,     cnt: 0
-disdance : 34.040000,     cnt: 0
-disdance : 34.050000,     cnt: 0
-disdance : 34.060000,     cnt: 0
-disdance : 34.070000,     cnt: 0
-disdance : 34.080000,     cnt: 0
-disdance : 34.090000,     cnt: 0
-disdance : 34.100000,     cnt: 0
-disdance : 34.110000,     cnt: 0
-disdance : 34.120000,     cnt: 0
-disdance : 34.130000,     cnt: 0
-disdance : 34.140000,     cnt: 0
-disdance : 34.150000,     cnt: 0
-disdance : 34.160000,     cnt: 0
-disdance : 34.170000,     cnt: 0
-disdance : 34.180000,     cnt: 0
-disdance : 34.190000,     cnt: 0
-disdance : 34.200000,     cnt: 0
-disdance : 34.210000,     cnt: 0
-disdance : 34.220000,     cnt: 0
-disdance : 34.230000,     cnt: 0
-disdance : 34.240000,     cnt: 0
-disdance : 34.250000,     cnt: 0
-disdance : 34.260000,     cnt: 0
-disdance : 34.270000,     cnt: 0
-disdance : 34.280000,     cnt: 0
-disdance : 34.290000,     cnt: 0
-disdance : 34.300000,     cnt: 0
-disdance : 34.310000,     cnt: 0
-disdance : 34.320000,     cnt: 0
-disdance : 34.330000,     cnt: 0
-disdance : 34.340000,     cnt: 0
-disdance : 34.350000,     cnt: 0
-disdance : 34.360000,     cnt: 0
-disdance : 34.370000,     cnt: 0
-disdance : 34.380000,     cnt: 0
-disdance : 34.390000,     cnt: 0
-disdance : 34.400000,     cnt: 0
-disdance : 34.410000,     cnt: 0
-disdance : 34.420000,     cnt: 0
-disdance : 34.430000,     cnt: 0
-disdance : 34.440000,     cnt: 0
-disdance : 34.450000,     cnt: 0
-disdance : 34.460000,     cnt: 0
-disdance : 34.470000,     cnt: 0
-disdance : 34.480000,     cnt: 0
-disdance : 34.490000,     cnt: 0
-disdance : 34.500000,     cnt: 0
-disdance : 34.510000,     cnt: 0
-disdance : 34.520000,     cnt: 0
-disdance : 34.530000,     cnt: 0
-disdance : 34.540000,     cnt: 0
-disdance : 34.550000,     cnt: 0
-disdance : 34.560000,     cnt: 0
-disdance : 34.570000,     cnt: 0
-disdance : 34.580000,     cnt: 0
-disdance : 34.590000,     cnt: 0
-disdance : 34.600000,     cnt: 0
-disdance : 34.610000,     cnt: 0
-disdance : 34.620000,     cnt: 0
-disdance : 34.630000,     cnt: 0
+00.00 3
+00.01 20
+00.02 46
+00.03 105
+00.04 150
+00.05 233
+00.06 341
+00.07 449
+00.08 585
+00.09 675
+00.10 851
+00.11 1075
+00.12 1154
+00.13 1447
+00.14 1575
+00.15 1854
+00.16 2189
+00.17 2318
+00.18 2667
+00.19 2915
+00.20 3231
+00.21 3582
+00.22 3963
+00.23 4230
+00.24 4446
+00.25 5006
+00.26 5467
+00.27 5766
+00.28 6190
+00.29 6704
+00.30 7011
+00.31 7634
+00.32 8099
+00.33 8620
+00.34 9104
+00.35 9616
+00.36 10133
+00.37 10854
+00.38 11287
+00.39 11749
+00.40 12661
+00.41 12992
+00.42 13743
+00.43 14509
+00.44 14930
+00.45 15619
+00.46 16277
+00.47 16805
+00.48 17654
+00.49 18426
+00.50 19242
+00.51 19930
+00.52 20800
+00.53 21665
+00.54 22361
+00.55 23330
+00.56 24147
+00.57 24889
+00.58 25685
+00.59 26471
+00.60 27203
+00.61 28348
+00.62 29028
+00.63 30224
+00.64 30881
+00.65 32359
+00.66 32995
+00.67 34254
+00.68 34575
+00.69 35721
+00.70 36964
+00.71 38092
+00.72 39149
+00.73 40023
+00.74 41040
+00.75 41969
+00.76 43218
+00.77 44298
+00.78 45450
+00.79 46445
+00.80 47814
+00.81 49150
+00.82 50501
+00.83 51436
+00.84 52481
+00.85 53797
+00.86 54939
+00.87 56145
+00.88 57413
+00.89 58698
+00.90 60058
+00.91 61574
+00.92 62521
+00.93 63927
+00.94 65231
+00.95 67014
+00.96 67697
+00.97 69376
+00.98 71193
+00.99 72067
+01.00 73591
+01.01 74890
+01.02 76383
+01.03 77489
+01.04 79083
+01.05 80324
+01.06 82196
+01.07 83252
+01.08 85304
+01.09 86668
+01.10 87725
+01.11 89600
+01.12 90289
+01.13 93203
+01.14 94708
+01.15 95838
+01.16 98020
+01.17 99285
+01.18 100879
+01.19 102899
+01.20 103676
+01.21 105384
+01.22 107321
+01.23 109573
+01.24 110844
+01.25 112235
+01.26 113517
+01.27 115921
+01.28 116995
+01.29 119053
+01.30 121044
+01.31 122779
+01.32 124584
+01.33 126239
+01.34 128447
+01.35 129960
+01.36 132146
+01.37 133118
+01.38 135356
+01.39 137755
+01.40 139305
+01.41 141512
+01.42 142856
+01.43 144484
+01.44 146556
+01.45 148623
+01.46 150396
+01.47 152851
+01.48 154553
+01.49 156019
+01.50 157996
+01.51 160319
+01.52 162430
+01.53 164353
+01.54 166415
+01.55 168317
+01.56 171118
+01.57 173045
+01.58 175114
+01.59 176498
+01.60 178834
+01.61 181275
+01.62 182897
+01.63 185554
+01.64 187582
+01.65 189672
+01.66 191444
+01.67 193991
+01.68 195788
+01.69 198048
+01.70 200158
+01.71 202149
+01.72 205040
+01.73 207527
+01.74 209436
+01.75 210882
+01.76 214008
+01.77 216168
+01.78 217553
+01.79 219527
+01.80 222626
+01.81 224381
+01.82 228459
+01.83 230017
+01.84 231663
+01.85 234274
+01.86 236574
+01.87 239124
+01.88 241433
+01.89 243789
+01.90 245655
+01.91 248349
+01.92 251313
+01.93 252891
+01.94 255678
+01.95 257470
+01.96 260874
+01.97 263218
+01.98 265978
+01.99 268223
+02.00 270164
+02.01 273395
+02.02 275229
+02.03 278542
+02.04 280000
+02.05 283142
+02.06 285464
+02.07 287109
+02.08 289852
+02.09 292963
+02.10 295643
+02.11 297782
+02.12 299758
+02.13 303968
+02.14 305216
+02.15 307975
+02.16 311644
+02.17 313588
+02.18 316668
+02.19 317681
+02.20 322252
+02.21 324313
+02.22 326926
+02.23 330369
+02.24 332730
+02.25 336073
+02.26 338064
+02.27 339982
+02.28 342841
+02.29 344522
+02.30 348579
+02.31 351590
+02.32 354264
+02.33 356838
+02.34 360178
+02.35 363046
+02.36 364898
+02.37 369065
+02.38 371580
+02.39 372847
+02.40 376691
+02.41 380695
+02.42 382619
+02.43 383648
+02.44 387758
+02.45 390827
+02.46 395053
+02.47 396450
+02.48 399075
+02.49 402367
+02.50 405738
+02.51 408980
+02.52 412153
+02.53 414852
+02.54 417353
+02.55 420510
+02.56 422863
+02.57 425822
+02.58 428843
+02.59 432047
+02.60 434410
+02.61 438181
+02.62 441541
+02.63 444058
+02.64 446692
+02.65 449941
+02.66 453059
+02.67 455554
+02.68 459058
+02.69 461237
+02.70 464992
+02.71 468136
+02.72 472528
+02.73 473535
+02.74 478174
+02.75 479721
+02.76 482629
+02.77 486345
+02.78 490215
+02.79 493696
+02.80 495884
+02.81 498426
+02.82 501981
+02.83 505228
+02.84 508261
+02.85 512241
+02.86 514807
+02.87 517914
+02.88 521236
+02.89 524801
+02.90 527805
+02.91 532001
+02.92 533770
+02.93 536875
+02.94 540203
+02.95 544975
+02.96 547060
+02.97 550983
+02.98 552745
+02.99 558247
+03.00 560460
+03.01 562075
+03.02 566068
+03.03 568779
+03.04 572672
+03.05 576140
+03.06 579796
+03.07 582871
+03.08 585623
+03.09 588962
+03.10 593438
+03.11 595251
+03.12 599643
+03.13 603864
+03.14 606824
+03.15 611147
+03.16 614568
+03.17 615615
+03.18 619760
+03.19 621676
+03.20 626225
+03.21 630519
+03.22 632734
+03.23 637275
+03.24 641723
+03.25 644153
+03.26 647709
+03.27 650470
+03.28 654918
+03.29 659920
+03.30 660311
+03.31 664998
+03.32 668302
+03.33 671306
+03.34 674047
+03.35 677880
+03.36 680949
+03.37 684311
+03.38 687029
+03.39 691999
+03.40 695125
+03.41 699992
+03.42 703283
+03.43 706064
+03.44 712015
+03.45 713478
+03.46 716299
+03.47 719956
+03.48 723700
+03.49 727411
+03.50 730285
+03.51 732748
+03.52 737864
+03.53 740623
+03.54 744476
+03.55 748760
+03.56 751669
+03.57 755901
+03.58 760247
+03.59 761858
+03.60 766998
+03.61 771444
+03.62 774712
+03.63 777293
+03.64 779701
+03.65 783441
+03.66 787762
+03.67 791238
+03.68 798358
+03.69 798741
+03.70 803964
+03.71 806798
+03.72 809280
+03.73 815242
+03.74 816485
+03.75 821401
+03.76 824506
+03.77 828253
+03.78 833848
+03.79 837244
+03.80 839848
+03.81 842993
+03.82 847896
+03.83 849947
+03.84 855588
+03.85 858918
+03.86 861498
+03.87 866546
+03.88 870093
+03.89 873414
+03.90 876050
+03.91 880287
+03.92 885350
+03.93 889487
+03.94 893535
+03.95 895086
+03.96 898882
+03.97 903792
+03.98 906576
+03.99 911780
+04.00 914147
+04.01 917784
+04.02 923471
+04.03 926351
+04.04 930244
+04.05 933205
+04.06 938514
+04.07 939961
+04.08 944011
+04.09 946786
+04.10 952323
+04.11 955101
+04.12 959483
+04.13 965649
+04.14 967384
+04.15 970477
+04.16 974082
+04.17 980344
+04.18 982682
+04.19 987956
+04.20 991041
+04.21 992808
+04.22 1000640
+04.23 1003588
+04.24 1007489
+04.25 1010083
+04.26 1014507
+04.27 1018847
+04.28 1020651
+04.29 1025850
+04.30 1029675
+04.31 1033527
+04.32 1037673
+04.33 1041984
+04.34 1046101
+04.35 1050422
+04.36 1053852
+04.37 1057434
+04.38 1061569
+04.39 1065507
+04.40 1068061
+04.41 1074275
+04.42 1075487
+04.43 1081199
+04.44 1084401
+04.45 1086294
+04.46 1093619
+04.47 1095484
+04.48 1101812
+04.49 1103416
+04.50 1108925
+04.51 1112089
+04.52 1116132
+04.53 1120364
+04.54 1123091
+04.55 1128008
+04.56 1133746
+04.57 1136102
+04.58 1138993
+04.59 1144730
+04.60 1149276
+04.61 1154369
+04.62 1156000
+04.63 1159720
+04.64 1162341
+04.65 1167037
+04.66 1173389
+04.67 1175975
+04.68 1178736
+04.69 1183793
+04.70 1188890
+04.71 1192757
+04.72 1197364
+04.73 1199221
+04.74 1203222
+04.75 1207121
+04.76 1211968
+04.77 1216440
+04.78 1220530
+04.79 1222622
+04.80 1228491
+04.81 1234536
+04.82 1238495
+04.83 1241356
+04.84 1243092
+04.85 1248503
+04.86 1253022
+04.87 1255906
+04.88 1261380
+04.89 1262668
+04.90 1268791
+04.91 1272037
+04.92 1276895
+04.93 1279113
+04.94 1284840
+04.95 1287547
+04.96 1293211
+04.97 1295925
+04.98 1300918
+04.99 1304057
+05.00 1309181
+05.01 1313257
+05.02 1317277
+05.03 1321522
+05.04 1323347
+05.05 1328853
+05.06 1334058
+05.07 1337303
+05.08 1342590
+05.09 1346216
+05.10 1350775
+05.11 1354647
+05.12 1355954
+05.13 1363380
+05.14 1363202
+05.15 1370626
+05.16 1373415
+05.17 1376046
+05.18 1382468
+05.19 1385337
+05.20 1389029
+05.21 1396526
+05.22 1397417
+05.23 1402690
+05.24 1406111
+05.25 1412660
+05.26 1415713
+05.27 1418729
+05.28 1423748
+05.29 1426153
+05.30 1430182
+05.31 1434794
+05.32 1439733
+05.33 1445088
+05.34 1447511
+05.35 1451572
+05.36 1456116
+05.37 1459564
+05.38 1462881
+05.39 1469347
+05.40 1472039
+05.41 1474214
+05.42 1481629
+05.43 1486980
+05.44 1491585
+05.45 1493462
+05.46 1497906
+05.47 1501623
+05.48 1505095
+05.49 1509316
+05.50 1513801
+05.51 1517461
+05.52 1522375
+05.53 1526231
+05.54 1529166
+05.55 1534446
+05.56 1537884
+05.57 1543820
+05.58 1547215
+05.59 1551243
+05.60 1554244
+05.61 1559598
+05.62 1561349
+05.63 1567733
+05.64 1572511
+05.65 1577015
+05.66 1578944
+05.67 1580223
+05.68 1587652
+05.69 1590609
+05.70 1596886
+05.71 1601107
+05.72 1604622
+05.73 1609402
+05.74 1613484
+05.75 1615877
+05.76 1621477
+05.77 1626326
+05.78 1629780
+05.79 1630740
+05.80 1638348
+05.81 1639814
+05.82 1644062
+05.83 1647496
+05.84 1653917
+05.85 1657524
+05.86 1664504
+05.87 1665229
+05.88 1668356
+05.89 1675130
+05.90 1678303
+05.91 1681855
+05.92 1686092
+05.93 1690757
+05.94 1696594
+05.95 1698878
+05.96 1702800
+05.97 1706456
+05.98 1711972
+05.99 1716324
+06.00 1718409
+06.01 1725564
+06.02 1725654
+06.03 1732042
+06.04 1737020
+06.05 1739193
+06.06 1746491
+06.07 1747110
+06.08 1752324
+06.09 1757434
+06.10 1761247
+06.11 1763272
+06.12 1770422
+06.13 1772420
+06.14 1779029
+06.15 1781783
+06.16 1787563
+06.17 1790164
+06.18 1795491
+06.19 1797914
+06.20 1801733
+06.21 1806502
+06.22 1810462
+06.23 1815327
+06.24 1819254
+06.25 1823455
+06.26 1826285
+06.27 1830788
+06.28 1834318
+06.29 1838015
+06.30 1842855
+06.31 1849069
+06.32 1854300
+06.33 1854991
+06.34 1859958
+06.35 1863022
+06.36 1868675
+06.37 1873428
+06.38 1876401
+06.39 1880895
+06.40 1885986
+06.41 1888579
+06.42 1893437
+06.43 1898580
+06.44 1901618
+06.45 1905340
+06.46 1907778
+06.47 1913084
+06.48 1918268
+06.49 1919783
+06.50 1923757
+06.51 1928134
+06.52 1932814
+06.53 1939291
+06.54 1944609
+06.55 1946088
+06.56 1950120
+06.57 1952268
+06.58 1957225
+06.59 1962712
+06.60 1965279
+06.61 1967887
+06.62 1972464
+06.63 1979362
+06.64 1983693
+06.65 1987014
+06.66 1989372
+06.67 1995151
+06.68 1998342
+06.69 2001043
+06.70 2005782
+06.71 2010665
+06.72 2014052
+06.73 2018784
+06.74 2023275
+06.75 2025584
+06.76 2032147
+06.77 2033810
+06.78 2037709
+06.79 2043579
+06.80 2047395
+06.81 2050414
+06.82 2054806
+06.83 2059482
+06.84 2064812
+06.85 2068695
+06.86 2073649
+06.87 2075349
+06.88 2080366
+06.89 2084264
+06.90 2084397
+06.91 2089677
+06.92 2093797
+06.93 2098930
+06.94 2104890
+06.95 2109123
+06.96 2112878
+06.97 2114094
+06.98 2119097
+06.99 2122654
+07.00 2128035
+07.01 2131173
+07.02 2133521
+07.03 2139515
+07.04 2141943
+07.05 2147131
+07.06 2151874
+07.07 2154768
+07.08 2159566
+07.09 2162870
+07.10 2167250
+07.11 2171271
+07.12 2175736
+07.13 2179113
+07.14 2183814
+07.15 2187508
+07.16 2190893
+07.17 2196658
+07.18 2198578
+07.19 2202800
+07.20 2206548
+07.21 2208265
+07.22 2213395
+07.23 2217342
+07.24 2222299
+07.25 2228306
+07.26 2232673
+07.27 2237254
+07.28 2237312
+07.29 2242871
+07.30 2246258
+07.31 2251592
+07.32 2255252
+07.33 2258856
+07.34 2262028
+07.35 2266078
+07.36 2268453
+07.37 2273675
+07.38 2277327
+07.39 2281904
+07.40 2285580
+07.41 2291185
+07.42 2292034
+07.43 2297601
+07.44 2298921
+07.45 2304262
+07.46 2310526
+07.47 2314043
+07.48 2316345
+07.49 2318217
+07.50 2323971
+07.51 2329078
+07.52 2331875
+07.53 2335464
+07.54 2339910
+07.55 2342807
+07.56 2347257
+07.57 2349470
+07.58 2354240
+07.59 2358151
+07.60 2364251
+07.61 2366092
+07.62 2371688
+07.63 2372476
+07.64 2381111
+07.65 2381657
+07.66 2386788
+07.67 2393524
+07.68 2393354
+07.69 2398176
+07.70 2398512
+07.71 2406135
+07.72 2408718
+07.73 2412657
+07.74 2418942
+07.75 2416975
+07.76 2423946
+07.77 2429197
+07.78 2430403
+07.79 2435451
+07.80 2438079
+07.81 2441961
+07.82 2445827
+07.83 2450117
+07.84 2453534
+07.85 2457870
+07.86 2459332
+07.87 2463879
+07.88 2466070
+07.89 2475795
+07.90 2475221
+07.91 2477842
+07.92 2483793
+07.93 2487299
+07.94 2489890
+07.95 2495558
+07.96 2496690
+07.97 2499844
+07.98 2505606
+07.99 2509098
+08.00 2513905
+08.01 2518674
+08.02 2520531
+08.03 2522000
+08.04 2525250
+08.05 2530894
+08.06 2536060
+08.07 2537047
+08.08 2542572
+08.09 2544274
+08.10 2547727
+08.11 2554305
+08.12 2556222
+08.13 2561216
+08.14 2563776
+08.15 2565345
+08.16 2572725
+08.17 2577078
+08.18 2581024
+08.19 2581468
+08.20 2585730
+08.21 2592149
+08.22 2591361
+08.23 2599380
+08.24 2598597
+08.25 2601606
+08.26 2604379
+08.27 2609260
+08.28 2615146
+08.29 2616625
+08.30 2619809
+08.31 2625111
+08.32 2628961
+08.33 2634663
+08.34 2632030
+08.35 2639240
+08.36 2640648
+08.37 2641607
+08.38 2647535
+08.39 2652762
+08.40 2656006
+08.41 2659252
+08.42 2660895
+08.43 2667647
+08.44 2669200
+08.45 2673571
+08.46 2676949
+08.47 2681516
+08.48 2682937
+08.49 2689217
+08.50 2693296
+08.51 2695974
+08.52 2694887
+08.53 2701113
+08.54 2704392
+08.55 2707321
+08.56 2712526
+08.57 2717640
+08.58 2722110
+08.59 2721751
+08.60 2724368
+08.61 2728606
+08.62 2730493
+08.63 2735513
+08.64 2737676
+08.65 2743406
+08.66 2744688
+08.67 2749256
+08.68 2754462
+08.69 2750708
+08.70 2760352
+08.71 2763402
+08.72 2767463
+08.73 2768929
+08.74 2771000
+08.75 2776425
+08.76 2778913
+08.77 2782430
+08.78 2785230
+08.79 2790382
+08.80 2790028
+08.81 2797643
+08.82 2795343
+08.83 2802349
+08.84 2805563
+08.85 2808094
+08.86 2811937
+08.87 2813759
+08.88 2818288
+08.89 2822497
+08.90 2825716
+08.91 2830422
+08.92 2831056
+08.93 2833698
+08.94 2839893
+08.95 2843530
+08.96 2846815
+08.97 2850101
+08.98 2853603
+08.99 2855547
+09.00 2856588
+09.01 2863723
+09.02 2864002
+09.03 2866821
+09.04 2870738
+09.05 2875600
+09.06 2878869
+09.07 2881166
+09.08 2884441
+09.09 2885359
+09.10 2890338
+09.11 2892519
+09.12 2896174
+09.13 2899372
+09.14 2903888
+09.15 2905263
+09.16 2909791
+09.17 2913979
+09.18 2915548
+09.19 2917059
+09.20 2920673
+09.21 2924316
+09.22 2928968
+09.23 2930634
+09.24 2932799
+09.25 2935320
+09.26 2941970
+09.27 2940355
+09.28 2946002
+09.29 2948873
+09.30 2952905
+09.31 2955473
+09.32 2959594
+09.33 2957816
+09.34 2965967
+09.35 2963752
+09.36 2968988
+09.37 2972307
+09.38 2973857
+09.39 2975826
+09.40 2986129
+09.41 2988136
+09.42 2990932
+09.43 2991171
+09.44 2991916
+09.45 2996665
+09.46 3001341
+09.47 3002252
+09.48 3008374
+09.49 3006884
+09.50 3007666
+09.51 3013531
+09.52 3017209
+09.53 3020701
+09.54 3024889
+09.55 3025099
+09.56 3030674
+09.57 3030480
+09.58 3034985
+09.59 3036012
+09.60 3042638
+09.61 3044044
+09.62 3045614
+09.63 3050959
+09.64 3052287
+09.65 3056087
+09.66 3059277
+09.67 3060050
+09.68 3063378
+09.69 3065818
+09.70 3070951
+09.71 3073429
+09.72 3074471
+09.73 3075785
+09.74 3079477
+09.75 3082356
+09.76 3087274
+09.77 3089426
+09.78 3092033
+09.79 3094585
+09.80 3098553
+09.81 3100212
+09.82 3106781
+09.83 3107264
+09.84 3106250
+09.85 3108367
+09.86 3115596
+09.87 3117437
+09.88 3118964
+09.89 3118610
+09.90 3122098
+09.91 3125890
+09.92 3129686
+09.93 3134138
+09.94 3137346
+09.95 3139361
+09.96 3141083
+09.97 3145127
+09.98 3145366
+09.99 3147824
+10.00 3150309
+10.01 3158097
+10.02 3154569
+10.03 3163308
+10.04 3162242
+10.05 3163412
+10.06 3165817
+10.07 3169315
+10.08 3173758
+10.09 3175135
+10.10 3178219
+10.11 3177425
+10.12 3181909
+10.13 3186359
+10.14 3188833
+10.15 3188391
+10.16 3194049
+10.17 3194935
+10.18 3197316
+10.19 3202305
+10.20 3205584
+10.21 3204275
+10.22 3207706
+10.23 3208156
+10.24 3211997
+10.25 3211325
+10.26 3217275
+10.27 3219231
+10.28 3222723
+10.29 3225675
+10.30 3228181
+10.31 3232103
+10.32 3232480
+10.33 3230259
+10.34 3236810
+10.35 3242562
+10.36 3238881
+10.37 3244436
+10.38 3247553
+10.39 3253657
+10.40 3252881
+10.41 3256086
+10.42 3257529
+10.43 3257388
+10.44 3258076
+10.45 3262970
+10.46 3263095
+10.47 3266992
+10.48 3268872
+10.49 3273457
+10.50 3276209
+10.51 3279076
+10.52 3279193
+10.53 3281414
+10.54 3283223
+10.55 3282664
+10.56 3288737
+10.57 3291353
+10.58 3294673
+10.59 3294446
+10.60 3295328
+10.61 3297522
+10.62 3298915
+10.63 3304623
+10.64 3306169
+10.65 3304972
+10.66 3308814
+10.67 3310087
+10.68 3313965
+10.69 3315999
+10.70 3320733
+10.71 3319739
+10.72 3322617
+10.73 3327565
+10.74 3328476
+10.75 3334120
+10.76 3330705
+10.77 3333483
+10.78 3336742
+10.79 3342182
+10.80 3341666
+10.81 3343312
+10.82 3346145
+10.83 3347426
+10.84 3351116
+10.85 3352397
+10.86 3353187
+10.87 3356589
+10.88 3359063
+10.89 3354819
+10.90 3358861
+10.91 3362768
+10.92 3370071
+10.93 3366895
+10.94 3367928
+10.95 3372853
+10.96 3373898
+10.97 3372290
+10.98 3378116
+10.99 3379035
+11.00 3384105
+11.01 3385453
+11.02 3384755
+11.03 3388949
+11.04 3395496
+11.05 3393786
+11.06 3392745
+11.07 3393422
+11.08 3396138
+11.09 3400988
+11.10 3400126
+11.11 3404179
+11.12 3406855
+11.13 3408400
+11.14 3408062
+11.15 3412164
+11.16 3412031
+11.17 3411523
+11.18 3413554
+11.19 3418416
+11.20 3419342
+11.21 3421469
+11.22 3425204
+11.23 3424153
+11.24 3424970
+11.25 3430411
+11.26 3427273
+11.27 3432474
+11.28 3433629
+11.29 3431830
+11.30 3436091
+11.31 3438445
+11.32 3438999
+11.33 3445414
+11.34 3444226
+11.35 3444870
+11.36 3448721
+11.37 3450610
+11.38 3448190
+11.39 3450108
+11.40 3452866
+11.41 3454061
+11.42 3458336
+11.43 3458610
+11.44 3461078
+11.45 3462539
+11.46 3464549
+11.47 3467209
+11.48 3467749
+11.49 3470041
+11.50 3469556
+11.51 3470707
+11.52 3470913
+11.53 3476171
+11.54 3478294
+11.55 3478726
+11.56 3483666
+11.57 3478487
+11.58 3481961
+11.59 3484001
+11.60 3483915
+11.61 3486876
+11.62 3488175
+11.63 3490544
+11.64 3494755
+11.65 3492102
+11.66 3492737
+11.67 3498908
+11.68 3496978
+11.69 3498817
+11.70 3499834
+11.71 3499782
+11.72 3505652
+11.73 3502092
+11.74 3506949
+11.75 3506352
+11.76 3508535
+11.77 3512534
+11.78 3510594
+11.79 3513518
+11.80 3513152
+11.81 3514993
+11.82 3515965
+11.83 3517054
+11.84 3522574
+11.85 3520373
+11.86 3520521
+11.87 3524344
+11.88 3527094
+11.89 3528722
+11.90 3531485
+11.91 3528044
+11.92 3530450
+11.93 3529140
+11.94 3531604
+11.95 3533538
+11.96 3537211
+11.97 3536656
+11.98 3534849
+11.99 3534911
+12.00 3535813
+12.01 3541779
+12.02 3539514
+12.03 3543970
+12.04 3543960
+12.05 3547687
+12.06 3545522
+12.07 3549367
+12.08 3549666
+12.09 3547036
+12.10 3548718
+12.11 3553177
+12.12 3553684
+12.13 3555945
+12.14 3552904
+12.15 3558993
+12.16 3555793
+12.17 3556012
+12.18 3557744
+12.19 3558684
+12.20 3563433
+12.21 3566229
+12.22 3563161
+12.23 3564136
+12.24 3567493
+12.25 3565492
+12.26 3569508
+12.27 3567789
+12.28 3567472
+12.29 3569129
+12.30 3573065
+12.31 3571806
+12.32 3575740
+12.33 3573499
+12.34 3576360
+12.35 3573683
+12.36 3575215
+12.37 3580787
+12.38 3578175
+12.39 3579485
+12.40 3581115
+12.41 3584854
+12.42 3580896
+12.43 3581918
+12.44 3583224
+12.45 3584909
+12.46 3580938
+12.47 3581668
+12.48 3589622
+12.49 3584787
+12.50 3590782
+12.51 3588004
+12.52 3589272
+12.53 3587973
+12.54 3591068
+12.55 3593623
+12.56 3595088
+12.57 3595904
+12.58 3593748
+12.59 3597897
+12.60 3595428
+12.61 3599436
+12.62 3593485
+12.63 3595712
+12.64 3598633
+12.65 3601791
+12.66 3602816
+12.67 3605732
+12.68 3602164
+12.69 3602952
+12.70 3601946
+12.71 3605434
+12.72 3598998
+12.73 3603104
+12.74 3607441
+12.75 3602658
+12.76 3608018
+12.77 3605884
+12.78 3611853
+12.79 3607574
+12.80 3610051
+12.81 3610285
+12.82 3607921
+12.83 3609524
+12.84 3609148
+12.85 3609176
+12.86 3612869
+12.87 3609420
+12.88 3613336
+12.89 3611664
+12.90 3617543
+12.91 3615552
+12.92 3615892
+12.93 3611525
+12.94 3614549
+12.95 3615974
+12.96 3617270
+12.97 3615275
+12.98 3618062
+12.99 3617374
+13.00 3616701
+13.01 3620062
+13.02 3618844
+13.03 3615853
+13.04 3621444
+13.05 3617484
+13.06 3619068
+13.07 3619725
+13.08 3621501
+13.09 3617989
+13.10 3619024
+13.11 3621781
+13.12 3619900
+13.13 3621812
+13.14 3618888
+13.15 3619850
+13.16 3623729
+13.17 3625126
+13.18 3619144
+13.19 3620241
+13.20 3623345
+13.21 3623488
+13.22 3624074
+13.23 3621775
+13.24 3623332
+13.25 3624826
+13.26 3624154
+13.27 3626774
+13.28 3625344
+13.29 3623222
+13.30 3620557
+13.31 3621763
+13.32 3624424
+13.33 3626174
+13.34 3627817
+13.35 3622508
+13.36 3623304
+13.37 3623327
+13.38 3625201
+13.39 3623783
+13.40 3626624
+13.41 3626192
+13.42 3623340
+13.43 3627553
+13.44 3624868
+13.45 3623846
+13.46 3623131
+13.47 3625420
+13.48 3624254
+13.49 3623956
+13.50 3623509
+13.51 3622019
+13.52 3624861
+13.53 3624212
+13.54 3626972
+13.55 3623569
+13.56 3622243
+13.57 3625820
+13.58 3621885
+13.59 3624580
+13.60 3620027
+13.61 3625302
+13.62 3623143
+13.63 3624252
+13.64 3626383
+13.65 3621489
+13.66 3620291
+13.67 3617116
+13.68 3621852
+13.69 3623809
+13.70 3621076
+13.71 3624998
+13.72 3620936
+13.73 3619781
+13.74 3618347
+13.75 3617133
+13.76 3618927
+13.77 3618371
+13.78 3619509
+13.79 3615871
+13.80 3619804
+13.81 3618567
+13.82 3617250
+13.83 3618946
+13.84 3618469
+13.85 3617761
+13.86 3617809
+13.87 3617843
+13.88 3614179
+13.89 3616548
+13.90 3614153
+13.91 3618854
+13.92 3612829
+13.93 3613764
+13.94 3616726
+13.95 3613721
+13.96 3612043
+13.97 3613998
+13.98 3615409
+13.99 3609513
+14.00 3610344
+14.01 3608270
+14.02 3610388
+14.03 3610505
+14.04 3608720
+14.05 3608611
+14.06 3604871
+14.07 3604415
+14.08 3608508
+14.09 3605351
+14.10 3609160
+14.11 3604755
+14.12 3607278
+14.13 3606551
+14.14 3603653
+14.15 3603344
+14.16 3603720
+14.17 3603191
+14.18 3600449
+14.19 3605221
+14.20 3599821
+14.21 3597385
+14.22 3603063
+14.23 3599429
+14.24 3594971
+14.25 3597444
+14.26 3591376
+14.27 3596192
+14.28 3598606
+14.29 3593196
+14.30 3593142
+14.31 3590308
+14.32 3590948
+14.33 3590459
+14.34 3588532
+14.35 3588374
+14.36 3585374
+14.37 3586470
+14.38 3586623
+14.39 3586391
+14.40 3582436
+14.41 3585949
+14.42 3584168
+14.43 3585868
+14.44 3581110
+14.45 3579419
+14.46 3577759
+14.47 3576977
+14.48 3575676
+14.49 3578431
+14.50 3574690
+14.51 3573425
+14.52 3571636
+14.53 3573978
+14.54 3573638
+14.55 3572404
+14.56 3569588
+14.57 3570687
+14.58 3563833
+14.59 3568210
+14.60 3566178
+14.61 3563054
+14.62 3562767
+14.63 3566564
+14.64 3560393
+14.65 3565702
+14.66 3560050
+14.67 3558225
+14.68 3555454
+14.69 3554038
+14.70 3557411
+14.71 3559294
+14.72 3556272
+14.73 3551501
+14.74 3551669
+14.75 3549845
+14.76 3546341
+14.77 3546458
+14.78 3548219
+14.79 3542636
+14.80 3542228
+14.81 3543504
+14.82 3542733
+14.83 3541251
+14.84 3541815
+14.85 3539881
+14.86 3538707
+14.87 3535995
+14.88 3533801
+14.89 3530895
+14.90 3530399
+14.91 3530740
+14.92 3529422
+14.93 3531635
+14.94 3523815
+14.95 3521407
+14.96 3525676
+14.97 3521784
+14.98 3520813
+14.99 3524149
+15.00 3517694
+15.01 3516147
+15.02 3513224
+15.03 3515127
+15.04 3511102
+15.05 3512985
+15.06 3512747
+15.07 3508729
+15.08 3510274
+15.09 3504710
+15.10 3505220
+15.11 3503328
+15.12 3505535
+15.13 3499518
+15.14 3498055
+15.15 3500575
+15.16 3496284
+15.17 3497618
+15.18 3489252
+15.19 3491346
+15.20 3487318
+15.21 3490784
+15.22 3487236
+15.23 3486118
+15.24 3486356
+15.25 3481006
+15.26 3482002
+15.27 3479655
+15.28 3479732
+15.29 3474211
+15.30 3475285
+15.31 3473095
+15.32 3472351
+15.33 3470676
+15.34 3468245
+15.35 3464217
+15.36 3465443
+15.37 3464323
+15.38 3459864
+15.39 3460258
+15.40 3459126
+15.41 3456746
+15.42 3450395
+15.43 3453483
+15.44 3448623
+15.45 3447765
+15.46 3447186
+15.47 3444963
+15.48 3442626
+15.49 3438075
+15.50 3439659
+15.51 3439072
+15.52 3436279
+15.53 3434447
+15.54 3435059
+15.55 3431148
+15.56 3430121
+15.57 3427875
+15.58 3423833
+15.59 3424088
+15.60 3424942
+15.61 3419235
+15.62 3418316
+15.63 3418217
+15.64 3413127
+15.65 3411938
+15.66 3409500
+15.67 3409327
+15.68 3408204
+15.69 3407585
+15.70 3399554
+15.71 3397929
+15.72 3398873
+15.73 3399787
+15.74 3391792
+15.75 3393978
+15.76 3390788
+15.77 3392548
+15.78 3386300
+15.79 3384448
+15.80 3383679
+15.81 3382863
+15.82 3379537
+15.83 3374359
+15.84 3375827
+15.85 3372556
+15.86 3370402
+15.87 3369658
+15.88 3366536
+15.89 3362348
+15.90 3361880
+15.91 3360774
+15.92 3359800
+15.93 3356640
+15.94 3352105
+15.95 3350500
+15.96 3349255
+15.97 3348762
+15.98 3342431
+15.99 3343282
+16.00 3340561
+16.01 3342181
+16.02 3333474
+16.03 3333556
+16.04 3333858
+16.05 3326881
+16.06 3328092
+16.07 3325632
+16.08 3318120
+16.09 3317788
+16.10 3315696
+16.11 3314341
+16.12 3311986
+16.13 3311086
+16.14 3306907
+16.15 3303301
+16.16 3301744
+16.17 3298946
+16.18 3296223
+16.19 3299717
+16.20 3293571
+16.21 3291928
+16.22 3288659
+16.23 3287915
+16.24 3282009
+16.25 3280720
+16.26 3278812
+16.27 3276200
+16.28 3271731
+16.29 3271605
+16.30 3271283
+16.31 3270452
+16.32 3262767
+16.33 3259954
+16.34 3258491
+16.35 3255098
+16.36 3252718
+16.37 3253184
+16.38 3249373
+16.39 3244301
+16.40 3244024
+16.41 3241972
+16.42 3240174
+16.43 3237290
+16.44 3233400
+16.45 3229443
+16.46 3227785
+16.47 3226111
+16.48 3222715
+16.49 3221912
+16.50 3214229
+16.51 3213553
+16.52 3212118
+16.53 3211960
+16.54 3207275
+16.55 3203264
+16.56 3201909
+16.57 3199073
+16.58 3193126
+16.59 3192922
+16.60 3192015
+16.61 3185661
+16.62 3184134
+16.63 3181452
+16.64 3179432
+16.65 3176288
+16.66 3173634
+16.67 3169155
+16.68 3165924
+16.69 3163830
+16.70 3162815
+16.71 3154352
+16.72 3157613
+16.73 3156563
+16.74 3149815
+16.75 3146434
+16.76 3144698
+16.77 3144020
+16.78 3138235
+16.79 3134633
+16.80 3130092
+16.81 3130209
+16.82 3128160
+16.83 3122298
+16.84 3122608
+16.85 3117722
+16.86 3113562
+16.87 3112313
+16.88 3109286
+16.89 3104153
+16.90 3104939
+16.91 3100398
+16.92 3095575
+16.93 3093961
+16.94 3088261
+16.95 3089085
+16.96 3088497
+16.97 3083029
+16.98 3079062
+16.99 3076806
+17.00 3072550
+17.01 3068058
+17.02 3068946
+17.03 3063710
+17.04 3060468
+17.05 3057648
+17.06 3053848
+17.07 3052830
+17.08 3046932
+17.09 3043995
+17.10 3041646
+17.11 3038418
+17.12 3032759
+17.13 3029483
+17.14 3025861
+17.15 3025249
+17.16 3021327
+17.17 3018666
+17.18 3016106
+17.19 3013748
+17.20 3007197
+17.21 3004344
+17.22 3001435
+17.23 2999064
+17.24 2994926
+17.25 2993533
+17.26 2992962
+17.27 2984757
+17.28 2981913
+17.29 2980278
+17.30 2973520
+17.31 2972320
+17.32 2968091
+17.33 2964819
+17.34 2963492
+17.35 2958501
+17.36 2955786
+17.37 2951640
+17.38 2950680
+17.39 2948041
+17.40 2941865
+17.41 2939236
+17.42 2936333
+17.43 2930933
+17.44 2927761
+17.45 2923748
+17.46 2924380
+17.47 2919692
+17.48 2914766
+17.49 2912789
+17.50 2908813
+17.51 2906901
+17.52 2898392
+17.53 2893088
+17.54 2893005
+17.55 2888638
+17.56 2885635
+17.57 2883901
+17.58 2880001
+17.59 2874466
+17.60 2871060
+17.61 2868835
+17.62 2866040
+17.63 2861951
+17.64 2858641
+17.65 2856914
+17.66 2852608
+17.67 2846176
+17.68 2845306
+17.69 2839996
+17.70 2836981
+17.71 2833346
+17.72 2830735
+17.73 2822294
+17.74 2820745
+17.75 2820759
+17.76 2814369
+17.77 2808307
+17.78 2809007
+17.79 2802887
+17.80 2795639
+17.81 2796532
+17.82 2792342
+17.83 2785973
+17.84 2785043
+17.85 2780691
+17.86 2775138
+17.87 2770797
+17.88 2770219
+17.89 2764205
+17.90 2761628
+17.91 2755414
+17.92 2753471
+17.93 2749505
+17.94 2746445
+17.95 2741298
+17.96 2739492
+17.97 2733079
+17.98 2728281
+17.99 2725793
+18.00 2721312
+18.01 2720048
+18.02 2712803
+18.03 2708088
+18.04 2706343
+18.05 2701821
+18.06 2698455
+18.07 2691421
+18.08 2687879
+18.09 2686114
+18.10 2683865
+18.11 2679068
+18.12 2674099
+18.13 2671001
+18.14 2665955
+18.15 2662527
+18.16 2659873
+18.17 2651584
+18.18 2648619
+18.19 2645648
+18.20 2640479
+18.21 2634787
+18.22 2634047
+18.23 2630142
+18.24 2623780
+18.25 2622699
+18.26 2620202
+18.27 2614519
+18.28 2608191
+18.29 2601886
+18.30 2601265
+18.31 2595388
+18.32 2593081
+18.33 2588681
+18.34 2582277
+18.35 2581161
+18.36 2575797
+18.37 2569191
+18.38 2565405
+18.39 2560061
+18.40 2558843
+18.41 2553990
+18.42 2548980
+18.43 2544425
+18.44 2542731
+18.45 2538427
+18.46 2534432
+18.47 2530712
+18.48 2523784
+18.49 2520029
+18.50 2517382
+18.51 2511577
+18.52 2506215
+18.53 2503564
+18.54 2497108
+18.55 2494238
+18.56 2487782
+18.57 2484954
+18.58 2482268
+18.59 2477104
+18.60 2469615
+18.61 2466123
+18.62 2461331
+18.63 2456183
+18.64 2453865
+18.65 2448903
+18.66 2446952
+18.67 2442418
+18.68 2435715
+18.69 2432112
+18.70 2427695
+18.71 2423044
+18.72 2419446
+18.73 2409577
+18.74 2409340
+18.75 2405501
+18.76 2398856
+18.77 2394150
+18.78 2385621
+18.79 2384742
+18.80 2380201
+18.81 2375978
+18.82 2368462
+18.83 2365201
+18.84 2365913
+18.85 2358489
+18.86 2357275
+18.87 2350778
+18.88 2344993
+18.89 2340741
+18.90 2335546
+18.91 2331006
+18.92 2325396
+18.93 2323611
+18.94 2318573
+18.95 2312871
+18.96 2310767
+18.97 2302063
+18.98 2297998
+18.99 2294313
+19.00 2285746
+19.01 2285659
+19.02 2278169
+19.03 2274222
+19.04 2271645
+19.05 2266850
+19.06 2260762
+19.07 2257561
+19.08 2251845
+19.09 2246945
+19.10 2239502
+19.11 2235324
+19.12 2233526
+19.13 2228019
+19.14 2220074
+19.15 2215014
+19.16 2208375
+19.17 2207913
+19.18 2201616
+19.19 2197459
+19.20 2192564
+19.21 2187271
+19.22 2185619
+19.23 2179507
+19.24 2173241
+19.25 2168963
+19.26 2163560
+19.27 2156641
+19.28 2156381
+19.29 2148914
+19.30 2144053
+19.31 2136014
+19.32 2135226
+19.33 2129634
+19.34 2124893
+19.35 2116758
+19.36 2111357
+19.37 2108405
+19.38 2105018
+19.39 2099752
+19.40 2093510
+19.41 2089328
+19.42 2083487
+19.43 2076421
+19.44 2073024
+19.45 2068226
+19.46 2062679
+19.47 2057307
+19.48 2049790
+19.49 2047876
+19.50 2041061
+19.51 2037400
+19.52 2031105
+19.53 2028855
+19.54 2020515
+19.55 2015187
+19.56 2010976
+19.57 2006957
+19.58 2000197
+19.59 1997096
+19.60 1992367
+19.61 1985187
+19.62 1979562
+19.63 1974274
+19.64 1971516
+19.65 1963483
+19.66 1957437
+19.67 1952389
+19.68 1947160
+19.69 1944385
+19.70 1938938
+19.71 1932565
+19.72 1929972
+19.73 1924253
+19.74 1918611
+19.75 1913243
+19.76 1905159
+19.77 1902144
+19.78 1897682
+19.79 1891819
+19.80 1884024
+19.81 1879277
+19.82 1873418
+19.83 1869034
+19.84 1866109
+19.85 1856736
+19.86 1853227
+19.87 1848691
+19.88 1841554
+19.89 1836843
+19.90 1831069
+19.91 1828303
+19.92 1820090
+19.93 1814729
+19.94 1811365
+19.95 1805497
+19.96 1798881
+19.97 1794560
+19.98 1785146
+19.99 1781263
+20.00 1774722
+20.01 1770737
+20.02 1763781
+20.03 1761125
+20.04 1757521
+20.05 1750378
+20.06 1744771
+20.07 1738228
+20.08 1733666
+20.09 1727642
+20.10 1722340
+20.11 1715288
+20.12 1708786
+20.13 1708190
+20.14 1700702
+20.15 1695899
+20.16 1692500
+20.17 1686867
+20.18 1681923
+20.19 1674691
+20.20 1671574
+20.21 1664481
+20.22 1661479
+20.23 1655174
+20.24 1650923
+20.25 1643677
+20.26 1637699
+20.27 1633294
+20.28 1626542
+20.29 1624526
+20.30 1619802
+20.31 1612986
+20.32 1609124
+20.33 1603606
+20.34 1599695
+20.35 1593060
+20.36 1588995
+20.37 1583454
+20.38 1577861
+20.39 1572447
+20.40 1568470
+20.41 1564260
+20.42 1559552
+20.43 1555191
+20.44 1548016
+20.45 1542836
+20.46 1539455
+20.47 1533353
+20.48 1531232
+20.49 1523870
+20.50 1520829
+20.51 1513162
+20.52 1509376
+20.53 1505016
+20.54 1501103
+20.55 1496666
+20.56 1489392
+20.57 1487652
+20.58 1479682
+20.59 1477704
+20.60 1471230
+20.61 1464915
+20.62 1460801
+20.63 1457424
+20.64 1451410
+20.65 1446214
+20.66 1441960
+20.67 1438155
+20.68 1434360
+20.69 1428931
+20.70 1424011
+20.71 1418157
+20.72 1416983
+20.73 1411718
+20.74 1406400
+20.75 1401287
+20.76 1395640
+20.77 1391742
+20.78 1386763
+20.79 1382833
+20.80 1378532
+20.81 1374167
+20.82 1369693
+20.83 1363938
+20.84 1358405
+20.85 1354056
+20.86 1352402
+20.87 1350321
+20.88 1343626
+20.89 1340086
+20.90 1335132
+20.91 1330907
+20.92 1323154
+20.93 1320424
+20.94 1317044
+20.95 1311858
+20.96 1307858
+20.97 1305002
+20.98 1300435
+20.99 1293769
+21.00 1291652
+21.01 1285250
+21.02 1281732
+21.03 1278893
+21.04 1271411
+21.05 1267221
+21.06 1264062
+21.07 1258575
+21.08 1255820
+21.09 1251201
+21.10 1248206
+21.11 1244322
+21.12 1238524
+21.13 1235437
+21.14 1232522
+21.15 1227972
+21.16 1224355
+21.17 1219254
+21.18 1214997
+21.19 1209933
+21.20 1207495
+21.21 1202387
+21.22 1195124
+21.23 1193346
+21.24 1190554
+21.25 1185689
+21.26 1181445
+21.27 1177003
+21.28 1175103
+21.29 1168625
+21.30 1166092
+21.31 1161901
+21.32 1157755
+21.33 1154251
+21.34 1149093
+21.35 1145738
+21.36 1141610
+21.37 1138142
+21.38 1132701
+21.39 1127767
+21.40 1126509
+21.41 1122554
+21.42 1117545
+21.43 1113405
+21.44 1111057
+21.45 1105638
+21.46 1102302
+21.47 1099407
+21.48 1095690
+21.49 1091262
+21.50 1085792
+21.51 1084025
+21.52 1080566
+21.53 1075594
+21.54 1071775
+21.55 1068426
+21.56 1064041
+21.57 1059123
+21.58 1055108
+21.59 1052293
+21.60 1049800
+21.61 1043495
+21.62 1041801
+21.63 1037786
+21.64 1033692
+21.65 1031892
+21.66 1026938
+21.67 1023436
+21.68 1019650
+21.69 1014968
+21.70 1011210
+21.71 1007523
+21.72 1004925
+21.73 1001578
+21.74 999009
+21.75 993479
+21.76 990204
+21.77 987542
+21.78 982858
+21.79 980363
+21.80 978077
+21.81 971935
+21.82 970485
+21.83 963316
+21.84 962522
+21.85 956907
+21.86 954423
+21.87 950379
+21.88 947908
+21.89 944485
+21.90 939463
+21.91 936562
+21.92 932335
+21.93 929054
+21.94 924241
+21.95 923183
+21.96 918830
+21.97 917226
+21.98 912257
+21.99 910226
+22.00 906334
+22.01 902255
+22.02 899179
+22.03 895669
+22.04 891468
+22.05 888957
+22.06 885464
+22.07 883893
+22.08 879554
+22.09 874406
+22.10 873857
+22.11 870550
+22.12 867611
+22.13 861718
+22.14 860537
+22.15 856522
+22.16 852813
+22.17 851295
+22.18 846860
+22.19 842392
+22.20 841705
+22.21 836190
+22.22 833153
+22.23 830655
+22.24 827608
+22.25 824597
+22.26 817283
+22.27 816406
+22.28 814873
+22.29 810980
+22.30 809230
+22.31 806994
+22.32 801241
+22.33 798732
+22.34 795630
+22.35 792179
+22.36 789136
+22.37 785533
+22.38 783525
+22.39 779620
+22.40 777340
+22.41 773036
+22.42 772345
+22.43 767808
+22.44 764944
+22.45 762329
+22.46 758544
+22.47 756351
+22.48 753930
+22.49 749966
+22.50 746904
+22.51 743840
+22.52 740640
+22.53 738133
+22.54 734981
+22.55 732182
+22.56 729678
+22.57 726898
+22.58 723588
+22.59 720834
+22.60 717933
+22.61 714692
+22.62 712302
+22.63 708878
+22.64 705216
+22.65 704178
+22.66 700810
+22.67 695364
+22.68 693434
+22.69 692897
+22.70 688815
+22.71 687199
+22.72 683306
+22.73 679112
+22.74 677696
+22.75 675111
+22.76 671891
+22.77 670393
+22.78 666358
+22.79 662770
+22.80 661063
+22.81 659240
+22.82 655088
+22.83 654236
+22.84 650828
+22.85 647715
+22.86 643732
+22.87 643688
+22.88 638901
+22.89 637236
+22.90 633863
+22.91 630102
+22.92 628889
+22.93 627998
+22.94 623338
+22.95 621096
+22.96 618650
+22.97 616002
+22.98 614428
+22.99 610418
+23.00 608989
+23.01 605397
+23.02 602558
+23.03 599435
+23.04 597696
+23.05 594018
+23.06 592497
+23.07 591044
+23.08 587713
+23.09 583780
+23.10 582454
+23.11 579497
+23.12 576722
+23.13 573792
+23.14 572647
+23.15 571264
+23.16 567665
+23.17 566406
+23.18 563046
+23.19 560117
+23.20 556642
+23.21 554003
+23.22 551881
+23.23 550374
+23.24 549275
+23.25 545930
+23.26 544010
+23.27 540330
+23.28 537750
+23.29 535094
+23.30 533560
+23.31 531210
+23.32 528253
+23.33 525572
+23.34 523648
+23.35 520963
+23.36 517844
+23.37 516934
+23.38 514155
+23.39 512312
+23.40 509462
+23.41 506720
+23.42 506116
+23.43 503853
+23.44 501524
+23.45 498979
+23.46 496744
+23.47 492426
+23.48 491249
+23.49 490185
+23.50 488063
+23.51 485056
+23.52 483322
+23.53 481418
+23.54 478491
+23.55 476950
+23.56 475356
+23.57 471579
+23.58 470216
+23.59 466968
+23.60 465813
+23.61 463116
+23.62 461545
+23.63 459382
+23.64 457243
+23.65 454203
+23.66 453477
+23.67 451058
+23.68 447535
+23.69 445244
+23.70 443371
+23.71 441598
+23.72 439671
+23.73 436719
+23.74 434484
+23.75 433384
+23.76 431270
+23.77 430954
+23.78 428000
+23.79 425898
+23.80 425110
+23.81 421444
+23.82 420785
+23.83 417228
+23.84 416058
+23.85 413796
+23.86 410594
+23.87 410005
+23.88 408073
+23.89 405955
+23.90 404136
+23.91 402530
+23.92 399650
+23.93 398357
+23.94 396052
+23.95 393880
+23.96 391956
+23.97 390120
+23.98 388386
+23.99 387126
+24.00 384788
+24.01 383280
+24.02 381324
+24.03 380044
+24.04 377489
+24.05 374172
+24.06 374264
+24.07 370831
+24.08 371000
+24.09 368008
+24.10 365787
+24.11 363994
+24.12 361700
+24.13 360591
+24.14 358220
+24.15 356717
+24.16 354776
+24.17 353103
+24.18 350586
+24.19 349584
+24.20 348124
+24.21 346156
+24.22 343287
+24.23 342684
+24.24 341404
+24.25 338345
+24.26 338099
+24.27 335289
+24.28 334087
+24.29 332723
+24.30 329881
+24.31 329845
+24.32 327270
+24.33 324970
+24.34 323316
+24.35 321881
+24.36 320787
+24.37 318437
+24.38 318174
+24.39 314478
+24.40 314176
+24.41 311586
+24.42 310365
+24.43 308718
+24.44 308027
+24.45 305637
+24.46 303640
+24.47 301791
+24.48 301688
+24.49 299215
+24.50 297934
+24.51 297199
+24.52 295768
+24.53 293166
+24.54 291515
+24.55 289389
+24.56 288828
+24.57 286011
+24.58 284793
+24.59 283134
+24.60 282042
+24.61 279756
+24.62 279322
+24.63 277503
+24.64 275946
+24.65 275074
+24.66 272177
+24.67 272650
+24.68 269851
+24.69 269412
+24.70 267549
+24.71 266369
+24.72 264276
+24.73 262323
+24.74 261158
+24.75 260698
+24.76 259132
+24.77 257370
+24.78 255735
+24.79 254439
+24.80 252371
+24.81 251806
+24.82 250290
+24.83 248693
+24.84 247552
+24.85 246400
+24.86 243473
+24.87 242853
+24.88 242202
+24.89 241000
+24.90 239072
+24.91 237731
+24.92 237084
+24.93 234454
+24.94 233905
+24.95 232749
+24.96 231530
+24.97 229999
+24.98 227729
+24.99 227140
+25.00 226199
+25.01 224295
+25.02 223401
+25.03 222142
+25.04 220603
+25.05 219178
+25.06 218107
+25.07 217140
+25.08 215618
+25.09 213414
+25.10 212995
+25.11 211897
+25.12 210758
+25.13 209201
+25.14 207161
+25.15 206485
+25.16 205421
+25.17 204857
+25.18 202817
+25.19 201608
+25.20 200312
+25.21 200170
+25.22 197728
+25.23 197156
+25.24 196548
+25.25 195113
+25.26 194266
+25.27 192645
+25.28 190900
+25.29 190051
+25.30 188983
+25.31 187412
+25.32 186691
+25.33 185807
+25.34 184933
+25.35 182631
+25.36 183086
+25.37 181509
+25.38 180637
+25.39 179690
+25.40 177649
+25.41 176262
+25.42 175827
+25.43 174737
+25.44 174152
+25.45 172351
+25.46 171280
+25.47 170655
+25.48 168740
+25.49 168581
+25.50 167228
+25.51 166292
+25.52 164625
+25.53 163899
+25.54 163101
+25.55 161503
+25.56 161181
+25.57 159894
+25.58 159787
+25.59 157553
+25.60 157174
+25.61 156573
+25.62 155219
+25.63 153170
+25.64 153458
+25.65 151514
+25.66 150335
+25.67 149393
+25.68 149399
+25.69 148501
+25.70 146990
+25.71 146075
+25.72 144426
+25.73 144052
+25.74 143689
+25.75 142008
+25.76 141929
+25.77 140583
+25.78 140099
+25.79 138807
+25.80 137883
+25.81 137403
+25.82 136561
+25.83 135109
+25.84 134249
+25.85 133187
+25.86 132177
+25.87 131753
+25.88 131137
+25.89 130554
+25.90 128757
+25.91 128347
+25.92 127226
+25.93 126920
+25.94 125438
+25.95 125903
+25.96 124318
+25.97 123457
+25.98 122414
+25.99 121978
+26.00 120960
+26.01 120017
+26.02 119320
+26.03 118184
+26.04 118201
+26.05 116866
+26.06 115574
+26.07 115108
+26.08 114440
+26.09 113674
+26.10 112700
+26.11 112709
+26.12 111675
+26.13 110207
+26.14 109457
+26.15 108736
+26.16 108455
+26.17 107464
+26.18 106556
+26.19 105709
+26.20 105233
+26.21 104237
+26.22 103904
+26.23 103320
+26.24 102443
+26.25 101498
+26.26 100944
+26.27 100743
+26.28 99423
+26.29 98823
+26.30 97806
+26.31 97688
+26.32 96474
+26.33 96413
+26.34 95133
+26.35 94720
+26.36 93816
+26.37 93579
+26.38 93112
+26.39 92699
+26.40 90972
+26.41 90619
+26.42 90393
+26.43 89316
+26.44 88767
+26.45 87876
+26.46 87448
+26.47 87034
+26.48 86579
+26.49 86056
+26.50 85143
+26.51 84533
+26.52 83549
+26.53 83562
+26.54 82077
+26.55 81521
+26.56 80981
+26.57 80408
+26.58 79874
+26.59 79467
+26.60 79177
+26.61 78150
+26.62 77393
+26.63 76899
+26.64 76234
+26.65 75344
+26.66 75507
+26.67 75013
+26.68 74248
+26.69 74138
+26.70 73030
+26.71 72433
+26.72 72090
+26.73 71809
+26.74 70347
+26.75 69912
+26.76 70410
+26.77 69251
+26.78 68597
+26.79 67864
+26.80 67659
+26.81 67091
+26.82 66739
+26.83 66187
+26.84 65764
+26.85 65619
+26.86 64649
+26.87 64062
+26.88 63882
+26.89 63328
+26.90 63103
+26.91 62340
+26.92 62088
+26.93 61051
+26.94 60903
+26.95 60699
+26.96 59074
+26.97 59584
+26.98 59120
+26.99 58517
+27.00 58041
+27.01 57359
+27.02 57118
+27.03 56655
+27.04 56552
+27.05 55587
+27.06 55089
+27.07 54984
+27.08 54947
+27.09 54242
+27.10 53724
+27.11 53021
+27.12 52738
+27.13 52592
+27.14 52031
+27.15 51572
+27.16 51129
+27.17 50752
+27.18 50324
+27.19 49543
+27.20 49560
+27.21 48908
+27.22 49240
+27.23 48306
+27.24 47556
+27.25 47773
+27.26 47227
+27.27 47046
+27.28 46593
+27.29 45427
+27.30 45419
+27.31 45277
+27.32 45028
+27.33 44489
+27.34 44083
+27.35 43902
+27.36 43503
+27.37 42835
+27.38 42335
+27.39 42395
+27.40 42183
+27.41 41991
+27.42 41353
+27.43 40689
+27.44 40358
+27.45 40322
+27.46 39912
+27.47 39496
+27.48 39587
+27.49 38967
+27.50 38209
+27.51 38452
+27.52 37735
+27.53 37909
+27.54 37493
+27.55 36826
+27.56 36777
+27.57 36038
+27.58 36740
+27.59 35627
+27.60 35609
+27.61 35197
+27.62 34919
+27.63 34546
+27.64 34433
+27.65 34197
+27.66 33875
+27.67 33406
+27.68 33285
+27.69 32961
+27.70 32858
+27.71 32413
+27.72 32340
+27.73 31880
+27.74 31588
+27.75 31382
+27.76 31021
+27.77 30756
+27.78 30478
+27.79 30031
+27.80 29824
+27.81 29752
+27.82 29551
+27.83 29269
+27.84 29047
+27.85 28774
+27.86 28645
+27.87 28213
+27.88 28030
+27.89 27691
+27.90 27586
+27.91 27014
+27.92 27152
+27.93 27073
+27.94 26620
+27.95 26211
+27.96 25998
+27.97 25650
+27.98 25528
+27.99 25289
+28.00 25303
+28.01 25002
+28.02 24765
+28.03 24623
+28.04 24710
+28.05 24051
+28.06 24275
+28.07 23823
+28.08 23503
+28.09 23471
+28.10 22935
+28.11 23073
+28.12 22721
+28.13 22593
+28.14 22383
+28.15 22112
+28.16 21976
+28.17 21862
+28.18 21514
+28.19 21360
+28.20 21152
+28.21 20897
+28.22 20542
+28.23 20755
+28.24 20816
+28.25 20172
+28.26 20350
+28.27 19906
+28.28 19771
+28.29 19672
+28.30 19553
+28.31 19139
+28.32 19216
+28.33 18807
+28.34 18924
+28.35 18506
+28.36 18465
+28.37 18429
+28.38 18037
+28.39 18015
+28.40 17512
+28.41 17611
+28.42 17317
+28.43 17260
+28.44 17333
+28.45 17191
+28.46 16924
+28.47 16666
+28.48 16609
+28.49 16382
+28.50 15999
+28.51 16044
+28.52 15997
+28.53 15846
+28.54 15793
+28.55 15423
+28.56 15440
+28.57 15393
+28.58 15056
+28.59 15177
+28.60 14777
+28.61 14530
+28.62 14560
+28.63 14600
+28.64 14275
+28.65 14289
+28.66 14216
+28.67 13973
+28.68 13664
+28.69 13683
+28.70 13499
+28.71 13345
+28.72 13407
+28.73 13243
+28.74 13015
+28.75 12958
+28.76 12672
+28.77 12591
+28.78 12679
+28.79 12546
+28.80 12437
+28.81 12070
+28.82 12039
+28.83 12059
+28.84 11894
+28.85 11755
+28.86 11745
+28.87 11508
+28.88 11533
+28.89 11250
+28.90 11472
+28.91 11257
+28.92 11186
+28.93 10861
+28.94 10913
+28.95 10659
+28.96 10635
+28.97 10350
+28.98 10204
+28.99 10156
+29.00 10232
+29.01 10096
+29.02 10047
+29.03 9840
+29.04 9905
+29.05 9838
+29.06 9505
+29.07 9590
+29.08 9506
+29.09 9296
+29.10 9200
+29.11 9171
+29.12 9063
+29.13 9141
+29.14 8978
+29.15 8818
+29.16 8787
+29.17 8594
+29.18 8624
+29.19 8267
+29.20 8294
+29.21 8254
+29.22 8260
+29.23 8151
+29.24 7999
+29.25 8042
+29.26 7851
+29.27 7746
+29.28 7659
+29.29 7488
+29.30 7613
+29.31 7594
+29.32 7425
+29.33 7334
+29.34 7312
+29.35 7270
+29.36 7252
+29.37 7182
+29.38 6927
+29.39 6860
+29.40 6844
+29.41 6815
+29.42 6720
+29.43 6659
+29.44 6690
+29.45 6573
+29.46 6357
+29.47 6466
+29.48 6229
+29.49 6292
+29.50 6240
+29.51 6063
+29.52 6071
+29.53 6035
+29.54 5971
+29.55 5783
+29.56 5678
+29.57 5579
+29.58 5772
+29.59 5673
+29.60 5454
+29.61 5525
+29.62 5470
+29.63 5382
+29.64 5352
+29.65 5294
+29.66 5102
+29.67 5142
+29.68 5021
+29.69 5061
+29.70 5074
+29.71 4900
+29.72 4770
+29.73 4841
+29.74 4747
+29.75 4791
+29.76 4677
+29.77 4623
+29.78 4495
+29.79 4513
+29.80 4527
+29.81 4413
+29.82 4502
+29.83 4374
+29.84 4313
+29.85 4183
+29.86 4217
+29.87 4214
+29.88 3941
+29.89 3980
+29.90 3990
+29.91 3992
+29.92 4032
+29.93 3895
+29.94 3826
+29.95 3834
+29.96 3706
+29.97 3849
+29.98 3610
+29.99 3682
+30.00 3662
+30.01 3527
+30.02 3532
+30.03 3415
+30.04 3380
+30.05 3293
+30.06 3397
+30.07 3361
+30.08 3241
+30.09 3241
+30.10 3373
+30.11 3066
+30.12 3149
+30.13 3092
+30.14 3172
+30.15 3010
+30.16 2904
+30.17 3087
+30.18 2839
+30.19 2939
+30.20 2912
+30.21 2819
+30.22 2713
+30.23 2798
+30.24 2773
+30.25 2752
+30.26 2705
+30.27 2630
+30.28 2610
+30.29 2454
+30.30 2491
+30.31 2499
+30.32 2394
+30.33 2449
+30.34 2290
+30.35 2415
+30.36 2354
+30.37 2239
+30.38 2374
+30.39 2204
+30.40 2206
+30.41 2184
+30.42 2133
+30.43 2202
+30.44 2130
+30.45 2005
+30.46 2049
+30.47 2075
+30.48 2035
+30.49 2076
+30.50 1952
+30.51 1923
+30.52 1849
+30.53 1942
+30.54 1949
+30.55 1834
+30.56 1768
+30.57 1781
+30.58 1753
+30.59 1696
+30.60 1716
+30.61 1726
+30.62 1668
+30.63 1602
+30.64 1610
+30.65 1623
+30.66 1565
+30.67 1554
+30.68 1541
+30.69 1502
+30.70 1489
+30.71 1482
+30.72 1513
+30.73 1434
+30.74 1362
+30.75 1421
+30.76 1447
+30.77 1273
+30.78 1281
+30.79 1341
+30.80 1372
+30.81 1283
+30.82 1260
+30.83 1327
+30.84 1211
+30.85 1241
+30.86 1115
+30.87 1157
+30.88 1128
+30.89 1206
+30.90 1135
+30.91 1147
+30.92 1119
+30.93 1121
+30.94 1051
+30.95 1127
+30.96 1033
+30.97 1030
+30.98 975
+30.99 958
+31.00 1018
+31.01 926
+31.02 919
+31.03 971
+31.04 973
+31.05 964
+31.06 900
+31.07 854
+31.08 895
+31.09 885
+31.10 867
+31.11 816
+31.12 841
+31.13 831
+31.14 847
+31.15 808
+31.16 761
+31.17 778
+31.18 764
+31.19 741
+31.20 741
+31.21 721
+31.22 685
+31.23 733
+31.24 713
+31.25 682
+31.26 626
+31.27 661
+31.28 629
+31.29 694
+31.30 589
+31.31 656
+31.32 620
+31.33 611
+31.34 616
+31.35 553
+31.36 565
+31.37 567
+31.38 493
+31.39 517
+31.40 556
+31.41 526
+31.42 514
+31.43 507
+31.44 496
+31.45 479
+31.46 471
+31.47 489
+31.48 467
+31.49 479
+31.50 448
+31.51 418
+31.52 445
+31.53 413
+31.54 440
+31.55 418
+31.56 438
+31.57 405
+31.58 395
+31.59 370
+31.60 373
+31.61 360
+31.62 364
+31.63 387
+31.64 356
+31.65 339
+31.66 361
+31.67 362
+31.68 336
+31.69 325
+31.70 318
+31.71 329
+31.72 326
+31.73 319
+31.74 295
+31.75 251
+31.76 288
+31.77 279
+31.78 272
+31.79 298
+31.80 269
+31.81 259
+31.82 261
+31.83 248
+31.84 243
+31.85 221
+31.86 232
+31.87 235
+31.88 230
+31.89 229
+31.90 219
+31.91 220
+31.92 199
+31.93 190
+31.94 198
+31.95 175
+31.96 167
+31.97 210
+31.98 182
+31.99 188
+32.00 167
+32.01 195
+32.02 180
+32.03 164
+32.04 166
+32.05 148
+32.06 137
+32.07 132
+32.08 145
+32.09 144
+32.10 160
+32.11 145
+32.12 146
+32.13 138
+32.14 134
+32.15 129
+32.16 138
+32.17 100
+32.18 132
+32.19 123
+32.20 96
+32.21 118
+32.22 113
+32.23 115
+32.24 110
+32.25 114
+32.26 110
+32.27 93
+32.28 105
+32.29 92
+32.30 95
+32.31 86
+32.32 76
+32.33 83
+32.34 79
+32.35 100
+32.36 72
+32.37 87
+32.38 87
+32.39 60
+32.40 80
+32.41 77
+32.42 66
+32.43 73
+32.44 65
+32.45 55
+32.46 63
+32.47 65
+32.48 58
+32.49 54
+32.50 55
+32.51 47
+32.52 60
+32.53 55
+32.54 49
+32.55 42
+32.56 52
+32.57 47
+32.58 52
+32.59 44
+32.60 42
+32.61 35
+32.62 56
+32.63 45
+32.64 50
+32.65 51
+32.66 33
+32.67 33
+32.68 35
+32.69 43
+32.70 33
+32.71 36
+32.72 29
+32.73 25
+32.74 29
+32.75 35
+32.76 24
+32.77 19
+32.78 26
+32.79 29
+32.80 25
+32.81 18
+32.82 20
+32.83 29
+32.84 19
+32.85 23
+32.86 20
+32.87 12
+32.88 13
+32.89 22
+32.90 8
+32.91 21
+32.92 12
+32.93 20
+32.94 5
+32.95 13
+32.96 17
+32.97 16
+32.98 15
+32.99 18
+33.00 6
+33.01 7
+33.02 11
+33.03 9
+33.04 12
+33.05 20
+33.06 9
+33.07 4
+33.08 7
+33.09 6
+33.10 9
+33.11 7
+33.12 8
+33.13 5
+33.14 8
+33.15 2
+33.16 5
+33.17 5
+33.18 4
+33.19 9
+33.20 4
+33.21 3
+33.22 9
+33.23 4
+33.24 4
+33.25 6
+33.26 2
+33.27 5
+33.28 2
+33.29 6
+33.30 4
+33.31 6
+33.32 3
+33.33 2
+33.34 3
+33.35 3
+33.36 1
+33.37 2
+33.38 4
+33.39 3
+33.40 2
+33.41 2
+33.42 2
+33.43 1
+33.44 0
+33.45 0
+33.46 2
+33.47 0
+33.48 0
+33.49 0
+33.50 0
+33.51 0
+33.52 2
+33.53 2
+33.54 2
+33.55 0
+33.56 1
+33.57 0
+33.58 0
+33.59 0
+33.60 4
+33.61 2
+33.62 0
+33.63 0
+33.64 0
+33.65 0
+33.66 1
+33.67 2
+33.68 0
+33.69 0
+33.70 1
+33.71 0
+33.72 0
+33.73 1
+33.74 1
+33.75 1
+33.76 1
+33.77 0
+33.78 0
+33.79 0
+33.80 0
+33.81 0
+33.82 0
+33.83 0
+33.84 0
+33.85 0
+33.86 0
+33.87 0
+33.88 0
+33.89 0
+33.90 0
+33.91 0
+33.92 0
+33.93 0
+33.94 0
+33.95 0
+33.96 0
+33.97 0
+33.98 0
+33.99 0
+34.00 0
+34.01 0
+34.02 0
+34.03 0
+34.04 0
+34.05 0
+34.06 0
+34.07 0
+34.08 0
+34.09 0
+34.10 0
+34.11 0
+34.12 0
+34.13 0
+34.14 0
+34.15 0
+34.16 0
+34.17 0
+34.18 0
+34.19 0
+34.20 0
+34.21 0
+34.22 0
+34.23 0
+34.24 0
+34.25 0
+34.26 0
+34.27 0
+34.28 0
+34.29 0
+34.30 0
+34.31 0
+34.32 0
+34.33 0
+34.34 0
+34.35 0
+34.36 0
+34.37 0
+34.38 0
+34.39 0
+34.40 0
+34.41 0
+34.42 0
+34.43 0
+34.44 0
+34.45 0
+34.46 0
+34.47 0
+34.48 0
+34.49 0
+34.50 0
+34.51 0
+34.52 0
+34.53 0
+34.54 0
+34.55 0
+34.56 0
+34.57 0
+34.58 0
+34.59 0
+34.60 0
+34.61 0
+34.62 0
+34.63 0

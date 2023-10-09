@@ -1,0 +1,3 @@
+#!/bin/bash
+
+emacs /home/hpc2023/cell_distances/check_submission_incl.jl
