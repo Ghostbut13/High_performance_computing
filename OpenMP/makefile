@@ -1,4 +1,3 @@
-\
 #SOURCE_PATH =  /home/hpcuser053/work/High_performance_computing/OpenMP/src
 #OUTPUT_PATH =  /home/hpcuser053/work/High_performance_computing/OpenMP/object
 

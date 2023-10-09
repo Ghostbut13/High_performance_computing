@@ -8,20 +8,13 @@
 #define N_BYTE_OF_HEAP 5
 //#define VS2022_DEBUG 1
 #define HOW_MANY_DISTANCE 3464
-//#define N_DATA_INPUT 10000
 
 #ifdef VS2022_DEBUG
-/* #define PATH_INPUT "E:/cpp/github_repository/High_performance_computing/OpenMP/sim/input_1e5.txt" */
-/* #define PATH_OUTPUT "E:/cpp/github_repository/High_performance_computing/OpenMP/sim/output.txt" */
 #define PATH_INPUT "/home/hpcuser053/work/High_performance_computing/OpenMP/sim/input_1e4.txt"
 #define PATH_OUTPUT "/home/hpcuser053/work/High_performance_computing/OpenMP/sim/output.txt"
 
 #else
-//#define PATH_INPUT "/home/hpcuser053/test_data/cells_1e4"
-//#define PATH_INPUT "/home/hpcuser053/work/High_performance_computing/OpenMP/sim/input.txt"
-//#define PATH_INPUT "cells"
 #define PATH_INPUT "/home/hpcuser053/work/High_performance_computing/OpenMP/extracted/cell_distance/cells"
-
 #define PATH_OUTPUT "/home/hpcuser053/work/High_performance_computing/OpenMP/sim/output.txt"
 
 #endif // VS2022_DEBUG
@@ -29,7 +22,6 @@
 
 int main(int argc, char * argv[]) {
 
-  //printf("%d\n",5);
   FILE* FP = fopen("cells", "r");
   if (FP == NULL) {
     printf("No Such File !! ");
@@ -43,7 +35,6 @@ int main(int argc, char * argv[]) {
   }
   
   
-  double start[3], end[3], timee[3];
   double* ThreeD = (double*)malloc(N_DATA_INPUT * 3 * sizeof(double));
   double** as = (double**)malloc(N_DATA_INPUT * sizeof(double*));
   double* OUT = (double*)malloc(HOW_MANY_DISTANCE * sizeof(double));
@@ -52,7 +43,7 @@ int main(int argc, char * argv[]) {
 
   //heap manage
   //----------------------------------
-  start[0] = omp_get_wtime();
+
   for (int ix = 0, jx = 0; ix < N_DATA_INPUT; ix = ix + 1, jx = jx + 3) {
     as[ix] = ThreeD + jx;
   }
@@ -63,16 +54,13 @@ int main(int argc, char * argv[]) {
     OUT[ix] = ((double)ix / 100);
     cnt_d[ix] = 0;
   }
-
-  end[0] = omp_get_wtime();
-  timee[0] = end[0] - start[0];
   //----------------------------------
 
 
   
   //parse file
   //----------------------------------
-  start[1] = omp_get_wtime();
+
   fseek(FP,0,SEEK_SET);
   //#pragma omp parallel
   for (int ix = 0; ix < N_DATA_INPUT * 3; ix += 1) {
@@ -81,8 +69,6 @@ int main(int argc, char * argv[]) {
       printf("%2.3f\n", ThreeD[ix]);
       }*/
   }
-  end[1] = omp_get_wtime();
-  timee[1] = end[1] - start[1];
   //----------------------------------
 
 
@@ -93,7 +79,7 @@ int main(int argc, char * argv[]) {
   if(sscanf(argv[1],"%*[^0-9]%d",&threads_num)==1){
     //printf("aaaaaaa\n");
   }
-  start[2] = omp_get_wtime();
+
   omp_set_num_threads(threads_num);
   int distance;
   //#ifndef VS2022_DEBUG
@@ -102,55 +88,28 @@ int main(int argc, char * argv[]) {
   for (int ix=0; ix < N_DATA_INPUT - 1; ix ++) {
     for (int jx = ix + 1; jx < N_DATA_INPUT; jx++) {
       distance = (int)(sqrt(
-			     (as[ix][1] - as[jx][1]) * (as[ix][1] - as[jx][1]) +
-			     (as[ix][2] - as[jx][2]) * (as[ix][2] - as[jx][2]) +
-			     (as[ix][0] - as[jx][0]) * (as[ix][0] - as[jx][0])
-			      ) * 100);
+			    (as[ix][1] - as[jx][1]) * (as[ix][1] - as[jx][1]) +
+			    (as[ix][2] - as[jx][2]) * (as[ix][2] - as[jx][2]) +
+			    (as[ix][0] - as[jx][0]) * (as[ix][0] - as[jx][0])
+			    ) * 100);
       //#pragma omp critical
       ++cnt_d[distance];
     }
   }
-  end[2] = omp_get_wtime(); 
-  timee[2] = end[2] - start[2];
 
-  
-/*   //----------------------------------  //---------------------------------- */
-/* #pragma omp parallel  */
-/*   { */
-/*     int id,nthread; */
-/*     int distance; */
-/*     id=omp_get_thread_num(); */
-/*     nthread=omp_get_num_threads(); */
-/*     #pragma omp for */
-/*     for (int ix=id; ix < N_DATA_INPUT - 1; ix += nthread) { */
-/*       for (int jx = ix + 1; jx < N_DATA_INPUT; jx++) { */
-/* 	distance = (int)((sqrt( */
-/* 			       (as[ix][1] - as[jx][1]) * (as[ix][1] - as[jx][1]) + */
-/* 			       (as[ix][2] - as[jx][2]) * (as[ix][2] - as[jx][2]) + */
-/* 			       (as[ix][0] - as[jx][0]) * (as[ix][0] - as[jx][0]) */
-/* 			       )) * 100); */
-/* 	//#pragma omp atomic */
-/* 	cnt_d[distance]++; */
-/*       } */
-/*     } */
-/*     printf("%d       %d\n",id,nthread); */
-/*   } */
-/*   end[2] = omp_get_wtime();  */
-/*   timee[2] = end[2] - start[2]; */
-/*   //----------------------------------  //---------------------------------- */
-  
+
   FILE* out_FP = fopen(PATH_OUTPUT, "w");
   if (out_FP != NULL) {
     for (int ixx = 0; ixx < HOW_MANY_DISTANCE; ixx++){
       //if(cnt_d[ixx]!=0)
-	fprintf(out_FP, "%05.2lf %d\n", OUT[ixx], cnt_d[ixx]);
+      fprintf(out_FP, "%05.2lf %d\n", OUT[ixx], cnt_d[ixx]);
     }
   }
 
  
   for (int ixx = 0; ixx < HOW_MANY_DISTANCE; ixx++) {
     //if( OUT[ixx]<10 )
-      printf("%05.2f %d\n", OUT[ixx], cnt_d[ixx]);
+    printf("%05.2f %d\n", OUT[ixx], cnt_d[ixx]);
     //else
     //printf("%.2lf %d\n", OUT[ixx], cnt_d[ixx]);
   }
@@ -164,6 +123,6 @@ int main(int argc, char * argv[]) {
   free(as);
   free(ThreeD);
   fclose(FP);
-  //fclose(out_FP);
+  fclose(out_FP);
   return 0;
 }
