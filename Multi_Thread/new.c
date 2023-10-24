@@ -11,70 +11,17 @@ int degree_global = 0;
 
 float epsilon=0.0001;
 double epsilon2=0.000001;
-int upper_limit=10000000000;
+long int upper_limit=10000000000;
 
 
-complex double roots = {};
-// roots for x - 1
-roots[0][0] = 1 + 0 * I;
-// roots for x^2 - 1
-roots[1][0] = 1 + 0 * I;
-roots[1][1] = -1 + 0 * I;
-// roots for x^3 - 1
-roots[2][0] = 1 + 0 * I;
-roots[2][1] = -0.5 + 0.86603 * I;
-roots[2][2] = -0.5 - 0.86606 * I;
-// roots for x^4 - 1
-roots[3][0] = 1 + 0 * I;
-roots[3][1] = 0 + 1 * I;
-roots[3][2] = -1 + 0 * I;
-roots[3][3] = 0 - 1 * I;
-// roots for x^5 - 1
-roots[4][0] = 1 + 0 * I;
-roots[4][1] = 0.309017 + 0.951057 * I;
-roots[4][2] = -0.809017 + 0.587785 * I;
-roots[4][3] = -0.809017 - 0.587785 * I;
-roots[4][4] = 0.309017 - 0.951057 * I;
-// roots for x^6 - 1
-roots[5][0] = 1 + 0 * I;
-roots[5][1] = 0.5 + 0.866025 * I;
-roots[5][2] = -0.5 + 0.866025 * I;
-roots[5][3] = -1 - 0 * I;
-roots[5][4] = -0.5 - 0.866025 * I;
-roots[5][5] = 0.5 - 0.866025 * I;
-// roots for x^7 - 1
-roots[6][0] = 1 + 0 * I;
-roots[6][1] = 0.62349 + 0.781831 * I;
-roots[6][2] = -0.222521 + 0.974928 * I;
-roots[6][3] = -0.900969 + 0.433884 * I;
-roots[6][4] = -0.900969 - 0.433884 * I;
-roots[6][5] = -0.222521 - 0.974928 * I;
-roots[6][6] = 0.62349 - 0.781831 * I;
-// roots for x^8 - 1
-roots[7][0] = 1 + 0 * I;
-roots[7][1] = 0.707107 + 0.707107 * I;
-roots[7][2] = 0 + 1 * I;
-roots[7][3] = -0.707107 + 0.707107 * I;
-roots[7][4] = -1 + 0 * I;
-roots[7][5] = -0.707107 - 0.707107 * I;
-roots[7][6] = 0 - 1 * I;
-roots[7][7] = 0.707107 - 0.707107 * I;
-// roots for x^9 - 1
-roots[8][0] = 1 + 0 * I;
-roots[8][1] = 0.766044 + 0.642788 * I;
-roots[8][2] = 0.173648 + 0.984808 * I;
-roots[8][3] = -0.5 + 0.866025 * I;
-roots[8][4] = -0.939693 + 0.34202 * I;
-roots[8][5] = -0.939693 - 0.34202 * I;
-roots[8][6] = -0.5 - 0.866025 * I;
-roots[8][7] = 0.173648 - 0.984808 * I;
-roots[8][8] = 0.766044 - 0.642788 * I;
+complex double roots[10][10];
+complex double z_global[size][size];
 
 
 
 typedef struct {
   //data
-  const float complex **z;
+  float complex **z;
   int **iter;
   int **attr;
   //thread controll
@@ -93,7 +40,7 @@ int main_thrd( void *args ){
   //structure
   const thrd_info_t *thrd_info = (thrd_info_t*) args;
   //data
-  const float complex **z = thrd_info->z;
+  float complex **z = thrd_info->z;
   int **attr = thrd_info->attr;
   int **iter = thrd_info->iter;
   //thread control
@@ -108,32 +55,34 @@ int main_thrd( void *args ){
   //
   int degree = degree_global;
 
+
   // one row
   for ( int ix = ib; ix < sz; ix += istep ) {
     // We allocate the rows of the result before computing, and free them in another thread.
+    float complex *input = z_global[ix];
     float complex *zix = z[ix];
     int *attr_ix = attr[ix];
     int *iter_ix = iter[ix];
     
     for ( int col = 0; col < sz; ++col ) {
-
+      int conv;
       // newton's iteration
-      for ( int conv = 0, attr_ix[col] = 0; conv < 128  ; ++conv ) { 
-	if ( creal(zix[col])*creal(zix[col])+cimag(zix[col])*cimag(zix[col]) <= epsilon2    ) {
-	  attr_ix[col] = 0;
+      for ( conv = 0, attr_ix[col] = -1 ; conv<128; ++conv ) { 
+	if ( creal(zix[col])*creal(zix[col])+cimag(zix[col])*cimag(zix[col]) <= 1e-6 ) {
+	  attr_ix[col] = -1;
 	  break;
 	}
-	if ( fabs(creal(zix[col]))>upper_limit || fabs(cimag(zix[col]))>upper_limit ) {
-	  attr_ix[col] = 0;
+	if ( fabs(creal(zix[col])) > upper_limit || fabs(cimag(zix[col])) >upper_limit ) {
+	  attr_ix[col] = -1;
 	  break;
 	}
 	for ( int ix_root=0; ix_root < degree; ix_root++ ){
-	  if ( fabs(zix[col]-root[degree][ix_root]) < epsilon ) {
+	  if ( fabs(zix[col]-roots[degree-1][ix_root]) < 1e-3 ) {
 	    attr_ix[col] = ix_root;
 	    break;
 	  }
 	}
-	if ( attr_ix[col] != 0 )
+	if ( attr_ix[col] != -1 )
 	  break;
 
 	
@@ -177,7 +126,7 @@ int main_thrd( void *args ){
 	  break;
 	case 10:
 	  //STATEMENTS FOR DEGREE 10;
-	  zix[col]=zix[col]-((zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]-1)/(10*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]));
+	  zix[col]=zix[col]-(( zix[col] * zix[col] * zix[col] * zix[col] * zix[col] * zix[col] * zix[col] * zix[col] * zix[col] *zix[col]-1)/    (10  *zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]));
 	  break;
 	  // insert further cases
 
@@ -197,12 +146,13 @@ int main_thrd( void *args ){
     mtx_lock(mtx);
     iter[ix] = iter_ix;
     attr[ix] = attr_ix;
-    printf("Thread%d : ", tx);
+    printf("Thread %d : ", tx);
     for (int i = 0; i < sz; i++) {
-      //printf("%f j%f ", reix[i], imix[i]);
-      printf("%lf j%lf \n", creal(zix[i]), cimag(zix[i]));
-      printf("attr : %d \n", attr[i]);
-      printf("iter : %d \n", iter[i]);
+      printf("%lf+j%lf  ",creal(input[i]),cimag(input[i]));
+      printf("%lf+j%lf %d %d ", creal(zix[i]), cimag(zix[i]), attr_ix[i] , iter_ix[i]);
+
+      /* printf("attr : %d \n", attr_ix[i]); */
+      /* printf("iter : %d \n", iter_ix[i]); */
     }
     printf("\n");
     //status[tx].val = ix + istep;
@@ -211,7 +161,7 @@ int main_thrd( void *args ){
 
     // In order to illustrate thrd_sleep and to force more synchronization
     // points, we sleep after each line for one micro seconds.
-    //thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
+    thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
     
   }// row in thread
 
@@ -222,6 +172,60 @@ int main_thrd( void *args ){
 
 
 int main(int argc, char *argv[]){
+  // roots for x - 1
+  roots[0][0] = 1 + 0 * I;
+  // roots for x^2 - 1
+  roots[1][0] = 1 + 0 * I;
+  roots[1][1] = -1 + 0 * I;
+  // roots for x^3 - 1
+  roots[2][0] = 1 + 0 * I;
+  roots[2][1] = -0.5 + 0.86603 * I;
+  roots[2][2] = -0.5 - 0.86606 * I;
+  // roots for x^4 - 1
+  roots[3][0] = 1 + 0 * I;
+  roots[3][1] = 0 + 1 * I;
+  roots[3][2] = -1 + 0 * I;
+  roots[3][3] = 0 - 1 * I;
+  // roots for x^5 - 1
+  roots[4][0] = 1 + 0 * I;
+  roots[4][1] = 0.309017 + 0.951057 * I;
+  roots[4][2] = -0.809017 + 0.587785 * I;
+  roots[4][3] = -0.809017 - 0.587785 * I;
+  roots[4][4] = 0.309017 - 0.951057 * I;
+  // roots for x^6 - 1
+  roots[5][0] = 1 + 0 * I;
+  roots[5][1] = 0.5 + 0.866025 * I;
+  roots[5][2] = -0.5 + 0.866025 * I;
+  roots[5][3] = -1 - 0 * I;
+  roots[5][4] = -0.5 - 0.866025 * I;
+  roots[5][5] = 0.5 - 0.866025 * I;
+  // roots for x^7 - 1
+  roots[6][0] = 1 + 0 * I;
+  roots[6][1] = 0.62349 + 0.781831 * I;
+  roots[6][2] = -0.222521 + 0.974928 * I;
+  roots[6][3] = -0.900969 + 0.433884 * I;
+  roots[6][4] = -0.900969 - 0.433884 * I;
+  roots[6][5] = -0.222521 - 0.974928 * I;
+  roots[6][6] = 0.62349 - 0.781831 * I;
+  // roots for x^8 - 1
+  roots[7][0] = 1 + 0 * I;
+  roots[7][1] = 0.707107 + 0.707107 * I;
+  roots[7][2] = 0 + 1 * I;
+  roots[7][3] = -0.707107 + 0.707107 * I;
+  roots[7][4] = -1 + 0 * I;
+  roots[7][5] = -0.707107 - 0.707107 * I;
+  roots[7][6] = 0 - 1 * I;
+  roots[7][7] = 0.707107 - 0.707107 * I;
+  // roots for x^9 - 1
+  roots[8][0] = 1 + 0 * I;
+  roots[8][1] = 0.766044 + 0.642788 * I;
+  roots[8][2] = 0.173648 + 0.984808 * I;
+  roots[8][3] = -0.5 + 0.866025 * I;
+  roots[8][4] = -0.939693 + 0.34202 * I;
+  roots[8][5] = -0.939693 - 0.34202 * I;
+  roots[8][6] = -0.5 - 0.866025 * I;
+  roots[8][7] = 0.173648 - 0.984808 * I;
+  roots[8][8] = 0.766044 - 0.642788 * I;
 
   FILE *fp = fopen("numbers.txt", "w");
   if (fp == NULL) {
@@ -260,7 +264,7 @@ int main(int argc, char *argv[]){
   printf("\nthreads : %d\nsize : %d\ndegree_global : %d\n\n", threads, size, degree_global);
 
   const int sz = size;
-
+   
   /* float **re = (float**) malloc(sz*sizeof(float*)); */
   /* float **im = (float**) malloc(sz*sizeof(float*)); */
   float complex **z = (float complex**) malloc(sz*sizeof(float complex * ));
@@ -307,7 +311,7 @@ int main(int argc, char *argv[]){
       double real = -2.0 + i * step;
       double imag = 2.0 - j * step;
       z[i][j] = real+_Complex_I*imag;//CMPLX(real, imag);
-
+      z_global[i][j] = real+_Complex_I*imag;//CMPLX(real, imag);
       // Print the complex number using creal and cimag
       fprintf(fp, "Complex Number: %lf + j%lf\n", creal(z[i][j]), cimag(z[i][j]));
     }
@@ -335,7 +339,7 @@ int main(int argc, char *argv[]){
   for ( int tx = 0; tx < nthrds; ++tx ) {
     /* thrds_info[tx].re = (const float**) re; */
     /* thrds_info[tx].im = (const float**) im; */
-    thrds_info[tx].z = (const float complex**) z;
+    thrds_info[tx].z = (float complex**) z;
     thrds_info[tx].attr = attr;
     thrds_info[tx].iter = iter;
 
