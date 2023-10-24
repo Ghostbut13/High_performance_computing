@@ -272,11 +272,9 @@ int main(int argc, char *argv[]){
     return 1;
   }
   //
-  //char filename[26];
-  //sprintf(filename, "newton_attractors_x%d.ppm", degree_global);
   fprintf(black, "P3\n");
   fprintf(black, "%d %d \n", size, size);
-  fprintf(black,"255\n");
+  fprintf(black, "255\n");
   //
   
   for (int i = 1; i < 4; i++) {
