@@ -56,7 +56,7 @@ int write_thrd(void* args){
     int *attr_ix = attr[ix];
     int *iter_ix = iter[ix];
   
-    mtx_lock(mtx);
+    //mtx_lock(mtx);
     while(finish_flag[ix]==0){
       //thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
       //      printf("aaaaaaa\n");
@@ -70,7 +70,7 @@ int write_thrd(void* args){
       fprintf(black, "%d %d %d ", iter_ix[col]*2, iter_ix[col]*2, iter_ix[col]*2);
     }// col for loop
     fprintf(black, "\n");
-    mtx_unlock(mtx);
+    //mtx_unlock(mtx);
   }//row for loop
 
   return 0;
