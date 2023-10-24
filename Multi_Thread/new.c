@@ -266,16 +266,6 @@ int main(int argc, char *argv[]){
   roots[8][7] = 0.173648 - 0.984808 * I;
   roots[8][8] = 0.766044 - 0.642788 * I;
 
-  FILE *black = fopen("black.ppm", "w");
-  if (black == NULL) {
-    perror("Error opening the file");
-    return 1;
-  }
-  //
-  fprintf(black, "P3\n");
-  fprintf(black, "%d %d \n", size, size);
-  fprintf(black, "255\n");
-  //
   
   for (int i = 1; i < 4; i++) {
     if (sscanf(argv[i], "-t%d", &threads) == 1) {
@@ -293,6 +283,17 @@ int main(int argc, char *argv[]){
   }
   printf("\nthreads : %d\nsize : %d\ndegree_global : %d\n\n", threads, size, degree_global);
 
+  
+  FILE *black = fopen("black.ppm", "w");
+  if (black == NULL) {
+    perror("Error opening the file");
+    return 1;
+  }
+  //
+  fprintf(black, "P3\n");
+  fprintf(black, "%d %d \n", size, size);
+  fprintf(black, "255\n");
+  //
   
   const int sz = size;
   int *finish_flag = (int *)malloc(sz*sizeof(int));
