@@ -266,14 +266,14 @@ int main(int argc, char *argv[]){
   roots[8][7] = 0.173648 - 0.984808 * I;
   roots[8][8] = 0.766044 - 0.642788 * I;
 
-  FILE *black = fopen("black.txt", "w");
+  FILE *black = fopen("black.ppm", "w");
   if (black == NULL) {
     perror("Error opening the file");
     return 1;
   }
   //
-  char filename[26];
-  sprintf(filename, "newton_attractors_x%d.ppm", degree_global);
+  //char filename[26];
+  //sprintf(filename, "newton_attractors_x%d.ppm", degree_global);
   fprintf(black, "P3\n");
   fprintf(black, "%d %d \n", size, size);
   fprintf(black,"255\n");
