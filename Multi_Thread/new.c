@@ -9,57 +9,94 @@ int threads = 0;
 int size = 0;
 int degree_global = 0;
 
-float epsilon=0.0001;
-double epsilon2=0.000001;
+float epsilon=1e-3;
+double epsilon2=1e-6;
 long int upper_limit=10000000000;
 
 
 complex double roots[10][10];
-complex double z_global[size][size];
-
-
+//complex double z_global[size][size];
 
 typedef struct {
-  //data
   float complex **z;
   int **iter;
   int **attr;
-  //thread controll
   int ib;
   int istep;
   int sz;
   int tx;
-  //mtx_ cnd_
   mtx_t *mtx;
   cnd_t *cnd;
+  int *finish_flag;
 } thrd_info_t;
 
+typedef struct{
+  int **iter;
+  int **attr;
+  int sz;
+  mtx_t *mtx;
+  cnd_t *cnd;
+  //FILE *colorful;
+  FILE *black;
+  int *finish_flag;
+} thrd_write_info_t;
 
+int write_thrd(void* args){
+  const thrd_write_info_t *thrd_write_info = (thrd_write_info_t *) args;
+  int **iter =  thrd_write_info->iter;
+  int **attr =  thrd_write_info->attr;
+  int sz = thrd_write_info->sz;
+  mtx_t *mtx =  thrd_write_info->mtx;
+  cnd_t *cnd =  thrd_write_info->cnd;
+  //FILE *colorful = thrd_write_info->colorful;
+  FILE *black = thrd_write_info->black;
+  int *finish_flag = thrd_write_info->finish_flag;
+  
+  for(int ix=0; ix<sz; ix++){
+    int *attr_ix = attr[ix];
+    int *iter_ix = iter[ix];
+  
+    mtx_lock(mtx);
+    while(finish_flag[ix]==0){
+      thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
+      printf("aaaaaaa\n");
+      cnd_wait(cnd,mtx);
+    }
+        
+    //fseek(black,ix,SEEK_SET);
+      
+    for(int col=0; col<sz; col++){
+      printf("%d %d %d ", iter_ix[col], iter_ix[col], iter_ix[col]);
+      
+    }// col for loop
+
+    mtx_unlock(mtx);
+  }//row for loop
+
+  return 0;
+}
 
 int main_thrd( void *args ){
   //structure
   const thrd_info_t *thrd_info = (thrd_info_t*) args;
-  //data
   float complex **z = thrd_info->z;
   int **attr = thrd_info->attr;
   int **iter = thrd_info->iter;
-  //thread control
   const int ib = thrd_info->ib;
   const int istep = thrd_info->istep;
   const int sz = thrd_info->sz;
   const int tx = thrd_info->tx;
-  //mutex + cnd
   mtx_t *mtx = thrd_info->mtx;
   cnd_t *cnd = thrd_info->cnd;
-
-  //
+  int *finish_flag = thrd_info->finish_flag;
   int degree = degree_global;
 
 
+  
   // one row
   for ( int ix = ib; ix < sz; ix += istep ) {
     // We allocate the rows of the result before computing, and free them in another thread.
-    float complex *input = z_global[ix];
+    //    float complex *input = z_global[ix];
     float complex *zix = z[ix];
     int *attr_ix = attr[ix];
     int *iter_ix = iter[ix];
@@ -131,7 +168,7 @@ int main_thrd( void *args ){
 	  // insert further cases
 
 	default:
-	  fprintf(stderr, "unexpected degree\n");
+	  printf("unexpected degree\n");
 	  exit(1);
 	}
 
@@ -146,16 +183,19 @@ int main_thrd( void *args ){
     mtx_lock(mtx);
     iter[ix] = iter_ix;
     attr[ix] = attr_ix;
-    printf("Thread %d : ", tx);
-    for (int i = 0; i < sz; i++) {
-      printf("%lf+j%lf  ",creal(input[i]),cimag(input[i]));
-      printf("%lf+j%lf %d %d ", creal(zix[i]), cimag(zix[i]), attr_ix[i] , iter_ix[i]);
+    finish_flag[ix] = 1;
 
-      /* printf("attr : %d \n", attr_ix[i]); */
-      /* printf("iter : %d \n", iter_ix[i]); */
-    }
-    printf("\n");
-    //status[tx].val = ix + istep;
+    /* printf("Thread %d : ", tx); */
+    /* for (int i = 0; i < sz; i++) { */
+    /*   //      printf("%lf+j%lf  ",creal(input[i]),cimag(input[i])); */
+    /*   printf("%lf+j%lf %d %d ", creal(zix[i]), cimag(zix[i]), attr_ix[i] , iter_ix[i]); */
+
+    /*   /\* printf("attr : %d \n", attr_ix[i]); *\/ */
+    /*   /\* printf("iter : %d \n", iter_ix[i]); *\/ */
+    /* } */
+    /* printf("\n"); */
+    /* //status[tx].val = ix + istep; */
+
     mtx_unlock(mtx);
     cnd_signal(cnd);
 
@@ -167,7 +207,6 @@ int main_thrd( void *args ){
 
   return 0;
 }
-
 
 
 
@@ -227,24 +266,11 @@ int main(int argc, char *argv[]){
   roots[8][7] = 0.173648 - 0.984808 * I;
   roots[8][8] = 0.766044 - 0.642788 * I;
 
-  FILE *fp = fopen("numbers.txt", "w");
-  if (fp == NULL) {
+  FILE *black = fopen("black.txt", "w");
+  if (black == NULL) {
     perror("Error opening the file");
     return 1;
   }
-
-
-  /*for (int i = 0; i < size; i++) {
-    real = -2.0 + i * step;
-
-    for (int j = 0; j < size; j++) {
-    imag = -2.0 + j * step;
-
-    fprintf(fp, "Complex Number: %lf + j%lf\n", real, imag);
-    }
-    }
-
-    fclose(fp);*/ 
 
   for (int i = 1; i < 4; i++) {
     if (sscanf(argv[i], "-t%d", &threads) == 1) {
@@ -260,25 +286,18 @@ int main(int argc, char *argv[]){
       return 1;
     }
   }
-
   printf("\nthreads : %d\nsize : %d\ndegree_global : %d\n\n", threads, size, degree_global);
 
-  const int sz = size;
-   
-  /* float **re = (float**) malloc(sz*sizeof(float*)); */
-  /* float **im = (float**) malloc(sz*sizeof(float*)); */
-  float complex **z = (float complex**) malloc(sz*sizeof(float complex * ));
-  /* float **v = (float**) malloc(sz*sizeof(float*)); */
-  /* float **w = (float**) malloc(sz*sizeof(float*)); */
   
+  const int sz = size;
+  int *finish_flag = (int *)malloc(sz*sizeof(int));
+  float complex **z = (float complex**) malloc(sz*sizeof(float complex *));
   int **attr = (int**) malloc(sz*sizeof(int*));
   int **iter = (int**) malloc(sz*sizeof(int*));
-  
-  /* float *reentries = (float*) malloc(sz*sz*sizeof(float)); */
-  /* float *imentries = (float*) malloc(sz*sz*sizeof(float)); */
   float complex *zentries = (float complex*) malloc(sz*sz*sizeof(float complex));
   int *attr_entries = (int*) malloc(sz*sz*sizeof(int));
   int *iter_entries = (int*) malloc(sz*sz*sizeof(int));
+
   // The entries of attr and iter will be allocated in the computation threads are freed in the check thread.
 
   for ( int ix = 0, jx = 0; ix < sz; ++ix, jx += sz ){
@@ -292,101 +311,95 @@ int main(int argc, char *argv[]){
     zentries[ix] = 0;
   }
 
-
+  for ( int ix = 0; ix < sz; ++ix ){
+    finish_flag[ix]=0;
+  }
   
   double step = 4.0 / (sz - 1); 
   double real, imag;
-  /* for (int i = 0; i < sz; i++) { */
-  /*   //real = -2.0 + i * step; */
-  /*   for (int j = 0; j < sz; j++) { */
-  /*     //imag = -2.0 + j * step; */
-  /*     reentries[i * sz + j] = -2.0 + i * step; // not sure  */
-  /* 						    imentries[i * sz + j] = 2.0 - j * step; // about this */
-  /*     //fprintf(fp, "Complex Number: %lf + j%lf\n", reentries[i], imentries[j]); */
-  /*   } */
-  /* } */
-
   for (int i = 0; i < sz; i++) {
     for (int j = 0; j < sz; j++) {
       double real = -2.0 + i * step;
       double imag = 2.0 - j * step;
       z[i][j] = real+_Complex_I*imag;//CMPLX(real, imag);
-      z_global[i][j] = real+_Complex_I*imag;//CMPLX(real, imag);
+      //      z_global[i][j] = real+_Complex_I*imag;//CMPLX(real, imag);
       // Print the complex number using creal and cimag
-      fprintf(fp, "Complex Number: %lf + j%lf\n", creal(z[i][j]), cimag(z[i][j]));
+      //fprintf(fp, "Complex Number: %lf + j%lf\n", creal(z[i][j]), cimag(z[i][j]));
     }
   }
 
-
-  //thread create
   const int nthrds = threads;
+  //thread initial
   thrd_t thrds[nthrds];
-  //structure create
   thrd_info_t thrds_info[nthrds];
-
   
-  /* thrd_t thrd_check; */
-  /* thrd_info_check_t thrd_info_check; */
+  thrd_t thrd_write;
+  thrd_write_info_t thrd_write_info;
 
+  //mutex initial and condition initial
   mtx_t mtx;
   mtx_init(&mtx, mtx_plain);
-
   cnd_t cnd;
   cnd_init(&cnd);
 
-  //  int_padded status[nthrds];
-
+  //thread create
   for ( int tx = 0; tx < nthrds; ++tx ) {
-    /* thrds_info[tx].re = (const float**) re; */
-    /* thrds_info[tx].im = (const float**) im; */
     thrds_info[tx].z = (float complex**) z;
     thrds_info[tx].attr = attr;
     thrds_info[tx].iter = iter;
 
-    //
+    //row switching para
     thrds_info[tx].ib = tx;
     thrds_info[tx].istep = nthrds;
     thrds_info[tx].sz = sz;
     thrds_info[tx].tx = tx;
+
+    //mutex and condition
     thrds_info[tx].mtx = &mtx;
     thrds_info[tx].cnd = &cnd;
-    /* thrds_info[tx].status = status; */
-    /* status[tx].val = -1; */
 
+    //
+    thrds_info[tx].finish_flag = finish_flag;
+    
+    //create
     int r = thrd_create(thrds+tx, main_thrd, (void*) (thrds_info+tx));
     if ( r != thrd_success ) {
-      fprintf(stderr, "failed to create thread\n");
+      printf("failed to create thread\n");
       exit(1);
     }
-    thrd_detach(thrds[tx]);
+    //thrd_detach(thrds[tx]);
   }
 
-  /* { */
-  /*   thrd_info_check.re = (const float**) re; */
-  /*   thrd_info_check.im = (const float**) im; */
-  /*   thrd_info_check.z = (const float complex**) z; */
-  /*   thrd_info_check.v = (const float**) v; */
-  /*   thrd_info_check.w = w; */
-  /*   thrd_info_check.sz = sz; */
-  /*   thrd_info_check.nthrds = nthrds; */
-  /*   thrd_info_check.mtx = &mtx; */
-  /*   thrd_info_check.cnd = &cnd; */
-  /*   // It is important that we have initialize status in the previous for-loop, */
-  /*   // since it will be consumed by the check threads. */
-  /*   thrd_info_check.status = status; */
+  
+  thrd_write_info.iter=iter;
+  thrd_write_info.attr=attr;
+  thrd_write_info.sz=sz;
+  thrd_write_info.mtx=&mtx;
+  thrd_write_info.cnd=&cnd;
+  //FILE *thrd_write_info.colorful;
+  thrd_write_info.black=black;
+  thrd_write_info.finish_flag=finish_flag;
 
-  /*   int r = thrd_create(&thrd_check, main_thrd_check, (void*) (&thrd_info_check)); */
-  /*   if ( r != thrd_success ) { */
-  /*     fprintf(stderr, "failed to create thread\n"); */
-  /*     exit(1); */
-  /*   } */
-  /* } */
+  printf("sadasdad\n");
+  int x = thrd_create(&thrd_write, write_thrd, (void*) (&thrd_write_info));
+  if ( x != thrd_success ) {
+    printf("failed to create thread\n");
+    exit(1);
+  }
+  else{
+    printf("lakdlakdla\n");
+  }
 
-  /* { */
-  /*   int r; */
-  /*   thrd_join(thrd_check, &r); */
-  /* } */
 
+
+  //thread join 
+  for(int t;t<nthrds;t++){
+    thrd_join(thrds[t], NULL);
+  }
+  thrd_join(thrd_write, NULL);
+
+  
+  //free (but i dont know the atter entry and iter entry, maybe we can use them in thrad)
   free(zentries);
   free(attr_entries);
   free(iter_entries);
@@ -397,7 +410,7 @@ int main(int argc, char *argv[]){
   mtx_destroy(&mtx);
   cnd_destroy(&cnd);
 
-  fclose(fp);
+  fclose(black);
 
   return 0;
 }
