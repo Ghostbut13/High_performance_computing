@@ -58,18 +58,18 @@ int write_thrd(void* args){
   
     mtx_lock(mtx);
     while(finish_flag[ix]==0){
-      thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
-      printf("aaaaaaa\n");
+      //thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
+      //      printf("aaaaaaa\n");
       cnd_wait(cnd,mtx);
     }
         
-    //fseek(black,ix,SEEK_SET);
+    fseek(black,ix+3,SEEK_SET);
       
     for(int col=0; col<sz; col++){
-      printf("%d %d %d ", iter_ix[col], iter_ix[col], iter_ix[col]);
-      
+      //      printf("%d %d %d ", iter_ix[col]*2, iter_ix[col]*2, iter_ix[col]*2);
+      fprintf(black, "%d %d %d ", iter_ix[col]*2, iter_ix[col]*2, iter_ix[col]*2);
     }// col for loop
-
+    fprintf(black, "\n");
     mtx_unlock(mtx);
   }//row for loop
 
@@ -104,7 +104,7 @@ int main_thrd( void *args ){
     for ( int col = 0; col < sz; ++col ) {
       int conv;
       // newton's iteration
-      for ( conv = 0, attr_ix[col] = -1 ; conv<128; ++conv ) { 
+      for ( conv = 0, attr_ix[col] = -1 ; conv<127; ++conv ) { 
 	if ( creal(zix[col])*creal(zix[col])+cimag(zix[col])*cimag(zix[col]) <= 1e-6 ) {
 	  attr_ix[col] = -1;
 	  break;
@@ -271,7 +271,14 @@ int main(int argc, char *argv[]){
     perror("Error opening the file");
     return 1;
   }
-
+  //
+  char filename[26];
+  sprintf(filename, "newton_attractors_x%d.ppm", degree_global);
+  fprintf(black, "P3\n");
+  fprintf(black, "%d %d \n", size, size);
+  fprintf(black,"255\n");
+  //
+  
   for (int i = 1; i < 4; i++) {
     if (sscanf(argv[i], "-t%d", &threads) == 1) {
       //printf("Extracted value: %d\n", threads);
