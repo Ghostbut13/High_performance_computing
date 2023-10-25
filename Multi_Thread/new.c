@@ -15,7 +15,6 @@ long int upper_limit=10000000000;
 
 
 complex double roots[10][10];
-//complex double z_global[size][size];
 
 typedef struct {
   float complex **z;
@@ -36,7 +35,7 @@ typedef struct{
   int sz;
   mtx_t *mtx;
   cnd_t *cnd;
-  //FILE *colorful;
+  FILE *colorful;
   FILE *black;
   int *finish_flag;
 } thrd_write_info_t;
@@ -48,7 +47,7 @@ int write_thrd(void* args){
   int sz = thrd_write_info->sz;
   mtx_t *mtx =  thrd_write_info->mtx;
   cnd_t *cnd =  thrd_write_info->cnd;
-  //FILE *colorful = thrd_write_info->colorful;
+  FILE *colorful = thrd_write_info->colorful;
   FILE *black = thrd_write_info->black;
   int *finish_flag = thrd_write_info->finish_flag;
   
@@ -58,25 +57,62 @@ int write_thrd(void* args){
   
     mtx_lock(mtx);
     while(finish_flag[ix]==0){
-      //thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
-      //      printf("aaaaaaa\n");
       cnd_wait(cnd,mtx);
     }
         
-    //    fseek(black,ix+3,SEEK_SET);
-      
     for(int col=0; col<sz; col++){
-      //      printf("%d %d %d ", iter_ix[col]*2, iter_ix[col]*2, iter_ix[col]*2);
       fprintf(black, "%d %d %d ", iter_ix[col]*2, iter_ix[col]*2, iter_ix[col]*2);
-    }// col for loop
+      switch(attr_ix[col]){
+      case 0:
+	fprintf(colorful, "%d %d %d ",180 ,0 ,30 );
+	break;
+      case 1:
+	fprintf(colorful, "%d %d %d ",0 ,180 ,30 );
+	break;
+      case 2:
+	fprintf(colorful, "%d %d %d ",0 ,30 ,80 );
+	break;
+      case 3:
+	fprintf(colorful, "%d %d %d ",0 ,190 ,180 );
+	break;
+      case 4:
+	fprintf(colorful, "%d %d %d ",180 ,0 ,175 );
+	break;
+      case 5:
+	fprintf(colorful, "%d %d %d ",180 ,255 ,0 );
+	break;
+      case 6:
+	fprintf(colorful, "%d %d %d ",155 ,170 ,180 );
+	break;
+      case 7:
+	fprintf(colorful, "%d %d %d ",70 ,50 ,0 );
+	break;
+      case 8:
+	fprintf(colorful, "%d %d %d ",150 ,60 ,0 );
+	break;
+      case 9:
+	fprintf(colorful, "%d %d %d ",0 ,150 ,60 );
+	break;
+      default://maybe we need think about attr_ix[col]=-1 or not
+	break;
+      }
+    }
     fprintf(black, "\n");
+    fprintf(colorful, "\n");
     mtx_unlock(mtx);
-  }//row for loop
+  }
 
   return 0;
 }
 
+
+
+
+
+
+
 int main_thrd( void *args ){
+  //------------------------------
   //structure
   const thrd_info_t *thrd_info = (thrd_info_t*) args;
   float complex **z = thrd_info->z;
@@ -91,18 +127,16 @@ int main_thrd( void *args ){
   int *finish_flag = thrd_info->finish_flag;
   int degree = degree_global;
 
-
-  
+  //------------------------------
   // one row
   for ( int ix = ib; ix < sz; ix += istep ) {
-    // We allocate the rows of the result before computing, and free them in another thread.
-    //    float complex *input = z_global[ix];
     float complex *zix = z[ix];
     int *attr_ix = attr[ix];
     int *iter_ix = iter[ix];
     
     for ( int col = 0; col < sz; ++col ) {
       int conv;
+      //------------------------------
       // newton's iteration
       for ( conv = 0, attr_ix[col] = -1 ; conv<127; ++conv ) { 
 	if ( creal(zix[col])*creal(zix[col])+cimag(zix[col])*cimag(zix[col]) <= 1e-6 ) {
@@ -122,7 +156,7 @@ int main_thrd( void *args ){
 	if ( attr_ix[col] != -1 )
 	  break;
 
-	
+	//------------------------------
 	// computation
 	switch ( degree ) {
 	case 1:
@@ -166,25 +200,20 @@ int main_thrd( void *args ){
 	  zix[col]=zix[col]-(( zix[col] * zix[col] * zix[col] * zix[col] * zix[col] * zix[col] * zix[col] * zix[col] * zix[col] *zix[col]-1)/    (10  *zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]*zix[col]));
 	  break;
 	  // insert further cases
-
 	default:
 	  printf("unexpected degree\n");
 	  exit(1);
 	}
-
-	
       }// newton iter loop end
-      
       iter_ix[col]=conv;
-
     }// column loop end
 
     
+    //------------------------------
     mtx_lock(mtx);
     iter[ix] = iter_ix;
     attr[ix] = attr_ix;
     finish_flag[ix] = 1;
-
     /* printf("Thread %d : ", tx); */
     /* for (int i = 0; i < sz; i++) { */
     /*   //      printf("%lf+j%lf  ",creal(input[i]),cimag(input[i])); */
@@ -195,10 +224,10 @@ int main_thrd( void *args ){
     /* } */
     /* printf("\n"); */
     /* //status[tx].val = ix + istep; */
-
     mtx_unlock(mtx);
     cnd_signal(cnd);
 
+    
     // In order to illustrate thrd_sleep and to force more synchronization
     // points, we sleep after each line for one micro seconds.
     thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
@@ -210,7 +239,10 @@ int main_thrd( void *args ){
 
 
 
+
+
 int main(int argc, char *argv[]){
+  //------------------------------
   // roots for x - 1
   roots[0][0] = 1 + 0 * I;
   // roots for x^2 - 1
@@ -266,7 +298,8 @@ int main(int argc, char *argv[]){
   roots[8][7] = 0.173648 - 0.984808 * I;
   roots[8][8] = 0.766044 - 0.642788 * I;
 
-  
+  //------------------------------
+  //read date from shell
   for (int i = 1; i < 4; i++) {
     if (sscanf(argv[i], "-t%d", &threads) == 1) {
       //printf("Extracted value: %d\n", threads);
@@ -283,18 +316,23 @@ int main(int argc, char *argv[]){
   }
   printf("\nthreads : %d\nsize : %d\ndegree_global : %d\n\n", threads, size, degree_global);
 
-  
+  //------------------------------
+  //file
   FILE *black = fopen("black.ppm", "w");
-  if (black == NULL) {
+  FILE *colorful = fopen("colorful.ppm", "w");
+  if (black == NULL || black == NULL) {
     perror("Error opening the file");
     return 1;
   }
-  //
   fprintf(black, "P3\n");
   fprintf(black, "%d %d \n", size, size);
   fprintf(black, "255\n");
-  //
+  fprintf(colorful, "P3\n");
+  fprintf(colorful, "%d %d \n", size, size);
+  fprintf(colorful, "255\n");
+
   
+  //------------------------------
   const int sz = size;
   int *finish_flag = (int *)malloc(sz*sizeof(int));
   float complex **z = (float complex**) malloc(sz*sizeof(float complex *));
@@ -316,11 +354,12 @@ int main(int argc, char *argv[]){
     iter_entries[ix] = 0;
     zentries[ix] = 0;
   }
-
   for ( int ix = 0; ix < sz; ++ix ){
     finish_flag[ix]=0;
   }
-  
+
+  //------------------------------
+  //initialize
   double step = 4.0 / (sz - 1); 
   double real, imag;
   for (int i = 0; i < sz; i++) {
@@ -328,14 +367,12 @@ int main(int argc, char *argv[]){
       double real = -2.0 + i * step;
       double imag = 2.0 - j * step;
       z[i][j] = real+_Complex_I*imag;//CMPLX(real, imag);
-      //      z_global[i][j] = real+_Complex_I*imag;//CMPLX(real, imag);
-      // Print the complex number using creal and cimag
-      //fprintf(fp, "Complex Number: %lf + j%lf\n", creal(z[i][j]), cimag(z[i][j]));
-    }
+      }
   }
 
-  const int nthrds = threads;
+  //------------------------------
   //thread initial
+  const int nthrds = threads;
   thrd_t thrds[nthrds];
   thrd_info_t thrds_info[nthrds];
   
@@ -348,7 +385,8 @@ int main(int argc, char *argv[]){
   cnd_t cnd;
   cnd_init(&cnd);
 
-  //thread create
+  //------------------------------
+  //computation thread create
   for ( int tx = 0; tx < nthrds; ++tx ) {
     thrds_info[tx].z = (float complex**) z;
     thrds_info[tx].attr = attr;
@@ -376,35 +414,33 @@ int main(int argc, char *argv[]){
     //thrd_detach(thrds[tx]);
   }
 
-  
-  thrd_write_info.iter=iter;
-  thrd_write_info.attr=attr;
-  thrd_write_info.sz=sz;
-  thrd_write_info.mtx=&mtx;
-  thrd_write_info.cnd=&cnd;
-  //FILE *thrd_write_info.colorful;
-  thrd_write_info.black=black;
-  thrd_write_info.finish_flag=finish_flag;
+  //------------------------------
+  //write thread create
+  thrd_write_info.iter = iter;
+  thrd_write_info.attr = attr;
+  thrd_write_info.sz   = sz;
+  thrd_write_info.mtx  = &mtx;
+  thrd_write_info.cnd  = &cnd;
+  thrd_write_info.colorful = colorful;
+  thrd_write_info.black    = black;
+  thrd_write_info.finish_flag = finish_flag;
 
-  printf("sadasdad\n");
   int x = thrd_create(&thrd_write, write_thrd, (void*) (&thrd_write_info));
   if ( x != thrd_success ) {
     printf("failed to create thread\n");
     exit(1);
   }
-  else{
-    printf("lakdlakdla\n");
-  }
 
 
-
+  //------------------------------
   //thread join 
   for(int t;t<nthrds;t++){
     thrd_join(thrds[t], NULL);
   }
   thrd_join(thrd_write, NULL);
 
-  
+
+  //------------------------------
   //free (but i dont know the atter entry and iter entry, maybe we can use them in thrad)
   free(zentries);
   free(attr_entries);
@@ -417,6 +453,7 @@ int main(int argc, char *argv[]){
   cnd_destroy(&cnd);
 
   fclose(black);
+  fclose(colorful);
 
   return 0;
 }
