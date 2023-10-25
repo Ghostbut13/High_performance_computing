@@ -94,6 +94,7 @@ int write_thrd(void* args){
 	fprintf(colorful, "%d %d %d ",0 ,150 ,60 );
 	break;
       default://maybe we need think about attr_ix[col]=-1 or not
+	fprintf(colorful, "%d %d %d ",255 ,255 ,255 );
 	break;
       }
     }
