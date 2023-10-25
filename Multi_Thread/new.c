@@ -63,7 +63,7 @@ int write_thrd(void* args){
   for(int ix=0; ix<sz; ix++){
     int *attr_ix = attr[ix];
     int *iter_ix = iter[ix];
-  
+    
     mtx_lock(mtx);
     while(finish_flag[ix]==0){
       cnd_wait(cnd,mtx);
@@ -73,37 +73,39 @@ int write_thrd(void* args){
       fprintf(black, "%d %d %d ", iter_ix[col]*2, iter_ix[col]*2, iter_ix[col]*2);
       switch(attr_ix[col]){
       case 0:
-	fprintf(colorful, "%d %d %d ",180 ,0 ,30 );
+	//fprintf(colorful, "%d %d %d ",180 ,0 ,30 );
+	//char str[]="180 000 030 ";
+	//fwrite(str,sizeof(str),1,colorful);
 	break;
       case 1:
-	fprintf(colorful, "%d %d %d ",0 ,180 ,30 );
+	//fprintf(colorful, "%d %d %d ",0 ,180 ,30 );
 	break;
       case 2:
-	fprintf(colorful, "%d %d %d ",0 ,30 ,80 );
+	//fprintf(colorful, "%d %d %d ",0 ,30 ,80 );
 	break;
       case 3:
-	fprintf(colorful, "%d %d %d ",0 ,190 ,180 );
+	//fprintf(colorful, "%d %d %d ",0 ,190 ,180 );
 	break;
       case 4:
-	fprintf(colorful, "%d %d %d ",180 ,0 ,175 );
+	//fprintf(colorful, "%d %d %d ",180 ,0 ,175 );
 	break;
       case 5:
-	fprintf(colorful, "%d %d %d ",180 ,255 ,0 );
+	//fprintf(colorful, "%d %d %d ",180 ,255 ,0 );
 	break;
       case 6:
-	fprintf(colorful, "%d %d %d ",155 ,170 ,180 );
+	//fprintf(colorful, "%d %d %d ",155 ,170 ,180 );
 	break;
       case 7:
-	fprintf(colorful, "%d %d %d ",70 ,50 ,0 );
+	//fprintf(colorful, "%d %d %d ",70 ,50 ,0 );
 	break;
       case 8:
-	fprintf(colorful, "%d %d %d ",150 ,60 ,0 );
+	//fprintf(colorful, "%d %d %d ",150 ,60 ,0 );
 	break;
       case 9:
-	fprintf(colorful, "%d %d %d ",0 ,150 ,60 );
+	//fprintf(colorful, "%d %d %d ",0 ,150 ,60 );
 	break;
       default://about attr_ix[col]=-1
-	fprintf(colorful, "%d %d %d ",255 ,255 ,255 );
+	//fprintf(colorful, "%d %d %d ",255 ,255 ,255 );
 	break;
       }
     }
@@ -112,12 +114,12 @@ int write_thrd(void* args){
     mtx_unlock(mtx);
   }
 
-	clock_gettime(CLOCK_MONOTONIC, &finish);
-	elapsed = (finish.tv_sec - start.tv_sec);
-	elapsed += (finish.tv_nsec - start.tv_nsec) / 1000000000.0;
-
-	printf("It took %f seconds to write to files\n", elapsed);
-
+  clock_gettime(CLOCK_MONOTONIC, &finish);
+  elapsed = (finish.tv_sec - start.tv_sec);
+  elapsed += (finish.tv_nsec - start.tv_nsec) / 1000000000.0;
+  
+  printf("It took %f seconds to write to files\n", elapsed);
+	
   return 0;
 }
 
