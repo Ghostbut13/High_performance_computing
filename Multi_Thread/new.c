@@ -4,6 +4,7 @@
 #include <string.h>
 #include <threads.h>
 #include <complex.h>
+#include <time.h>
 
 int threads = 0;
 int size = 0;
@@ -13,6 +14,8 @@ float epsilon=1e-3;
 double epsilon2=1e-6;
 long int upper_limit=10000000000;
 
+struct timespec start, finish;
+double elapsed;
 
 complex double roots[10][10];
 
@@ -40,6 +43,10 @@ typedef struct{
   int *finish_flag;
 } thrd_write_info_t;
 
+
+
+
+
 int write_thrd(void* args){
   const thrd_write_info_t *thrd_write_info = (thrd_write_info_t *) args;
   int **iter =  thrd_write_info->iter;
@@ -50,6 +57,8 @@ int write_thrd(void* args){
   FILE *colorful = thrd_write_info->colorful;
   FILE *black = thrd_write_info->black;
   int *finish_flag = thrd_write_info->finish_flag;
+
+	clock_gettime(CLOCK_MONOTONIC, &start);
   
   for(int ix=0; ix<sz; ix++){
     int *attr_ix = attr[ix];
@@ -103,10 +112,14 @@ int write_thrd(void* args){
     mtx_unlock(mtx);
   }
 
+	clock_gettime(CLOCK_MONOTONIC, &finish);
+	elapsed = (finish.tv_sec - start.tv_sec);
+	elapsed += (finish.tv_nsec - start.tv_nsec) / 1000000000.0;
+
+	printf("It took %f seconds to write to files\n", elapsed);
+
   return 0;
 }
-
-
 
 
 
@@ -231,7 +244,7 @@ int main_thrd( void *args ){
     
     // In order to illustrate thrd_sleep and to force more synchronization
     // points, we sleep after each line for one micro seconds.
-    thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
+    //thrd_sleep(&(struct timespec){.tv_sec=0, .tv_nsec=1000}, NULL);
     
   }// row in thread
 
@@ -307,7 +320,7 @@ int main(int argc, char *argv[]){
     } else if (sscanf(argv[i], "-l%d", &size) == 1) {
       //printf("Extracted value: %d\n", size);
     }
-    else if (sscanf(argv[i], "-d%d", &degree_global) == 1) {
+    else if (sscanf(argv[i], " %d", &degree_global) == 1) {
       //printf("Extracted value: %d\n", degree_global);
     }
     else {
@@ -459,3 +472,4 @@ int main(int argc, char *argv[]){
   return 0;
 }
  
+
