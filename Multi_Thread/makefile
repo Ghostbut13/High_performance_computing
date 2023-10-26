@@ -1,7 +1,7 @@
 
 opt = O2
 CC = gcc
-#CFLAG = -Wall -g -$(opt) -fopenmp -lm
+CFLAG = -Wall -g -$(opt) -lm -lpthread
 
 SRC=newton
 
@@ -11,7 +11,9 @@ clean:
 	rm ./$(SRC)
 	touch *.ppm
 	rm ./*.ppm
+	touch *.png
+	rm ./*.png
 
 $(SRC): $(SRC).c
-	$(CC) $< -o $@
+	$(CC) $(CFLAG) $< -o $@ 
 
